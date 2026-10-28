@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "thcpl-p1-A-1",
+    "rank": "A",
+    "page": 1,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 1,
+    "title": "International Symposium on Computer Architecture",
+    "acronym": "ISCA"
+  },
+  {
+    "id": "thcpl-p1-A-2",
+    "rank": "A",
+    "page": 1,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 2,
+    "title": "USENIX Conference on File and Storage Technologies",
+    "acronym": "FAST"
+  },
+  {
+    "id": "thcpl-p2-A-3",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 3,
+    "title": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "acronym": "ASPLOS"
+  },
+  {
+    "id": "thcpl-p2-A-4",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 4,
+    "title": "European Conference on Computer Systems",
+    "acronym": "EuroSys"
+  },
+  {
+    "id": "thcpl-p2-A-5",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 5,
+    "title": "International Symposium on High-Performance Computer Architecture",
+    "acronym": "HPCA"
+  },
+  {
+    "id": "thcpl-p2-A-6",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 6,
+    "title": "International Conference on Measurement and Modeling of Computer Systems",
+    "acronym": "SIGMETRICS"
+  },
+  {
+    "id": "thcpl-p2-A-7",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 7,
+    "title": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+    "acronym": "FPGA"
+  },
+  {
+    "id": "thcpl-p2-A-8",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 8,
+    "title": "USENIX Annul Technical Conference",
+    "acronym": "USENIX ATC"
+  },
+  {
+    "id": "thcpl-p2-A-9",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 9,
+    "title": "IEEE/ACM International Symposium on Microarchitecture",
+    "acronym": "MICRO"
+  },
+  {
+    "id": "thcpl-p2-A-10",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 10,
+    "title": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+    "acronym": "SC"
+  },
+  {
+    "id": "thcpl-p2-A-11",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 11,
+    "title": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+    "acronym": "PPoPP"
+  },
+  {
+    "id": "thcpl-p2-A-12",
+    "rank": "A",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 12,
+    "title": "Design Automation Conference",
+    "acronym": "DAC"
+  },
+  {
+    "id": "thcpl-p2-B-1",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 1,
+    "title": "International Symposium on High Performance Distributed Computing",
+    "acronym": "HPDC"
+  },
+  {
+    "id": "thcpl-p2-B-2",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 2,
+    "title": "ACM Symposium on Cloud Computing",
+    "acronym": "SoCC"
+  },
+  {
+    "id": "thcpl-p2-B-3",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 3,
+    "title": "Real-Time and Embedded Technology and Applications Symposium",
+    "acronym": "RTAS"
+  },
+  {
+    "id": "thcpl-p2-B-4",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 4,
+    "title": "Mass Storage Systems and Technologies",
+    "acronym": "MSST"
+  },
+  {
+    "id": "thcpl-p2-B-5",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 5,
+    "title": "ACM/IEEE International Symposium on Code Generation and Optimization",
+    "acronym": "CGO"
+  },
+  {
+    "id": "thcpl-p2-B-6",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 6,
+    "title": "International Conference on Parallel Architectures and Compilation Techniques",
+    "acronym": "PACT"
+  },
+  {
+    "id": "thcpl-p2-B-7",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 7,
+    "title": "International Conference on Hardware/Software Co-design and System Synthesis",
+    "acronym": "CODES+ISSS"
+  },
+  {
+    "id": "thcpl-p2-B-8",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 8,
+    "title": "ACM Symposium on Principles of Distributed Computing",
+    "acronym": "PODC"
+  },
+  {
+    "id": "thcpl-p2-B-9",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 9,
+    "title": "International Conference on Virtual Execution Environments",
+    "acronym": "VEE"
+  },
+  {
+    "id": "thcpl-p2-B-10",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 10,
+    "title": "International Parallel & Distributed Processing Symposium",
+    "acronym": "IPDPS"
+  },
+  {
+    "id": "thcpl-p2-B-11",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 11,
+    "title": "International Conference on Supercomputing",
+    "acronym": "ICS"
+  },
+  {
+    "id": "thcpl-p2-B-12",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 12,
+    "title": "Design, Automation & Test in Europe Conference",
+    "acronym": "DATE"
+  },
+  {
+    "id": "thcpl-p2-B-13",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 13,
+    "title": "ACM Symposium on Parallelism in Algorithms and Architectures",
+    "acronym": "SPAA"
+  },
+  {
+    "id": "thcpl-p2-B-14",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 14,
+    "title": "International Symposium on Computer Performance, Modeling, Measurements and Evaluation",
+    "acronym": "Performance"
+  },
+  {
+    "id": "thcpl-p2-B-15",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 15,
+    "title": "International Conference on Distributed Computing Systems",
+    "acronym": "ICDCS"
+  },
+  {
+    "id": "thcpl-p2-B-16",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 16,
+    "title": "International Conference on Computer-Aided Design",
+    "acronym": "ICCAD"
+  },
+  {
+    "id": "thcpl-p2-B-17",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 17,
+    "title": "IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",
+    "acronym": "CCGRID"
+  },
+  {
+    "id": "thcpl-p2-B-18",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 18,
+    "title": "Hot Chips: A Symposium on High Performance Chips",
+    "acronym": "HOT CHIPS"
+  },
+  {
+    "id": "thcpl-p2-B-19",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 19,
+    "title": "IEEE International Conference on Cluster Computing",
+    "acronym": "CLUSTER"
+  },
+  {
+    "id": "thcpl-p2-B-20",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 20,
+    "title": "Asia and South Pacific Design Automation Conference",
+    "acronym": "ASP-DAC"
+  },
+  {
+    "id": "thcpl-p2-B-21",
+    "rank": "B",
+    "page": 2,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 21,
+    "title": "International Symposium on Low Power Electronics and Design",
+    "acronym": "ISLPED"
+  },
+  {
+    "id": "thcpl-p3-B-22",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 22,
+    "title": "IEEE International Conference on Cloud Computing",
+    "acronym": ""
+  },
+  {
+    "id": "thcpl-p3-B-23",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 23,
+    "title": "Real-Time Systems Symposium",
+    "acronym": "RTSS"
+  },
+  {
+    "id": "thcpl-p3-B-24",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 24,
+    "title": "International Conference on Computer Design",
+    "acronym": "ICCD"
+  },
+  {
+    "id": "thcpl-p3-B-25",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 25,
+    "title": "International Symposium on Circuits and Systems",
+    "acronym": "ISCAS"
+  },
+  {
+    "id": "thcpl-p3-B-26",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 26,
+    "title": "International Symposium on Physical Design",
+    "acronym": "ISPD"
+  },
+  {
+    "id": "thcpl-p3-B-27",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 27,
+    "title": "International Conference on Parallel Processing",
+    "acronym": "ICPP"
+  },
+  {
+    "id": "thcpl-p3-B-28",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 28,
+    "title": "IEEE International Electron Devices Meeting",
+    "acronym": "IEDM"
+  },
+  {
+    "id": "thcpl-p3-B-29",
+    "rank": "B",
+    "page": 3,
+    "area": "（一）高性能计算（High Performance Computing）",
+    "number": 29,
+    "title": "International Solid-State Circuits Conference",
+    "acronym": "ISSCC"
+  },
+  {
+    "id": "thcpl-p3-A-1",
+    "rank": "A",
+    "page": 3,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 1,
+    "title": "ACM International Conference on the applications, technologies, architectures, and protocols for computer communication",
+    "acronym": "SIGCOMM"
+  },
+  {
+    "id": "thcpl-p3-A-2",
+    "rank": "A",
+    "page": 3,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 2,
+    "title": "Symposium on Network System Design and Implementation",
+    "acronym": "NSDI"
+  },
+  {
+    "id": "thcpl-p3-A-3",
+    "rank": "A",
+    "page": 3,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 3,
+    "title": "ACM International Conference on Mobile Computing and Networking",
+    "acronym": "MOBICOM"
+  },
+  {
+    "id": "thcpl-p4-A-4",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 4,
+    "title": "International Conference on Mobile Systems, Applications, and Services",
+    "acronym": "MobiSys"
+  },
+  {
+    "id": "thcpl-p4-A-5",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 5,
+    "title": "Internet Measurement Conference",
+    "acronym": "IMC"
+  },
+  {
+    "id": "thcpl-p4-A-6",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 6,
+    "title": "International Conference on Information Processing in Sensor Networks",
+    "acronym": "IPSN"
+  },
+  {
+    "id": "thcpl-p4-A-7",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 7,
+    "title": "ACM Conference on Embedded Networked Sensor Systems",
+    "acronym": "SenSys"
+  },
+  {
+    "id": "thcpl-p4-A-8",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 8,
+    "title": "IEEE International Conference on Computer Communications",
+    "acronym": "INFOCOM"
+  },
+  {
+    "id": "thcpl-p4-A-9",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 9,
+    "title": "ACM International Conference on Emerging Networking Experiments and Technologies",
+    "acronym": "CoNEXT"
+  },
+  {
+    "id": "thcpl-p4-A-10",
+    "rank": "A",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 10,
+    "title": "International Conference on Network Protocols",
+    "acronym": "ICNP"
+  },
+  {
+    "id": "thcpl-p4-B-1",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 1,
+    "title": "International Symposium on Mobile Ad Hoc Networking and Computing",
+    "acronym": "MobiHoc"
+  },
+  {
+    "id": "thcpl-p4-B-2",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 2,
+    "title": "The Workshop on Hot Topics in Networks",
+    "acronym": "HotNets"
+  },
+  {
+    "id": "thcpl-p4-B-3",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 3,
+    "title": "IEEE Global Communications Conference",
+    "acronym": "Globecom"
+  },
+  {
+    "id": "thcpl-p4-B-4",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 4,
+    "title": "IEEE International Conference on Communications",
+    "acronym": "ICC"
+  },
+  {
+    "id": "thcpl-p4-B-5",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 5,
+    "title": "International Workshop on Network and Operating System Support for Digital Audio and Video",
+    "acronym": "NOSSDAV"
+  },
+  {
+    "id": "thcpl-p4-B-6",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 6,
+    "title": "IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks",
+    "acronym": "SECON"
+  },
+  {
+    "id": "thcpl-p4-B-7",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 7,
+    "title": "IFIP International Conferences on Networking",
+    "acronym": "Networking"
+  },
+  {
+    "id": "thcpl-p4-B-8",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 8,
+    "title": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+    "acronym": "WoWMoM"
+  },
+  {
+    "id": "thcpl-p4-B-9",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 9,
+    "title": "IEEE Wireless Communications & Networking Conference",
+    "acronym": "WCNC"
+  },
+  {
+    "id": "thcpl-p4-B-10",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 10,
+    "title": "Architectures for Networking and Communications Systems",
+    "acronym": "ANCS"
+  },
+  {
+    "id": "thcpl-p4-B-11",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 11,
+    "title": "International Workshop on Quality of Service",
+    "acronym": "IWQoS"
+  },
+  {
+    "id": "thcpl-p4-B-12",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 12,
+    "title": "The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks",
+    "acronym": "WiOpt"
+  },
+  {
+    "id": "thcpl-p4-B-13",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 13,
+    "title": "ACM Conference on Information Centric Networking",
+    "acronym": "ICN"
+  },
+  {
+    "id": "thcpl-p4-B-14",
+    "rank": "B",
+    "page": 4,
+    "area": "（二） 计算机网络（Computer Networks                                     ）",
+    "number": 14,
+    "title": "International Conference on Network and Service Management",
+    "acronym": "CNSM"
+  },
+  {
+    "id": "thcpl-p5-A-1",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 1,
+    "title": "IEEE Symposium on Security and Privacy",
+    "acronym": "S&P"
+  },
+  {
+    "id": "thcpl-p5-A-2",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 2,
+    "title": "ISOC Network and Distributed System Security Symposium",
+    "acronym": "NDSS"
+  },
+  {
+    "id": "thcpl-p5-A-3",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 3,
+    "title": "Usenix Security Symposium",
+    "acronym": "USENIX Security"
+  },
+  {
+    "id": "thcpl-p5-A-4",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 4,
+    "title": "ACM Conference on Computer and Communications Security",
+    "acronym": "CCS"
+  },
+  {
+    "id": "thcpl-p5-A-5",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 5,
+    "title": "European Cryptology Conference",
+    "acronym": "EUROCRYPT"
+  },
+  {
+    "id": "thcpl-p5-A-6",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 6,
+    "title": "International Cryptology Conference",
+    "acronym": "CRYPTO"
+  },
+  {
+    "id": "thcpl-p5-A-7",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 7,
+    "title": "International Conference on Cryptographic Hardware and Embedded Systems",
+    "acronym": "CHES"
+  },
+  {
+    "id": "thcpl-p5-A-8",
+    "rank": "A",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 8,
+    "title": "International Conference on the Theory and Application of Cryptology and Information Security",
+    "acronym": "ASIACRYPT"
+  },
+  {
+    "id": "thcpl-p5-B-1",
+    "rank": "B",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 1,
+    "title": "Symposium On Usable Privacy and Security",
+    "acronym": "SOUPS"
+  },
+  {
+    "id": "thcpl-p5-B-2",
+    "rank": "B",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 2,
+    "title": "Financial Cryptography and Data Security",
+    "acronym": "FC"
+  },
+  {
+    "id": "thcpl-p5-B-3",
+    "rank": "B",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 3,
+    "title": "Privacy Enhancing Technologies Symposium",
+    "acronym": "PETS"
+  },
+  {
+    "id": "thcpl-p5-B-4",
+    "rank": "B",
+    "page": 5,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 4,
+    "title": "Theory of Cryptography Conference",
+    "acronym": "TCC"
+  },
+  {
+    "id": "thcpl-p6-B-5",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 5,
+    "title": "International Workshop on Practice and Theory in Public Key Cryptography",
+    "acronym": "PKC"
+  },
+  {
+    "id": "thcpl-p6-B-6",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 6,
+    "title": "Detection of Intrusions and Malware & Vulnerability Assessment",
+    "acronym": "DIMVA"
+  },
+  {
+    "id": "thcpl-p6-B-7",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 7,
+    "title": "IEEE Computer Security Foundations Workshop",
+    "acronym": "CSFW"
+  },
+  {
+    "id": "thcpl-p6-B-8",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 8,
+    "title": "Fast Software Encryption",
+    "acronym": "FSE"
+  },
+  {
+    "id": "thcpl-p6-B-9",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 9,
+    "title": "European Symposium on Research in Computer Security",
+    "acronym": "ESORICS"
+  },
+  {
+    "id": "thcpl-p6-B-10",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 10,
+    "title": "The International Conference on Dependable Systems and Networks",
+    "acronym": "DSN"
+  },
+  {
+    "id": "thcpl-p6-B-11",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 11,
+    "title": "International Symposium on Recent Advances in Intrusion Detection",
+    "acronym": "RAID"
+  },
+  {
+    "id": "thcpl-p6-B-12",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 12,
+    "title": "IFIP/IEEE International Symposium on Integrated Network Management",
+    "acronym": "IM"
+  },
+  {
+    "id": "thcpl-p6-B-13",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 13,
+    "title": "Cryptographer's Track at RSA Conference",
+    "acronym": "CT-RSA"
+  },
+  {
+    "id": "thcpl-p6-B-14",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 14,
+    "title": "Annual Computer Security Applications Conference",
+    "acronym": "ACSAC"
+  },
+  {
+    "id": "thcpl-p6-B-15",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 15,
+    "title": "Passive and Active Network Measurement Conference",
+    "acronym": "PAM"
+  },
+  {
+    "id": "thcpl-p6-B-16",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 16,
+    "title": "Selected Areas in Cryptography",
+    "acronym": "SAC"
+  },
+  {
+    "id": "thcpl-p6-B-17",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 17,
+    "title": "Asia Conference on Computer and Communications Security",
+    "acronym": "AsiaCCS"
+  },
+  {
+    "id": "thcpl-p6-B-18",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 18,
+    "title": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+    "acronym": "WiSec"
+  },
+  {
+    "id": "thcpl-p6-B-19",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 19,
+    "title": "Applied Cryptography and Network Security",
+    "acronym": "ACNS"
+  },
+  {
+    "id": "thcpl-p6-B-20",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 20,
+    "title": "ACM Workshop on Information Hiding and Multimedia Security",
+    "acronym": "IH&MMSec"
+  },
+  {
+    "id": "thcpl-p6-B-21",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 21,
+    "title": "IFIP International Information Security Conference",
+    "acronym": "SEC"
+  },
+  {
+    "id": "thcpl-p6-B-22",
+    "rank": "B",
+    "page": 6,
+    "area": "（三） 网络与信息安全（Network and Information Security）",
+    "number": 22,
+    "title": "IEEE/IFIP Network Operations and Management Symposium",
+    "acronym": "NOMS"
+  },
+  {
+    "id": "thcpl-p7-A-1",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 1,
+    "title": "ACM Symposium on the Theory of Computing",
+    "acronym": "STOC"
+  },
+  {
+    "id": "thcpl-p7-A-2",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 2,
+    "title": "IEEE Annual Symposium on Foundations of Computer Science",
+    "acronym": "FOCS"
+  },
+  {
+    "id": "thcpl-p7-A-3",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 3,
+    "title": "ACM-SIAM Symposium on Discrete Algorithms",
+    "acronym": "SODA"
+  },
+  {
+    "id": "thcpl-p7-A-4",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 4,
+    "title": "Computer Aided Verification",
+    "acronym": "CAV"
+  },
+  {
+    "id": "thcpl-p7-A-5",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 5,
+    "title": "IEEE Symposium on Logic in Computer Science",
+    "acronym": "LICS"
+  },
+  {
+    "id": "thcpl-p7-A-6",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 6,
+    "title": "IEEE Conference on Computational Complexity",
+    "acronym": "CCC"
+  },
+  {
+    "id": "thcpl-p7-A-7",
+    "rank": "A",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 7,
+    "title": "International Colloquium on Automata, Languages and Programming",
+    "acronym": "ICALP"
+  },
+  {
+    "id": "thcpl-p7-B-1",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 1,
+    "title": "Theory and Applications of Satisfiability Testing",
+    "acronym": "SAT"
+  },
+  {
+    "id": "thcpl-p7-B-2",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 2,
+    "title": "International Conference on Automated Deduction/International Joint Conference on Automated Reasoning",
+    "acronym": "CADE/IJCAR"
+  },
+  {
+    "id": "thcpl-p7-B-3",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 3,
+    "title": "ACM Symposium on Computational Geometry",
+    "acronym": "SoCG"
+  },
+  {
+    "id": "thcpl-p7-B-4",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 4,
+    "title": "International Conference on Concurrency Theory",
+    "acronym": "CONCUR"
+  },
+  {
+    "id": "thcpl-p7-B-5",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 5,
+    "title": "Symposium on Theoretical Aspects of Computer Science",
+    "acronym": "STACS"
+  },
+  {
+    "id": "thcpl-p7-B-6",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 6,
+    "title": "European Symposium on Algorithms",
+    "acronym": "ESA"
+  },
+  {
+    "id": "thcpl-p7-B-7",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 7,
+    "title": "Computer Science Logic",
+    "acronym": "CSL"
+  },
+  {
+    "id": "thcpl-p7-B-8",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 8,
+    "title": "Formal Methods in Computer-Aided Design",
+    "acronym": "FMCAD"
+  },
+  {
+    "id": "thcpl-p7-B-9",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 9,
+    "title": "Innovations in Theoretical Computer Science",
+    "acronym": "ITCS/ICS"
+  },
+  {
+    "id": "thcpl-p7-B-10",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 10,
+    "title": "Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms and Data Structures Symposium",
+    "acronym": "SWAT/WADS"
+  },
+  {
+    "id": "thcpl-p7-B-11",
+    "rank": "B",
+    "page": 7,
+    "area": "（四） 理论计算机科学（Theoretical Computer Science）",
+    "number": 11,
+    "title": "IEEE International Symposium on Information Theory",
+    "acronym": "ISIT"
+  },
+  {
+    "id": "thcpl-p8-A-1",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 1,
+    "title": "USENIX Symposium on Operating Systems Design and Implementations",
+    "acronym": "OSDI"
+  },
+  {
+    "id": "thcpl-p8-A-2",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 2,
+    "title": "International Conference on Software Engineering",
+    "acronym": "ICSE"
+  },
+  {
+    "id": "thcpl-p8-A-3",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 3,
+    "title": "ACM Symposium on Operating Systems Principles",
+    "acronym": "SOSP"
+  },
+  {
+    "id": "thcpl-p8-A-4",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 4,
+    "title": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+    "acronym": "POPL"
+  },
+  {
+    "id": "thcpl-p8-A-5",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 5,
+    "title": "ACM SIGPLAN Conference on Programming Language Design & Implementation",
+    "acronym": "PLDI"
+  },
+  {
+    "id": "thcpl-p8-A-6",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 6,
+    "title": "ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference",
+    "acronym": "FSE/ESEC"
+  },
+  {
+    "id": "thcpl-p8-A-7",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 7,
+    "title": "International Symposium on Software Testing and Analysis",
+    "acronym": "ISSTA"
+  },
+  {
+    "id": "thcpl-p8-A-8",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 8,
+    "title": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+    "acronym": "OOPSLA"
+  },
+  {
+    "id": "thcpl-p8-A-9",
+    "rank": "A",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 9,
+    "title": "International Conference on Automated Software Engineering",
+    "acronym": "ASE"
+  },
+  {
+    "id": "thcpl-p8-B-1",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 1,
+    "title": "Mining Software Repositories",
+    "acronym": "MSR"
+  },
+  {
+    "id": "thcpl-p8-B-2",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 2,
+    "title": "International Conference on Software Analysis, Evolution, and Reengineering",
+    "acronym": "SANER"
+  },
+  {
+    "id": "thcpl-p8-B-3",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 3,
+    "title": "International Middleware Conference",
+    "acronym": "Middleware"
+  },
+  {
+    "id": "thcpl-p8-B-4",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 4,
+    "title": "Evaluation and Assessment in Software Engineering",
+    "acronym": "EASE"
+  },
+  {
+    "id": "thcpl-p8-B-5",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 5,
+    "title": "IEEE International Conference on Program Comprehension",
+    "acronym": "ICPC"
+  },
+  {
+    "id": "thcpl-p8-B-6",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 6,
+    "title": "International Conference on Software Maintenance and Evolution",
+    "acronym": "ICSME"
+  },
+  {
+    "id": "thcpl-p8-B-7",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 7,
+    "title": "IEEE International Symposium on Performance Analysis of Systems and Software",
+    "acronym": "ISPASS"
+  },
+  {
+    "id": "thcpl-p8-B-8",
+    "rank": "B",
+    "page": 8,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 8,
+    "title": "European Conference on Object-Oriented Programming",
+    "acronym": "ECOOP"
+  },
+  {
+    "id": "thcpl-p9-B-9",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 9,
+    "title": "IEEE International Conference on Software Testing, Verification and Validation",
+    "acronym": "ICST"
+  },
+  {
+    "id": "thcpl-p9-B-10",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 10,
+    "title": "International Conference on Function Programming",
+    "acronym": "ICFP"
+  },
+  {
+    "id": "thcpl-p9-B-11",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 11,
+    "title": "IEEE International Requirement Engineering Conference",
+    "acronym": "RE"
+  },
+  {
+    "id": "thcpl-p9-B-12",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 12,
+    "title": "International Conference on Advanced Information Systems Engineering",
+    "acronym": "CAiSE"
+  },
+  {
+    "id": "thcpl-p9-B-13",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 13,
+    "title": "USENIX Workshop on Hot Topics in Operating Systems",
+    "acronym": "HotOS"
+  },
+  {
+    "id": "thcpl-p9-B-14",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 14,
+    "title": "European Joint Conferences on Theory and Practice of Software",
+    "acronym": "ETAPS"
+  },
+  {
+    "id": "thcpl-p9-B-15",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 15,
+    "title": "International Conference on Verification, Model Checking, and Abstract Interpretation",
+    "acronym": "VMCAI"
+  },
+  {
+    "id": "thcpl-p9-B-16",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 16,
+    "title": "International Symposium on Software Reliability Engineering",
+    "acronym": "ISSRE"
+  },
+  {
+    "id": "thcpl-p9-B-17",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 17,
+    "title": "International Conference on Model Driven Engineering Languages and Systems",
+    "acronym": "MoDELS"
+  },
+  {
+    "id": "thcpl-p9-B-18",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 18,
+    "title": "International Symposium on Empirical Software Engineering and Measurement",
+    "acronym": "ESEM"
+  },
+  {
+    "id": "thcpl-p9-B-19",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 19,
+    "title": "International Symposium on Formal Methods",
+    "acronym": "FM"
+  },
+  {
+    "id": "thcpl-p9-B-20",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 20,
+    "title": "International Conference on Embedded Software",
+    "acronym": "EMSOFT"
+  },
+  {
+    "id": "thcpl-p9-B-21",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 21,
+    "title": "International Conference on Service Computing",
+    "acronym": "SCC"
+  },
+  {
+    "id": "thcpl-p9-B-22",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 22,
+    "title": "International Conference on Web Services（Research Track）",
+    "acronym": "ICWS"
+  },
+  {
+    "id": "thcpl-p9-B-23",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 23,
+    "title": "International Conference on Principles and Practice of Constraint Programming",
+    "acronym": "CP"
+  },
+  {
+    "id": "thcpl-p9-B-24",
+    "rank": "B",
+    "page": 9,
+    "area": "（五） 系统软件与软件工程（System Software and Software Engineering）",
+    "number": 24,
+    "title": "International Symposium on Automated Technology for Verification and Analysis",
+    "acronym": "ATVA"
+  },
+  {
+    "id": "thcpl-p10-A-1",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 1,
+    "title": "ACM Conference on Management of Data",
+    "acronym": "SIGMOD"
+  },
+  {
+    "id": "thcpl-p10-A-2",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 2,
+    "title": "ACM Knowledge Discovery and Data Mining",
+    "acronym": "SIGKDD"
+  },
+  {
+    "id": "thcpl-p10-A-3",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 3,
+    "title": "International Conference on Research on Development in Information Retrieval",
+    "acronym": "SIGIR"
+  },
+  {
+    "id": "thcpl-p10-A-4",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 4,
+    "title": "ACM International Conference on Web Search and Data Mining",
+    "acronym": "WSDM"
+  },
+  {
+    "id": "thcpl-p10-A-5",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 5,
+    "title": "International Conference on Very Large Data Bases",
+    "acronym": "VLDB"
+  },
+  {
+    "id": "thcpl-p10-A-6",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 6,
+    "title": "IEEE International Conference on Data Engineering",
+    "acronym": "ICDE"
+  },
+  {
+    "id": "thcpl-p10-A-7",
+    "rank": "A",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 7,
+    "title": "ACM Symposium on Principles of Database Systems",
+    "acronym": "PODS"
+  },
+  {
+    "id": "thcpl-p10-B-1",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 1,
+    "title": "IEEE International Semantic Web Conference",
+    "acronym": "ISWC"
+  },
+  {
+    "id": "thcpl-p10-B-2",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 2,
+    "title": "ACM International Conference on Information and Knowledge Management",
+    "acronym": "CIKM"
+  },
+  {
+    "id": "thcpl-p10-B-3",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 3,
+    "title": "SIAM International Conference on Data Mining",
+    "acronym": "SDM"
+  },
+  {
+    "id": "thcpl-p10-B-4",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 4,
+    "title": "International Conference on Database Theory",
+    "acronym": "ICDT"
+  },
+  {
+    "id": "thcpl-p10-B-5",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 5,
+    "title": "International Conference on Data Mining",
+    "acronym": "ICDM"
+  },
+  {
+    "id": "thcpl-p10-B-6",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 6,
+    "title": "European Conference on IR Research",
+    "acronym": "ECIR"
+  },
+  {
+    "id": "thcpl-p10-B-7",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 7,
+    "title": "International Conference on Extending Database Technology",
+    "acronym": "EDBT"
+  },
+  {
+    "id": "thcpl-p10-B-8",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 8,
+    "title": "International Conference on Innovative Data Systems Research",
+    "acronym": "CIDR"
+  },
+  {
+    "id": "thcpl-p10-B-9",
+    "rank": "B",
+    "page": 10,
+    "area": "（六） 数据库与数据挖掘（Database and Data Mining                                           ）",
+    "number": 9,
+    "title": "Database Systems for Advanced Applications",
+    "acronym": "DASFAA"
+  },
+  {
+    "id": "thcpl-p11-A-1",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 1,
+    "title": "IEEE Conference on Computer Vision and Pattern Recognition",
+    "acronym": "CVPR"
+  },
+  {
+    "id": "thcpl-p11-A-2",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 2,
+    "title": "International Conference on Computer Vision",
+    "acronym": "ICCV"
+  },
+  {
+    "id": "thcpl-p11-A-3",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 3,
+    "title": "International Conference on Machine Learning",
+    "acronym": "ICML"
+  },
+  {
+    "id": "thcpl-p11-A-4",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 4,
+    "title": "Annual Meeting of the Association for Computational Linguistics",
+    "acronym": "ACL"
+  },
+  {
+    "id": "thcpl-p11-A-5",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 5,
+    "title": "European Conference on Computer Vision",
+    "acronym": "ECCV"
+  },
+  {
+    "id": "thcpl-p11-A-6",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 6,
+    "title": "Annual Conference on Computational Learning Theory",
+    "acronym": "COLT"
+  },
+  {
+    "id": "thcpl-p11-A-7",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 7,
+    "title": "Annual Conference on Neural Information Processing Systems",
+    "acronym": "NeurIPS"
+  },
+  {
+    "id": "thcpl-p11-A-8",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 8,
+    "title": "AAAI Conference on Artificial Intelligence",
+    "acronym": "AAAI"
+  },
+  {
+    "id": "thcpl-p11-A-9",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 9,
+    "title": "Conference on Empirical Methods in Natural Language Processing",
+    "acronym": "EMNLP"
+  },
+  {
+    "id": "thcpl-p11-A-10",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 10,
+    "title": "IEEE International Conference on Robotics and Automation",
+    "acronym": "ICRA"
+  },
+  {
+    "id": "thcpl-p11-A-11",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 11,
+    "title": "International Conference on Learning Representations",
+    "acronym": "ICLR"
+  },
+  {
+    "id": "thcpl-p11-A-12",
+    "rank": "A",
+    "page": 11,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 12,
+    "title": "Robotics: Science and Systems · A Robotics Conference",
+    "acronym": "RSS"
+  },
+  {
+    "id": "thcpl-p12-B-1",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 1,
+    "title": "British Machine Vision Conference",
+    "acronym": "BMVC"
+  },
+  {
+    "id": "thcpl-p12-B-2",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 2,
+    "title": "Artificial Intelligence and Statistics",
+    "acronym": "AISTATS"
+  },
+  {
+    "id": "thcpl-p12-B-3",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 3,
+    "title": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+    "acronym": "NAACL"
+  },
+  {
+    "id": "thcpl-p12-B-4",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 4,
+    "title": "International Joint Conference on Artificial Intelligence",
+    "acronym": "IJCAI"
+  },
+  {
+    "id": "thcpl-p12-B-5",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 5,
+    "title": "International Joint Conference on Autonomous Agents and Multi-agent Systems",
+    "acronym": "AAMAS"
+  },
+  {
+    "id": "thcpl-p12-B-6",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 6,
+    "title": "International Conference on Automated Planning and Scheduling",
+    "acronym": "ICAPS"
+  },
+  {
+    "id": "thcpl-p12-B-7",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 7,
+    "title": "International Joint Conference on Biometrics",
+    "acronym": "ICB"
+  },
+  {
+    "id": "thcpl-p12-B-8",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 8,
+    "title": "Genetic and Evolutionary Computation Conference",
+    "acronym": "GECCO"
+  },
+  {
+    "id": "thcpl-p12-B-9",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 9,
+    "title": "International Conference on Pattern Recognition",
+    "acronym": "ICPR"
+  },
+  {
+    "id": "thcpl-p12-B-10",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 10,
+    "title": "International Conference on Automatic Face and Gesture Recognition",
+    "acronym": "FG"
+  },
+  {
+    "id": "thcpl-p12-B-11",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 11,
+    "title": "International Conference on Document Analysis and Recognition",
+    "acronym": "ICDAR"
+  },
+  {
+    "id": "thcpl-p12-B-12",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 12,
+    "title": "IEEE\\RSJ International Conference on Intelligent Robots and Systems",
+    "acronym": "IROS"
+  },
+  {
+    "id": "thcpl-p12-B-13",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 13,
+    "title": "International Conference on Computational Linguistics",
+    "acronym": "COLING"
+  },
+  {
+    "id": "thcpl-p12-B-14",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 14,
+    "title": "International Joint Conference on Neural Networks",
+    "acronym": "IJCNN"
+  },
+  {
+    "id": "thcpl-p12-B-15",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 15,
+    "title": "International Conference on Uncertainty in Artificial Intelligence",
+    "acronym": "UAI"
+  },
+  {
+    "id": "thcpl-p12-B-16",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 16,
+    "title": "International Conference on Algorithmic Learning Theory",
+    "acronym": "ALT"
+  },
+  {
+    "id": "thcpl-p12-B-17",
+    "rank": "B",
+    "page": 12,
+    "area": "（七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）",
+    "number": 17,
+    "title": "Conference on Recommender Systems",
+    "acronym": "RecSys"
+  },
+  {
+    "id": "thcpl-p13-A-1",
+    "rank": "A",
+    "page": 13,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 1,
+    "title": "ACM SIGGRAPH Annual Conference",
+    "acronym": "SIGGRAPH"
+  },
+  {
+    "id": "thcpl-p14-A-2",
+    "rank": "A",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 2,
+    "title": "IEEE Visualization Conference",
+    "acronym": "IEEE VIS"
+  },
+  {
+    "id": "thcpl-p14-A-3",
+    "rank": "A",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 3,
+    "title": "ACM International Conference on Multimedia",
+    "acronym": "ACM MM"
+  },
+  {
+    "id": "thcpl-p14-A-4",
+    "rank": "A",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 4,
+    "title": "IEEE Virtual Reality",
+    "acronym": "VR"
+  },
+  {
+    "id": "thcpl-p14-B-1",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 1,
+    "title": "Symposium on Solid and Physical Modeling",
+    "acronym": "SPM"
+  },
+  {
+    "id": "thcpl-p14-B-2",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 2,
+    "title": "Eurographics Symposium on Rendering",
+    "acronym": "EGSR"
+  },
+  {
+    "id": "thcpl-p14-B-3",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 3,
+    "title": "International Symposium on Mixed and Augmented Reality",
+    "acronym": "ISMAR"
+  },
+  {
+    "id": "thcpl-p14-B-4",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 4,
+    "title": "Eurographics",
+    "acronym": "EG"
+  },
+  {
+    "id": "thcpl-p14-B-5",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 5,
+    "title": "Eurographics Symposium on Geometry Processing",
+    "acronym": "SGP"
+  },
+  {
+    "id": "thcpl-p14-B-6",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 6,
+    "title": "ACM/Eurographics Symposium on Computer Animation",
+    "acronym": "SCA"
+  },
+  {
+    "id": "thcpl-p14-B-7",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 7,
+    "title": "Eurographics Conference on Visualization",
+    "acronym": "EuroVis"
+  },
+  {
+    "id": "thcpl-p14-B-8",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 8,
+    "title": "IEEE International Conference on Acoustics, Speech and SP",
+    "acronym": "ICASSP"
+  },
+  {
+    "id": "thcpl-p14-B-9",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 9,
+    "title": "ACM SIGMM International Conference on Multimedia Retrieval",
+    "acronym": "ICMR"
+  },
+  {
+    "id": "thcpl-p14-B-10",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 10,
+    "title": "International Conference on Image Processing",
+    "acronym": "ICIP"
+  },
+  {
+    "id": "thcpl-p14-B-11",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 11,
+    "title": "ACM Symposium on Interactive 3D Graphics",
+    "acronym": "SI3D"
+  },
+  {
+    "id": "thcpl-p14-B-12",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 12,
+    "title": "IEEE Pacific Visualization Symposium",
+    "acronym": "PacificVis"
+  },
+  {
+    "id": "thcpl-p14-B-13",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 13,
+    "title": "Pacific Graphics: The Pacific Conference on Computer Graphics and Applications",
+    "acronym": "PG"
+  },
+  {
+    "id": "thcpl-p14-B-14",
+    "rank": "B",
+    "page": 14,
+    "area": "（八） 计算机图形学与多媒体（Computer Graphics and Multimedia）",
+    "number": 14,
+    "title": "Data Compression Conference",
+    "acronym": "DCC"
+  },
+  {
+    "id": "thcpl-p15-A-1",
+    "rank": "A",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 1,
+    "title": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+    "acronym": "CSCW"
+  },
+  {
+    "id": "thcpl-p15-A-2",
+    "rank": "A",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 2,
+    "title": "ACM International Conference on Ubiquitous Computing",
+    "acronym": "UbiComp"
+  },
+  {
+    "id": "thcpl-p15-A-3",
+    "rank": "A",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 3,
+    "title": "ACM Symposium on User Interface Software and Technology",
+    "acronym": "UIST"
+  },
+  {
+    "id": "thcpl-p15-A-4",
+    "rank": "A",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 4,
+    "title": "ACM Conference on Human Factors in Computing Systems",
+    "acronym": "CHI"
+  },
+  {
+    "id": "thcpl-p15-B-1",
+    "rank": "B",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 1,
+    "title": "IEEE International Conference on Pervasive Computing and Communications",
+    "acronym": "PERCOM"
+  },
+  {
+    "id": "thcpl-p15-B-2",
+    "rank": "B",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 2,
+    "title": "ACM International Conference on Intelligent User Interfaces",
+    "acronym": "IUI"
+  },
+  {
+    "id": "thcpl-p15-B-3",
+    "rank": "B",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 3,
+    "title": "International Conference on Human Computer Interaction with Mobile Devices and Services",
+    "acronym": "MobileHCI"
+  },
+  {
+    "id": "thcpl-p15-B-4",
+    "rank": "B",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 4,
+    "title": "ACM Conference on Designing Interactive Systems",
+    "acronym": "DIS"
+  },
+  {
+    "id": "thcpl-p15-B-5",
+    "rank": "B",
+    "page": 15,
+    "area": "（九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)",
+    "number": 5,
+    "title": "ACM International Conference on Multimodal Interaction",
+    "acronym": "ICMI"
+  },
+  {
+    "id": "thcpl-p16-A-1",
+    "rank": "A",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 1,
+    "title": "International Conference on Research in Computational Molecular Biology",
+    "acronym": "RECOMB"
+  },
+  {
+    "id": "thcpl-p16-A-2",
+    "rank": "A",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 2,
+    "title": "International conference on Intelligent Systems for Molecular Biology",
+    "acronym": "ISMB"
+  },
+  {
+    "id": "thcpl-p16-A-3",
+    "rank": "A",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 3,
+    "title": "International World Wide Web Conferences",
+    "acronym": "WWW"
+  },
+  {
+    "id": "thcpl-p16-A-4",
+    "rank": "A",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 4,
+    "title": "ACM Conference on Economics and Computation",
+    "acronym": "EC"
+  },
+  {
+    "id": "thcpl-p16-B-1",
+    "rank": "B",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 1,
+    "title": "International Conference on Hybrid Systems: Computation and Control",
+    "acronym": "HSCC"
+  },
+  {
+    "id": "thcpl-p16-B-2",
+    "rank": "B",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 2,
+    "title": "International Conference on Medical Image Computing and Computer Assisted Intervention",
+    "acronym": "MICCAI"
+  },
+  {
+    "id": "thcpl-p16-B-3",
+    "rank": "B",
+    "page": 16,
+    "area": "（十） 综合与交叉（Interdisciplinary）",
+    "number": 3,
+    "title": "International Conference on Business Process Management",
+    "acronym": "BPM"
+  }
+]

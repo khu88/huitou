@@ -1,0 +1,482 @@
+[
+  [
+    "Multi-agent Architecture Search via Agentic Supernet",
+    "/virtual/2025/oral/47201"
+  ],
+  [
+    "An analytic theory of creativity in convolutional diffusion models",
+    "/virtual/2025/oral/47202"
+  ],
+  [
+    "Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer Rewards",
+    "/virtual/2025/oral/40109"
+  ],
+  [
+    "VideoRoPE: What Makes for Good Video Rotary Position Embedding?",
+    "/virtual/2025/oral/47183"
+  ],
+  [
+    "Algorithm Development in Neural Networks: Insights from the Streaming Parity Task",
+    "/virtual/2025/oral/47264"
+  ],
+  [
+    "Layer by Layer: Uncovering Hidden Representations in Language Models",
+    "/virtual/2025/oral/47214"
+  ],
+  [
+    "ReferSplat: Referring Segmentation in 3D Gaussian Splatting",
+    "/virtual/2025/oral/47184"
+  ],
+  [
+    "Position: Not All Explanations for Deep Learning Phenomena Are Equally Valuable",
+    "/virtual/2025/oral/40124"
+  ],
+  [
+    "Training a Generally Curious Agent",
+    "/virtual/2025/oral/47218"
+  ],
+  [
+    "Learning Dynamics in Continual Pre-Training for Large Language Models",
+    "/virtual/2025/oral/47216"
+  ],
+  [
+    "Position: Certified Robustness Does Not (Yet) Imply Model Security",
+    "/virtual/2025/oral/40160"
+  ],
+  [
+    "Strategy Coopetition Explains the Emergence and Transience of In-Context Learning",
+    "/virtual/2025/oral/47206"
+  ],
+  [
+    "Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection",
+    "/virtual/2025/oral/47242"
+  ],
+  [
+    "Scaling Collapse Reveals Universal Dynamics in Compute-Optimally Trained Neural Networks",
+    "/virtual/2025/oral/47243"
+  ],
+  [
+    "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+    "/virtual/2025/oral/47209"
+  ],
+  [
+    "Transformative or Conservative? Conservation laws for ResNets and Transformers",
+    "/virtual/2025/oral/47208"
+  ],
+  [
+    "Position: Probabilistic Modelling is Sufficient for Causal Inference",
+    "/virtual/2025/oral/40135"
+  ],
+  [
+    "VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models",
+    "/virtual/2025/oral/47168"
+  ],
+  [
+    "CollabLLM: From Passive Responders to Active Collaborators",
+    "/virtual/2025/oral/47250"
+  ],
+  [
+    "Emergence in non-neural models: grokking modular arithmetic via average gradient outer product",
+    "/virtual/2025/oral/47265"
+  ],
+  [
+    "AdaSplash: Adaptive Sparse Flash Attention",
+    "/virtual/2025/oral/47229"
+  ],
+  [
+    "Controlling Underestimation Bias in Constrained Reinforcement Learning for Safe Exploration",
+    "/virtual/2025/oral/47191"
+  ],
+  [
+    "DeFoG: Discrete Flow Matching for Graph Generation",
+    "/virtual/2025/oral/47238"
+  ],
+  [
+    "Hierarchical Refinement: Optimal Transport to Infinity and Beyond",
+    "/virtual/2025/oral/47248"
+  ],
+  [
+    "Position: Generative AI Regulation Can Learn from Social Media Regulation",
+    "/virtual/2025/oral/40120"
+  ],
+  [
+    "Position: Current Model Licensing Practices are Dragging Us into a Quagmire of Legal Noncompliance",
+    "/virtual/2025/oral/40181"
+  ],
+  [
+    "Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Time",
+    "/virtual/2025/oral/47179"
+  ],
+  [
+    "MGD$^3$ : Mode-Guided Dataset Distillation using Diffusion Models",
+    "/virtual/2025/oral/47231"
+  ],
+  [
+    "Temporal Difference Flows",
+    "/virtual/2025/oral/47200"
+  ],
+  [
+    "Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies",
+    "/virtual/2025/oral/47176"
+  ],
+  [
+    "Inductive Moment Matching",
+    "/virtual/2025/oral/47188"
+  ],
+  [
+    "ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features",
+    "/virtual/2025/oral/47221"
+  ],
+  [
+    "Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning",
+    "/virtual/2025/oral/47193"
+  ],
+  [
+    "Position: AI Agents Need Authenticated Delegation",
+    "/virtual/2025/oral/40173"
+  ],
+  [
+    "Flowing Datasets with Wasserstein over Wasserstein Gradient Flows",
+    "/virtual/2025/oral/47240"
+  ],
+  [
+    "Position: AI Safety should prioritize the Future of Work",
+    "/virtual/2025/oral/40167"
+  ],
+  [
+    "Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination",
+    "/virtual/2025/oral/47165"
+  ],
+  [
+    "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+    "/virtual/2025/oral/47251"
+  ],
+  [
+    "Addressing Misspecification in Simulation-based Inference through Data-driven Calibration",
+    "/virtual/2025/oral/47170"
+  ],
+  [
+    "Mixture of Lookup Experts",
+    "/virtual/2025/oral/47174"
+  ],
+  [
+    "A Generalization Theory for Zero-Shot Prediction",
+    "/virtual/2025/oral/47197"
+  ],
+  [
+    "Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction",
+    "/virtual/2025/oral/47241"
+  ],
+  [
+    "Outlier Gradient Analysis: Efficiently Identifying Detrimental Training Samples for Deep Learning Models",
+    "/virtual/2025/oral/47177"
+  ],
+  [
+    "One-Step Generalization Ratio Guided Optimization for Domain Generalization",
+    "/virtual/2025/oral/47219"
+  ],
+  [
+    "Nonlinearly Preconditioned Gradient Methods under Generalized Smoothness",
+    "/virtual/2025/oral/47196"
+  ],
+  [
+    "Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark",
+    "/virtual/2025/oral/47178"
+  ],
+  [
+    "An Online Adaptive Sampling Algorithm for Stochastic Difference-of-convex Optimization with Time-varying Distributions",
+    "/virtual/2025/oral/47225"
+  ],
+  [
+    "An Improved Clique-Picking Algorithm for Counting Markov Equivalent DAGs via Super Cliques Transfer",
+    "/virtual/2025/oral/47192"
+  ],
+  [
+    "Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection",
+    "/virtual/2025/oral/47211"
+  ],
+  [
+    "Statistical Test for Feature Selection Pipelines by Selective Inference",
+    "/virtual/2025/oral/47261"
+  ],
+  [
+    "Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton",
+    "/virtual/2025/oral/47233"
+  ],
+  [
+    "Polynomial-Delay MAG Listing with Novel Locally Complete Orientation Rules",
+    "/virtual/2025/oral/47256"
+  ],
+  [
+    "SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs",
+    "/virtual/2025/oral/47247"
+  ],
+  [
+    "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking",
+    "/virtual/2025/oral/47258"
+  ],
+  [
+    "Learning with Expected Signatures: Theory and Applications",
+    "/virtual/2025/oral/47169"
+  ],
+  [
+    "Blink of an eye: a simple theory for feature localization in generative models",
+    "/virtual/2025/oral/47223"
+  ],
+  [
+    "Sanity Checking Causal Representation Learning on a Simple Real-World System",
+    "/virtual/2025/oral/47207"
+  ],
+  [
+    "VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data",
+    "/virtual/2025/oral/47195"
+  ],
+  [
+    "Improving the Scaling Laws of Synthetic Data with Deliberate Practice",
+    "/virtual/2025/oral/47271"
+  ],
+  [
+    "General framework for online-to-nonconvex conversion: Schedule-free SGD is also effective for nonconvex optimization",
+    "/virtual/2025/oral/47205"
+  ],
+  [
+    "On Differential Privacy for Adaptively Solving Search Problems via Sketching",
+    "/virtual/2025/oral/47198"
+  ],
+  [
+    "Improved Regret Analysis in Gaussian Process Bandits: Optimality for Noiseless Reward, RKHS norm, and Non-Stationary Variance",
+    "/virtual/2025/oral/47167"
+  ],
+  [
+    "Sundial: A Family of Highly Capable Time Series Foundation Models",
+    "/virtual/2025/oral/47235"
+  ],
+  [
+    "Position: AI Competitions Provide the Gold Standard for Empirical Rigor in GenAI Evaluation",
+    "/virtual/2025/oral/40140"
+  ],
+  [
+    "AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models",
+    "/virtual/2025/oral/47171"
+  ],
+  [
+    "Position: Medical Large Language Model Benchmarks Should Prioritize Construct Validity",
+    "/virtual/2025/oral/40130"
+  ],
+  [
+    "High-Dimensional Prediction for Sequential Decision Making",
+    "/virtual/2025/oral/47181"
+  ],
+  [
+    "Long-Form Speech Generation with Spoken Language Models",
+    "/virtual/2025/oral/47262"
+  ],
+  [
+    "Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation",
+    "/virtual/2025/oral/47166"
+  ],
+  [
+    "Going Deeper into Locally Differentially Private Graph Neural Networks",
+    "/virtual/2025/oral/47267"
+  ],
+  [
+    "Auditing $f$-differential privacy in one run",
+    "/virtual/2025/oral/47228"
+  ],
+  [
+    "Learning Time-Varying Multi-Region Brain Communications  via Scalable Markovian Gaussian Processes",
+    "/virtual/2025/oral/47189"
+  ],
+  [
+    "Position: Principles of Animal Cognition to Improve LLM Evaluations",
+    "/virtual/2025/oral/40118"
+  ],
+  [
+    "Partition First, Embed Later: Laplacian-Based Feature Partitioning for Refined Embedding and Visualization of High-Dimensional Data",
+    "/virtual/2025/oral/47257"
+  ],
+  [
+    "Near-Optimal Decision Trees in a SPLIT Second",
+    "/virtual/2025/oral/47254"
+  ],
+  [
+    "Equivalence is All: A Unified View for Self-supervised Graph Learning",
+    "/virtual/2025/oral/47212"
+  ],
+  [
+    "Expected Variational Inequalities",
+    "/virtual/2025/oral/47236"
+  ],
+  [
+    "Position: Political Neutrality in AI Is Impossible — But Here Is How to Approximate It",
+    "/virtual/2025/oral/40158"
+  ],
+  [
+    "Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction",
+    "/virtual/2025/oral/47222"
+  ],
+  [
+    "Conformal Prediction as Bayesian Quadrature",
+    "/virtual/2025/oral/47227"
+  ],
+  [
+    "The dark side of the forces: assessing non-conservative force models for atomistic machine learning",
+    "/virtual/2025/oral/47230"
+  ],
+  [
+    "Rényi Neural Processes",
+    "/virtual/2025/oral/47187"
+  ],
+  [
+    "DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs",
+    "/virtual/2025/oral/47185"
+  ],
+  [
+    "STAIR: Improving Safety Alignment with Introspective Reasoning",
+    "/virtual/2025/oral/47210"
+  ],
+  [
+    "Statistical Query Hardness of Multiclass Linear Classification with Random Classification Noise",
+    "/virtual/2025/oral/47246"
+  ],
+  [
+    "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models",
+    "/virtual/2025/oral/47220"
+  ],
+  [
+    "ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\\alpha$-$\\beta$-Divergence",
+    "/virtual/2025/oral/47175"
+  ],
+  [
+    "A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization",
+    "/virtual/2025/oral/47234"
+  ],
+  [
+    "AutoAdvExBench: Benchmarking Autonomous Exploitation of Adversarial Example Defenses",
+    "/virtual/2025/oral/47244"
+  ],
+  [
+    "All-Purpose Mean Estimation over R: Optimal Sub-Gaussianity with Outlier Robustness and Low Moments Performance",
+    "/virtual/2025/oral/47186"
+  ],
+  [
+    "Exploring and Mitigating Adversarial Manipulation of Voting-Based Leaderboards",
+    "/virtual/2025/oral/47164"
+  ],
+  [
+    "Neural Discovery in Mathematics: Do Machines Dream of Colored Planes?",
+    "/virtual/2025/oral/47255"
+  ],
+  [
+    "A Generalization Result for Convergence in Learning-to-Optimize",
+    "/virtual/2025/oral/47226"
+  ],
+  [
+    "Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning",
+    "/virtual/2025/oral/47232"
+  ],
+  [
+    "Score Matching with Missing Data",
+    "/virtual/2025/oral/47194"
+  ],
+  [
+    "Machine Learning meets Algebraic Combinatorics: A Suite of Datasets Capturing Research-level Conjecturing Ability in Pure Mathematics",
+    "/virtual/2025/oral/47182"
+  ],
+  [
+    "Theoretical Limitations of Ensembles in the Age of Overparameterization",
+    "/virtual/2025/oral/47253"
+  ],
+  [
+    "Beyond Self-Repellent Kernels: History-Driven Target Towards Efficient Nonlinear MCMC on General Graphs",
+    "/virtual/2025/oral/47270"
+  ],
+  [
+    "From Weight-Based to State-Based Fine-Tuning: Further Memory Reduction on LoRA with Parallel Control",
+    "/virtual/2025/oral/47173"
+  ],
+  [
+    "Model Immunization from a Condition Number Perspective",
+    "/virtual/2025/oral/47180"
+  ],
+  [
+    "Retrieval-Augmented Perception: High-resolution Image Perception Meets Visual RAG",
+    "/virtual/2025/oral/47213"
+  ],
+  [
+    "The Value of Prediction in Identifying the Worst-Off",
+    "/virtual/2025/oral/47269"
+  ],
+  [
+    "EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents",
+    "/virtual/2025/oral/47252"
+  ],
+  [
+    "On Path to Multimodal Generalist: General-Level and General-Bench",
+    "/virtual/2025/oral/47215"
+  ],
+  [
+    "Learning dynamics in linear recurrent neural networks",
+    "/virtual/2025/oral/47239"
+  ],
+  [
+    "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?",
+    "/virtual/2025/oral/47172"
+  ],
+  [
+    "Generative Social Choice: The Next Generation",
+    "/virtual/2025/oral/47249"
+  ],
+  [
+    "What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities",
+    "/virtual/2025/oral/47259"
+  ],
+  [
+    "LoRA Training Provably Converges to a Low-Rank Global Minimum Or It Fails Loudly (But it Probably Won't Fail)",
+    "/virtual/2025/oral/47190"
+  ],
+  [
+    "AutoGFM: Automated Graph Foundation Model with Adaptive Architecture Customization",
+    "/virtual/2025/oral/47204"
+  ],
+  [
+    "Normalizing Flows are Capable Generative Models",
+    "/virtual/2025/oral/47266"
+  ],
+  [
+    "CodeIO: Condensing Reasoning Patterns via Code Input-Output Prediction",
+    "/virtual/2025/oral/47203"
+  ],
+  [
+    "LoRA-One: One-Step Full Gradient Could Suffice for Fine-Tuning Large Language Models, Provably and Efficiently",
+    "/virtual/2025/oral/47237"
+  ],
+  [
+    "How Do Large Language Monkeys Get Their Power (Laws)?",
+    "/virtual/2025/oral/47224"
+  ],
+  [
+    "Statistical Collusion by Collectives on Learning Platforms",
+    "/virtual/2025/oral/47263"
+  ],
+  [
+    "Suitability Filter: A Statistical Framework for Classifier Evaluation in Real-World Deployment Settings",
+    "/virtual/2025/oral/47217"
+  ],
+  [
+    "Prices, Bids, Values: One ML-Powered Combinatorial Auction to Rule Them All",
+    "/virtual/2025/oral/47260"
+  ],
+  [
+    "Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent",
+    "/virtual/2025/oral/47268"
+  ],
+  [
+    "In-Context Denoising with One-Layer Transformers: Connections between Attention and Associative Memory Retrieval",
+    "/virtual/2025/oral/47245"
+  ],
+  [
+    "ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks",
+    "/virtual/2025/oral/47199"
+  ]
+]

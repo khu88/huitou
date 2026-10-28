@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://cvpr.thecvf.com/virtual/2025/oral/35294",
+    "status": 200,
+    "resolved": "https://cvpr.thecvf.com/virtual/2025/oral/35294"
+  },
+  {
+    "url": "https://cvpr.thecvf.com/virtual/2025/oral/35315",
+    "status": 200,
+    "resolved": "https://cvpr.thecvf.com/virtual/2025/oral/35315"
+  },
+  {
+    "url": "https://doi.org/10.1145/3696410.3714618",
+    "result": "unavailable-to-check",
+    "detail": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.11347",
+    "status": 200,
+    "resolved": "https://arxiv.org/abs/2506.11347"
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.14310",
+    "status": 200,
+    "resolved": "https://arxiv.org/abs/2505.14310"
+  },
+  {
+    "url": "https://arxiv.org/abs/2502.08763",
+    "status": 200,
+    "resolved": "https://arxiv.org/abs/2502.08763"
+  },
+  {
+    "url": "https://doi.org/10.1145/3711896.3737421",
+    "result": "unavailable-to-check",
+    "detail": "HTTP Error 403: Forbidden"
+  }
+]

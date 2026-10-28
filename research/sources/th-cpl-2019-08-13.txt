@@ -1,0 +1,738 @@
+PAGE 1
+                    清华大学计算机学科群
+           推荐学术会议和期刊列表（TH-CPL）
+
+       清华大学计算机学位评定分委员会                2019 年 8 月 13 日会议通过
+
+
+一、要点说明
+
+1、 《清华大学计算机学科群推荐学术会议和期刊列表》（以下简称《列表》，英文缩写为                       TH-CPL）
+  是清华大学计算机学位评定分委员会针对学生创新成果基本要求而制定、面向计算机领域学术声
+  誉好、水平高的会议和期刊的一个推荐目录，覆盖了计算机科学与技术、软件工程、网络空间安
+  全三个一级学科。
+2、 《列表》系在广泛听取学者意见和全面参考权威论文数据库相关统计特征的基础上，由定性分析
+  与定量分析综合而成。
+3、 《列表》将推荐的学术会议和期刊划分为           A、B 两类。优先鼓励学生投稿       A 类，鼓励学生投稿     B
+  类。
+4、《列表》将计算机学科群划分为如下         10个研究方向：高性能计算（High Performance Computing），
+  计算机网络（Computer Networks）, 网络与信息安全（Network and Information Security），
+  理论计算机科学（Theoretical Computer Science），（五）系统软件与软件工程（System Software
+  and Software Engineering），数据库与数据挖掘（Database and Data Mining），人工智能与
+  模式识别（Artificial Intelligence and Pattern Recognition），计算机图形学与多媒体
+  （Computer Graphics and Multimedia），人机交互与普适计算(Human-Computer Interaction
+  and Pervasive Computing),综合与交叉（Interdisciplinary）。
+5、 《列表》是衡量学生创新成果的一个重要依据，但不是唯一依据，切不可简单化地片面使用。对
+  学生创新成果的客观学术评价应根据其对科学技术的实质性贡献予以判断。
+6、 《列表》将在使用过程中逐步完善，并且与时俱进，适时更新。
+7、 《列表》的解释权归本分委员会所有。
+
+二、 《列表》内容
+
+              （一）高性能计算（High Performance Computing）
+
+1．  A 类会议
+
+ 序号                        会议全称                           会议简称
+  1    International Symposium on Computer Architecture     ISCA
+  2    USENIX Conference on File and Storage Technologies   FAST
+
+
+                                  1
+
+PAGE 2
+     3        International Conference on Architectural Support for Programming Languages                              ASPLOS
+              and Operating Systems
+     4        European Conference on Computer Systems                                                                  EuroSys
+     5        International Symposium on High-Performance Computer Architecture                                         HPCA
+     6        International Conference on Measurement and Modeling of Computer Systems                              SIGMETRICS
+     7        ACM/SIGDA International Symposium on Field-Programmable Gate Arrays                                       FPGA
+     8        USENIX Annul Technical Conference                                                                      USENIX ATC
+     9        IEEE/ACM International Symposium on Microarchitecture                                                    MICRO
+     10       International Conference for High Performance Computing, Networking, Storage,                               SC
+              and Analysis
+     11       ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming                                    PPoPP
+     12       Design Automation Conference                                                                               DAC
+2．       B   类会议
+
+ 序号                                                    会议全称                                                           会议简称
+     1        International Symposium on High Performance Distributed Computing                                         HPDC
+     2        ACM Symposium on Cloud Computing                                                                          SoCC
+     3        Real-Time and Embedded Technology and Applications Symposium                                               RTAS
+     4        Mass Storage Systems and Technologies                                                                     MSST
+     5        ACM/IEEE International Symposium on Code Generation and Optimization                                       CGO
+     6        International Conference on Parallel Architectures and Compilation Techniques                             PACT
+     7        International Conference on Hardware/Software Co-design and System Synthesis                          CODES+ISSS
+     8        ACM Symposium on Principles of Distributed Computing                                                      PODC
+     9        International Conference on Virtual Execution Environments                                                 VEE
+     10       International Parallel & Distributed Processing Symposium                                                 IPDPS
+     11       International Conference on Supercomputing                                                                  ICS
+     12       Design, Automation & Test in Europe Conference                                                            DATE
+     13       ACM Symposium on Parallelism in Algorithms and Architectures                                              SPAA
+     14       International Symposium on Computer Performance, Modeling, Measurements                               Performance
+              and Evaluation
+     15       International Conference on Distributed Computing Systems                                                 ICDCS
+     16       International Conference on Computer-Aided Design                                                         ICCAD
+     17       IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing                                    CCGRID
+     18       Hot Chips: A Symposium on High Performance Chips                                                       HOT CHIPS
+     19       IEEE International Conference on Cluster Computing                                                      CLUSTER
+     20       Asia and South Pacific Design Automation Conference                                                     ASP-DAC
+     21       International Symposium on Low Power Electronics and Design                                              ISLPED
+
+                                                                      2
+
+PAGE 3
+    22        IEEE International Conference on Cloud Computing
+    23        Real-Time Systems Symposium                                                                             RTSS
+    24        International Conference on Computer Design                                                             ICCD
+    25        International Symposium on Circuits and Systems                                                        ISCAS
+    26        International Symposium on Physical Design                                                              ISPD
+    27        International Conference on Parallel Processing                                                         ICPP
+    28        IEEE International Electron Devices Meeting                                                            IEDM
+    29        International Solid-State Circuits Conference                                                          ISSCC
+3．       A   类期刊
+
+   序号                                                 期刊全称                                                         期刊简称
+     1        ACM Transactions on Computer Systems                                                                    TOCS
+     2        IEEE Transactions on Parallel and Distributed Systems                                                   TPDS
+     3        IEEE Transactions on Computers                                                                           TC
+     4        IEEE Transactions On Computer      -Aided Design Of Integrated Circuits And Systems                    TCAD
+     5        ACM Transactions on Storage                                                                             TOS
+4．       B  类期刊
+
+   序号                                                 期刊全称                                                         期刊简称
+     1        ACM Transactions on     Autonomous and Adaptive Systems                                                 TAAS
+     2        Journal of Parallel and Distributed Computing                                                           JPDC
+     3        IEEE Transactions on Very Large Scale Integration (VLSI) Systems                                       TVLSI
+     4        ACM Transactions on Architecture and Code Optimization                                                 TACO
+     5        Parallel Computing                                                                                     PARCO
+     6        IEEE Transactions on Cloud Computing                                                                    TCC
+     7        ACM Journal on Emerging Technologies in Computing Systems                                               JETC
+     8        Cluster Computing
+
+
+                                   （二） 计算机网络（Computer Networks                                     ）
+
+1.  A   类会议
+
+   序号                                                 会议全称                                                         会议简称
+     1        ACM International Conference on the applications, technologies, architectures,                       SIGCOMM
+              and protocols for computer communication
+     2        Symposium on Network System Design and Implementation                                                   NSDI
+     3        ACM International Conference on Mobile Computing and Networking                                     MOBICOM
+
+                                                                    3
+
+PAGE 4
+     4        International Conference on Mobile Systems, Applications, and Services                               MobiSys
+     5        Internet Measurement Conference                                                                         IMC
+     6        International Conference on Information Processing in Sensor Networks                                  IPSN
+     7        ACM Conference on Embedded Networked Sensor Systems                                                   SenSys
+     8        IEEE International Conference on Computer Communications                                            INFOCOM
+     9        ACM International Conference on Emerging Networking Experiments and                                   CoNEXT
+              Technologies
+    10        International Conference on Network Protocols                                                          ICNP
+2.  B   类会议
+
+   序号                                                 会议全称                                                        会议简称
+     1        International Symposium on Mobile Ad Hoc Networking and Computing                                    MobiHoc
+     2        The Workshop on Hot Topics in Networks                                                               HotNets
+     3        IEEE Global Communications Conference                                                               Globecom
+     4        IEEE International Conference on Communications                                                         ICC
+     5        International Workshop on Network and Operating System Support for Digital                           NOSSDAV
+              Audio and Video
+     6        IEEE Communications Society Conference on Sensor and Ad Hoc                                           SECON
+              Communications and Networks
+     7        IFIP International Conferences on Networking                                                       Networking
+     8        IEEE International Symposium on a World of Wireless, Mobile and Multimedia                          WoWMoM
+              Networks
+     9        IEEE Wireless Communications & Networking Conference                                                  WCNC
+    10        Architectures for Networking and Communications Systems                                                ANCS
+    11        International Workshop on Quality of Service                                                          IWQoS
+    12        The International Symposium on Modeling and Optimization in Mobile, Ad Hoc,                           WiOpt
+              and Wireless Networks
+    13        ACM Conference on Information Centric Networking                                                        ICN
+    14        International Conference on Network and Service Management                                             CNSM
+3.  A   类期刊
+
+   序号                                                 期刊全称                                                         期刊简称
+     1        IEEE Journal of Selected Areas in Communications                                                        JSAC
+     2        IEEE Transactions on Mobile Computing                                                                   TMC
+     3        IEEE/ACM Transactions on Networking                                                                     TON
+     4        IEEE Transactions on Communications                                                                    TCOM
+4.  B   类期刊
+
+   序号                                                 期刊全称                                                         期刊简称
+
+                                                                    4
+
+PAGE 5
+     1        IEEE Transactions on Wireless Communications                                                          TWC
+     2        Wireless Networks
+     3        ACM Transactions on Sensor Networks                                                                   TOSN
+     4        Journal of Network and Computer Applications
+
+     5        Computer Networks                                                                                      CN
+     6        Ad hoc Networks
+     7        IEEE Transactions on Network and Service Management                                                  TNSM
+     8        Computer Communications                                                                                CC
+     9        Mobile Networks & Applications                                                                      MONET
+    10        ACM Transactions on Multimedia Computing, Communications and Applications                          TOMCCAP
+    11        ACM Transactions on Internet Technology                                                               TOIT
+    12        IEEE Transactions on Vehicular Technology                                                             TVT
+    13        IEEE Transactions on Aerospace and Electronic Systems
+    14        IEEE Internet of Things Journal
+    15        通信学报
+
+
+                    （三） 网络与信息安全（Network and Information Security）
+
+1.  A   类会议
+
+   序号                                                会议全称                                                        会议简称
+     1       IEEE Symposium on Security and Privacy                                                                 S&P
+     2       ISOC Network and Distributed System Security Symposium                                                 NDSS
+     3       Usenix Security Symposium                                                                        USENIX Security
+     4       ACM Conference on Computer and Communications Security                                                 CCS
+     5       European Cryptology Conference                                                                     EUROCRYPT
+     6       International Cryptology Conference                                                                  CRYPTO
+     7       International Conference on Cryptographic Hardware and Embedded Systems                                CHES
+     8       International Conference on the Theory and Application of Cryptology and                           ASIACRYPT
+             Information Security
+2.  B   类会议
+
+   序号                                                会议全称                                                        会议简称
+     1       Symposium On Usable Privacy and Security                                                              SOUPS
+     2       Financial Cryptography and Data Security                                                                FC
+     3       Privacy Enhancing Technologies Symposium                                                               PETS
+     4       Theory of Cryptography Conference                                                                      TCC
+                                                                   5
+
+PAGE 6
+     5       International Workshop on Practice and Theory in Public Key Cryptography                               PKC
+     6       Detection of Intrusions and Malware & Vulnerability Assessment                                       DIMVA
+     7       IEEE Computer Security Foundations Workshop                                                          CSFW
+     8       Fast Software Encryption                                                                               FSE
+     9       European Symposium on Research in Computer Security                                                 ESORICS
+    10       The International Conference on Dependable Systems and Networks                                       DSN
+    11       International Symposium on Recent Advances in Intrusion Detection                                     RAID
+    12       IFIP/IEEE International Symposium on Integrated Network Management                                     IM
+    13       Cryptographer's Track at RSA Conference                                                              CT-RSA
+    14       Annual Computer Security Applications Conference                                                     ACSAC
+    15       Passive and Active Network Measurement Conference                                                     PAM
+    16       Selected Areas in Cryptography                                                                         SAC
+    17       Asia Conference on Computer and Communications Security                                             AsiaCCS
+    18       ACM Conference on Security and Privacy in Wireless and Mobile Networks                               WiSec
+    19       Applied Cryptography and Network Security                                                             ACNS
+    20       ACM Workshop on Information Hiding and Multimedia Security                                        IH&MMSec
+    21       IFIP International Information Security Conference                                                     SEC
+    22       IEEE/IFIP Network Operations and Management Symposium                                                NOMS
+3.  A   类期刊
+
+   序号                                                期刊全称                                                       期刊简称
+     1       IEEE Transactions on Information Forensics and Security                                                TIFS
+     2       Journal of Cryptology
+     3       IEEE Transactions on Dependable and Secure Computing                                                  TDSC
+4.  B  类期刊
+
+   序号                                                期刊全称                                                       期刊简称
+     1       Computers & Security
+     2       Journal of Computer Security                                                                           JCS
+     3       ACM Transactions on Privacy and Security                                                              TOPS
+     4       密码学报
+
+
+                       （四） 理论计算机科学（Theoretical Computer Science）
+
+1.  A   类会议
+
+   序号                                                会议全称                                                       会议简称
+                                                                   6
+
+PAGE 7
+     1        ACM Symposium on the Theory of Computing                                                              STOC
+     2        IEEE Annual Symposium on Foundations of Computer Science                                              FOCS
+     3        ACM-SIAM Symposium on Discrete Algorithms                                                             SODA
+     4        Computer Aided Verification                                                                            CAV
+     5        IEEE Symposium on Logic in Computer Science                                                            LICS
+     6        IEEE Conference on Computational Complexity                                                            CCC
+     7        International Colloquium on Automata, Languages and Programming                                       ICALP
+2.  B   类会议
+
+   序号                                                会议全称                                                         会议简称
+     1        Theory and Applications of Satisfiability Testing                                                      SAT
+     2        International Conference on Automated Deduction/International Joint                                CADE/IJCAR
+              Conference on Automated Reasoning
+     3        ACM Symposium on Computational Geometry                                                               SoCG
+     4        International Conference on Concurrency Theory                                                      CONCUR
+     5        Symposium on Theoretical Aspects of Computer Science                                                  STACS
+     6        European Symposium on Algorithms                                                                       ESA
+     7        Computer Science Logic                                                                                 CSL
+     8        Formal Methods in Computer-Aided Design                                                              FMCAD
+     9        Innovations in Theoretical Computer Science                                                          ITCS/ICS
+    10        Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms                          SWAT/WADS
+              and Data Structures Symposium
+    11        IEEE International Symposium on Information Theory                                                     ISIT
+3.  A   类期刊
+
+   序号                                                期刊全称                                                         期刊简称
+     1        SIAM Journal on Computing                                                                            SICOMP
+     2        IEEE Transactions on Information Theory                                                                 TIT
+     3        ACM Transactions on Algorithms                                                                         TALG
+     4        Information and Computation                                                                           IANDC
+4.  B   类期刊
+
+   序号                                                期刊全称                                                         期刊简称
+     1        ACM Transactions on Mathematical Software                                                             TOMS
+     2        Journal of Computer and System Sciences                                                                JCSS
+     3        Future Generation Computer Systems                                                                     FGCS
+     4        Algorithmica                                                                                      Algorithmica
+
+
+                                                                   7
+
+PAGE 8
+     5        Computational complexity                                                                               CC
+     6        INFORMS Journal on Computing                                                                        INFORMS
+     7        ACM Transactions on Computational Logic                                                               TOCL
+     8        Journal of Grid Computing                                                                              JGC
+     9        Formal Methods in System Design                                                                       FMSD
+     10       Journal of Global Optimization                                                                         JGO
+     11       Journal of Symbolic Computation                                                                        JSC
+     12       Formal Aspects of Computing                                                                            FAC
+     13       Theoretical Computer Science                                                                           TCS
+
+
+          （五） 系统软件与软件工程（System Software and Software Engineering）
+
+1.  A   类会议
+
+   序号                                                会议全称                                                        会议简称
+     1        USENIX Symposium on Operating Systems Design and Implementations                                      OSDI
+     2        International Conference on Software Engineering                                                      ICSE
+     3        ACM Symposium on Operating Systems Principles                                                         SOSP
+     4        ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages                                   POPL
+     5        ACM SIGPLAN Conference on Programming Language Design & Implementation                                PLDI
+     6        ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European                           FSE/ESEC
+              Software Engineering Conference
+     7        International Symposium on Software Testing and Analysis                                              ISSTA
+     8        Conference on Object-Oriented Programming Systems, Languages, and                                   OOPSLA
+              Applications
+     9        International Conference on Automated Software Engineering                                             ASE
+2.  B   类会议
+
+   序号                                                会议全称                                                        会议简称
+     1        Mining Software Repositories                                                                          MSR
+     2        International Conference on Software Analysis, Evolution, and Reengineering                          SANER
+     3        International Middleware Conference                                                               Middleware
+     4        Evaluation and Assessment in Software Engineering                                                     EASE
+     5        IEEE International Conference on Program Comprehension                                                ICPC
+     6        International Conference on Software Maintenance and Evolution                                       ICSME
+     7        IEEE International Symposium on Performance Analysis of Systems and Software                         ISPASS
+     8        European Conference on Object-Oriented Programming                                                   ECOOP
+
+                                                                   8
+
+PAGE 9
+     9        IEEE International Conference on Software Testing, Verification and Validation                              ICST
+     10       International Conference on Function Programming                                                            ICFP
+     11       IEEE International Requirement Engineering Conference                                                        RE
+     12       International Conference on Advanced Information Systems Engineering                                       CAiSE
+     13       USENIX Workshop on Hot Topics in Operating Systems                                                        HotOS
+     14       European Joint Conferences on Theory and Practice of Software                                              ETAPS
+     15       International Conference on Verification, Model Checking, and Abstract                                    VMCAI
+              Interpretation
+     16       International Symposium on Software Reliability Engineering                                                ISSRE
+     17       International Conference on Model Driven Engineering Languages and Systems                               MoDELS
+     18       International Symposium on Empirical Software Engineering and Measurement                                  ESEM
+     19       International Symposium on Formal Methods                                                                   FM
+     20       International Conference on Embedded Software                                                            EMSOFT
+     21       International Conference on Service Computing                                                               SCC
+     22       International Conference on Web Services（Research Track）                                                   ICWS
+     23       International Conference on Principles and Practice of Constraint Programming                                CP
+     24       International Symposium on Automated Technology for Verification and Analysis                              ATVA
+3.  A   类期刊
+
+   序号                                                   期刊全称                                                          期刊简称
+     1        IEEE Transactions on Software Engineering                                                                   TSE
+     2        ACM Transactions on Software Engineering and Methodology                                                  TOSEM
+     3        ACM Transactions on Programming Languages & Systems                                                       TOPLAS
+4.  B   类期刊
+
+   序号                                                   期刊全称                                                          期刊简称
+     1        IEEE Transactions on Service Computing                                                                      TSC
+     2        Information and Software Technology                                                                          IST
+     3        Empirical Software Engineering                                                                              ESE
+     4        Software and System Modeling                                                                              SoSyM
+     5        Requirements Engineering                                                                                     RE
+     6        Journal of Systems and Software                                                                             JSS
+     7        Automated Software Engineering                                                                              ASE
+     8        Science of Computer Programming                                                                             SCP
+     9        International Journal on Software Tools for Technology Transfer                                            STTT
+     10       Software Testing, Verification and Reliability                                                             STVR
+
+
+
+                                                                      9
+
+PAGE 10
+    11       Software: Practice and Experience                                                                   SPE
+    12       软件学报
+
+
+
+                        （六） 数据库与数据挖掘（Database and Data Mining                                           ）
+
+1.  A  类会议
+
+   序号                                              会议全称                                                      会议简称
+     1       ACM Conference on Management of Data                                                             SIGMOD
+     2       ACM Knowledge Discovery and Data Mining                                                          SIGKDD
+     3       International Conference on Research on Development in Information Retrieval                       SIGIR
+     4       ACM International Conference on Web Search and Data Mining                                        WSDM
+     5       International Conference on Very Large Data Bases                                                  VLDB
+     6       IEEE International Conference on Data Engineering                                                  ICDE
+     7       ACM Symposium on Principles of Database Systems                                                   PODS
+2.  B  类会议
+
+   序号                                              会议全称                                                      会议简称
+     1       IEEE International Semantic Web Conference                                                         ISWC
+     2       ACM International Conference on Information and Knowledge Management                               CIKM
+     3       SIAM International Conference on Data Mining                                                       SDM
+     4       International Conference on Database Theory                                                        ICDT
+     5       International Conference on Data Mining                                                           ICDM
+     6       European Conference on IR Research                                                                 ECIR
+     7       International Conference on Extending Database Technology                                          EDBT
+     8       International Conference on Innovative Data Systems Research                                       CIDR
+     9       Database Systems for Advanced Applications                                                       DASFAA
+3.  A  类期刊
+
+   序号                                              期刊全称                                                      期刊简称
+     1       IEEE Transactions on Knowledge and Data Engineering                                                TKDE
+     2       The VLDB Journal                                                                                  VLDBJ
+     3       ACM Transactions on Database Systems                                                               TODS
+     4       ACM Transactions on Information Systems                                                            TOIS
+4.  B  类期刊
+
+   序号                                              期刊全称                                                      期刊简称
+
+                                                                10
+
+PAGE 11
+     1        Information and Management                                                                                 I&M
+     2        European Journal of Information Systems                                                                    EJIS
+     3        International Journal of Geographical Information Science                                                  IJGIS
+     4        Journal of Strategic Information Systems                                                           J. Strategic Inf. Sys.
+     5        Journal of the American Society for Information Science and Technology                                    JASIST
+     6        Information Processing and Management                                                                      IPM
+     7        Information Systems                                                                                         IS
+     8        Journal of Web Semantics                                                                                   JWS
+     9        Data Mining and Knowledge Discovery                                                                       DMKD
+     10       Knowledge and Information Systems                                                                          KAIS
+     11       ACM Transactions on Knowledge Discovery from Data                                                         TKDD
+     12       Advanced Engineering Informatics                                                                            AEI
+     13       International Journal of Intelligent Systems                                                                IJIS
+     14       ACM Transactions on the Web                                                                               TWEB
+     15       Information Sciences
+     16       GeoInformatica
+     17       Data and Knowledge Engineering                                                                             DKE
+
+
+         （七） 人工智能与模式识别（Artificial Intelligence and Pattern Recognition）
+
+1.  A   类会议
+
+   序号                                                  会议全称                                                           会议简称
+     1        IEEE Conference on Computer Vision and Pattern Recognition                                                CVPR
+     2        International Conference on Computer Vision                                                                ICCV
+     3        International Conference on Machine Learning                                                              ICML
+     4        Annual Meeting of the Association for Computational Linguistics                                            ACL
+     5        European Conference on Computer Vision                                                                    ECCV
+     6        Annual Conference on Computational Learning Theory                                                        COLT
+     7        Annual Conference on Neural Information Processing Systems                                               NeurIPS
+     8        AAAI Conference on Artificial Intelligence                                                                AAAI
+     9        Conference on Empirical Methods in Natural Language Processing                                           EMNLP
+     10       IEEE International Conference on Robotics and Automation                                                   ICRA
+     11       International Conference on Learning Representations                                                       ICLR
+     12       Robotics: Science and Systems · A Robotics Conference                                                      RSS
+
+
+
+                                                                     11
+
+PAGE 12
+2.  B   类会议
+
+   序号                                                   会议全称                                                            会议简称
+     1        British Machine Vision Conference                                                                           BMVC
+     2        Artificial Intelligence and Statistics                                                                     AISTATS
+     3        The Annual Conference of the North American Chapter of the Association for                                  NAACL
+              Computational Linguistics
+     4        International Joint Conference on Artificial Intelligence                                                    IJCAI
+     5        International Joint Conference on Autonomous Agents and Multi-agent Systems                                AAMAS
+     6        International Conference on Automated Planning and Scheduling                                               ICAPS
+     7        International Joint Conference on Biometrics                                                                  ICB
+     8        Genetic and Evolutionary Computation Conference                                                             GECCO
+     9        International Conference on Pattern Recognition                                                              ICPR
+     10       International Conference on Automatic Face and Gesture Recognition                                            FG
+     11       International Conference on Document Analysis and Recognition                                               ICDAR
+     12       IEEE\RSJ International Conference on Intelligent Robots and Systems                                          IROS
+     13       International Conference on Computational Linguistics                                                      COLING
+     14       International Joint Conference on Neural Networks                                                           IJCNN
+     15       International Conference on Uncertainty in Artificial Intelligence                                            UAI
+     16       International Conference on Algorithmic Learning Theory                                                       ALT
+     17       Conference on Recommender Systems                                                                           RecSys
+3.  A   类期刊
+
+   序号                                                   期刊全称                                                            期刊简称
+      1       IEEE Trans on Pattern Analysis and Machine Intelligence                                                     TPAMI
+      2       International Journal of Computer Vision                                                                     IJCV
+      3       Journal of Machine Learning Research                                                                         JMLR
+      4       IEEE Transactions on Robotics                                                                                 TR
+      5       Artificial Intelligence                                                                                        AI
+      6       IEEE Transactions on Audio Speech, and Language Processing                                                  TASLP
+4.  B   类期刊
+
+   序号                                                   期刊全称                                                            期刊简称
+      1       IEEE Transactions on Evolutionary Computation                                                                 TEC
+      2       IEEE Transactions on Neural Networks and learning systems                                                   TNNLS
+      3       IEEE Transactions on Cybernetics
+      4       IEEE Transactions on Fuzzy Systems                                                                            TFS
+
+                                                                      12
+
+PAGE 13
+     5        Pattern Recognition                                                                                        PR
+     6        IEEE Transactions on Affective Computing                                                                  TAC
+     7        Journal of Biomedical Informatics                                                                          JBI
+     8        Neural Networks
+     9        KNOWLEDGE-BASED SYSTEMS
+     10       Expert Systems with Applications                                                                   Expert Syst. Appl.
+     11       Pattern Recognition Letters                                                                                PRL
+     12       Journal of Artificial Intelligence Research                                                               JAIR
+     13       Computer Vision and Image Understanding                                                                   CVIU
+     14       Engineering Applications of Artificial Intelligence                                                       EAAI
+     15       International Journal of Neural Systems
+     16       Neurocomputing
+     17       Evolutionary Computation
+     18       Computational Linguistics
+     19       Machine Learning
+     20       Artificial Intelligence in Medicine                                                                       AIM
+     21       Image and Vision Computing
+     22       Computer Speech and Language
+     23       Journal of Automated Reasoning
+     24       International Journal of Approximate Reasoning                                                            IJAR
+     25       Autonomous Agents and Multi-Agent Systems                                                               AAMAS
+     26       International Journal of Intelligent Systems                                                               IJIS
+     27       IEEE Transactions on Games                                                                                 TG
+     28       Journal of Speech, Language, and Hearing Research                                                        JSLHR
+     29       Neural Computation
+     30       Applied Intelligence
+     31       Transactions of the Association for Computational Linguistics                                             TACL
+     32       智能系统学报
+     33       中文信息学报
+
+
+              （八） 计算机图形学与多媒体（Computer Graphics and Multimedia）
+
+1.  A   类会议
+
+   序号                                                  会议全称                                                          会议简称
+     1        ACM SIGGRAPH Annual Conference                                                                        SIGGRAPH
+
+                                                                     13
+
+PAGE 14
+     2        IEEE Visualization Conference                                                                          IEEE VIS
+     3        ACM International Conference on Multimedia                                                            ACM MM
+     4        IEEE Virtual Reality                                                                                      VR
+2.  B   类会议
+
+   序号                                                 会议全称                                                          会议简称
+     1        Symposium on Solid and Physical Modeling                                                                 SPM
+     2        Eurographics Symposium on Rendering                                                                      EGSR
+     3        International Symposium on Mixed and Augmented Reality                                                  ISMAR
+     4        Eurographics                                                                                              EG
+     5        Eurographics Symposium on Geometry Processing                                                             SGP
+     6        ACM/Eurographics Symposium on Computer Animation                                                          SCA
+     7        Eurographics Conference on Visualization                                                                EuroVis
+     8        IEEE International Conference on Acoustics, Speech and SP                                               ICASSP
+     9        ACM SIGMM International Conference on Multimedia Retrieval                                               ICMR
+     10       International Conference on Image Processing                                                              ICIP
+     11       ACM Symposium on Interactive 3D Graphics                                                                 SI3D
+     12       IEEE Pacific Visualization Symposium                                                                   PacificVis
+     13       Pacific Graphics: The Pacific Conference on Computer Graphics and Applications                            PG
+     14       Data Compression Conference                                                                               DCC
+3.  A   类期刊
+
+   序号                                                  期刊全称                                                         期刊简称
+     1        IEEE Transactions on Image Processing                                                                     TIP
+     2        ACM Transactions on Graphics                                                                              TOG
+     3        IEEE Transactions on Multimedia                                                                          TMM
+     4        IEEE Transactions on Visualization and Computer Graphics                                                 TVCG
+     5        Computer-Aided Design                                                                                     CAD
+4.  B   类期刊
+
+   序号                                                  期刊全称                                                         期刊简称
+     1        Signal Processing
+     2        IEEE Transactions on Circuits and Systems for Video Technology                                           TCSVT
+     3        SIAM Journal on Imaging Sciences                                                                         SIIMS
+     4        Computers & Graphics                                                                                      CG
+     5        IEEE Signal Processing Letters                                                                            SPL
+
+
+
+                                                                    14
+
+PAGE 15
+     6       Computer Graphics Forum                                                                        CGF
+     7       Speech Communication                                                                       Speech Com
+     8       Computer Aided Geometric Design                                                               CAGD
+     9       计算机辅助设计与图形学学报
+    10       中国图像图形学报
+    11       图学学报
+
+
+   （九） 人机交互与普适计算(Human-Computer Interaction and Pervasive Computing)
+
+1.  A  类会议
+
+   序号                                            会议全称                                                    会议简称
+     1      ACM Conference on Computer Supported Cooperative Work and Social                               CSCW
+            Computing
+     2      ACM International Conference on Ubiquitous Computing                                         UbiComp
+     3      ACM Symposium on User Interface Software and Technology                                         UIST
+     4      ACM Conference on Human Factors in Computing Systems                                            CHI
+2.  B  类会议
+
+   序号                                            会议全称                                                    会议简称
+     1      IEEE International Conference on Pervasive Computing and Communications                      PERCOM
+     2      ACM International Conference on Intelligent User Interfaces                                     IUI
+     3      International Conference on Human Computer Interaction with Mobile Devices                  MobileHCI
+            and Services
+     4      ACM Conference on Designing Interactive Systems                                                 DIS
+     5      ACM International Conference on Multimodal Interaction                                         ICMI
+3.  A  类期刊
+
+   序号                                            期刊全称                                                    期刊简称
+     1       International Journal of Human Computer Studies                                               IJHCS
+     2       ACM Transactions on Computer-Human Interaction                                                TOCHI
+4.  B  类期刊
+
+   序号                                            期刊全称                                                    期刊简称
+     1       User Modeling and User-Adapted Interaction                                                   UMUAI
+     2       IEEE Transactions on Human-Machine Systems
+     3       Human Computer Interaction                                                                     HCI
+     4       Pervasive and Mobile Computing                                                                 PMC
+
+                                                              15
+
+PAGE 16
+     5       International Journal of Human-Computer Interaction                                                  IJHCI
+     6       Behaviour & Information Technology                                                                   BIT
+     7       Computer Supported Cooperative Work                                                                 CSCW
+     8       Interacting with Computers                                                                           IWC
+
+
+                                    （十） 综合与交叉（Interdisciplinary）
+
+1.  A   类会议
+
+   序号                                               会议全称                                                       会议简称
+     1       International Conference on Research in Computational Molecular Biology                           RECOMB
+     2       International conference on Intelligent Systems for Molecular Biology                               ISMB
+     3       International World Wide Web Conferences                                                           WWW
+     4       ACM Conference on Economics and Computation                                                           EC
+2.  B  类会议
+
+   序号                                               会议全称                                                       会议简称
+     1       International Conference on Hybrid Systems: Computation and Control                                 HSCC
+     2       International Conference on Medical Image Computing and Computer Assisted                          MICCAI
+             Intervention
+     3       International Conference on Business Process Management                                             BPM
+3.  A   类期刊
+
+   序号                                               期刊全称                                                       期刊简称
+     1       Journal of the ACM                                                                                  JACM
+     2       Proceedings of the IEEE                                                                           Proc. IEEE
+     3       Science China
+     4       中国科学
+4.  B  类期刊
+
+   序号                                               期刊全称                                                       期刊简称
+     1       IEEE Transactions on Medical Imaging                                                                 TMI
+     2       Briefings in Bioinformatics
+     3       IEEE Transactions on Intelligent Transportation Systems                                              TITS
+     4       IEEE Transactions on Geoscience and Remote Sensing                                                  TGARS
+     5       IEEE Transactions on Automation Science and Engineering                                             TASAE
+     6       Bioinformatics
+
+
+                                                                 16
+
+PAGE 17
+     7       Journal of the American Medical Informatics Association                                              JAMIA
+     8       IEEE Journal of Biomedical and Health Informatics                                                     JBHI
+     9       IEEE Transactions on Big Data                                                                         TBD
+    10       BMC Bioinformatics
+
+    11       IEEE Geoscience and Remote Sensing Letters                                                           GRSL
+    12       IEEE-ACM Transactions on Computational Biology and Bioinformatics                                    TCBB
+    13       Journal of Computer Science and Technology                                                            JCST
+    14       Tsinghua Science and Technology
+    15       计算机学报
+    16       计算机研究与发展
+    17       电子学报
+    18       自动化学报
+    19       系统仿真学报
+    20       清华大学学报（自然科学版）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  17

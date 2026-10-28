@@ -1,0 +1,42 @@
+[
+  [
+    "AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset",
+    "/2025.acl-long.96/"
+  ],
+  [
+    "Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral",
+    "/2025.acl-long.294/"
+  ],
+  [
+    "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+    "/2025.acl-long.341/"
+  ],
+  [
+    "BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages",
+    "/2025.acl-long.436/"
+  ],
+  [
+    "The AI Gap: How Socioeconomic Status Affects Language Technology Interactions",
+    "/2025.acl-long.914/"
+  ],
+  [
+    "MaCP: Minimal yet Mighty Adaptation via Hierarchical Cosine Projection",
+    "/2025.acl-long.1006/"
+  ],
+  [
+    "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+    "/2025.acl-long.1126/"
+  ],
+  [
+    "Language Models Resist Alignment: Evidence From Data Compression",
+    "/2025.acl-long.1141/"
+  ],
+  [
+    "A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive",
+    "/2025.acl-long.1454/"
+  ],
+  [
+    "Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs",
+    "/2025.acl-long.1579/"
+  ]
+]

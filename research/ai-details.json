@@ -1,0 +1,930 @@
+{
+  "asOf": "2026-10-28",
+  "acceptanceWindow": [
+    2023,
+    2024,
+    2025
+  ],
+  "bestPapersYear": 2025,
+  "conferences": [
+    {
+      "acronym": "AAAI",
+      "edition": 2027,
+      "officialUrl": "https://aaai.org/conference/aaai/aaai-27/",
+      "event": {
+        "start": "2027-02-16",
+        "end": "2027-02-23",
+        "location": "Montréal, Canada",
+        "sourceUrl": "https://aaai.org/conference/aaai/aaai-27/"
+      },
+      "tracks": [
+        {
+          "id": "main",
+          "name": "Main Technical Track",
+          "abstractDeadline": "2026-07-21T23:59:00-12:00",
+          "paperDeadline": "2026-07-28T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=AAAI.org/2027/Conference",
+          "cfpUrl": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+          "note": "",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "id": "aisi",
+          "name": "AI for Social Impact",
+          "abstractDeadline": "2026-07-21T23:59:00-12:00",
+          "paperDeadline": "2026-07-28T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=AAAI.org/2027/Artificial_Intelligence_for_Social_Impact_Track",
+          "cfpUrl": "https://aaai.org/conference/aaai/aaai-27/aisi-call/",
+          "note": "",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://aaai.org/conference/aaai/aaai-27/aisi-call/",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "id": "alignment",
+          "name": "AI Alignment",
+          "abstractDeadline": "2026-08-14T23:59:00-12:00",
+          "paperDeadline": "2026-08-21T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": null,
+          "cfpUrl": "https://aaai.org/conference/aaai/aaai-27/aia-call/",
+          "note": "此 Track 的截止日期不同于主赛道；时区沿用大会统一 AoE 约定。 专用提交入口尚未单独核验，请从该 Track 官方 CFP 进入。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://aaai.org/conference/aaai/aaai-27/aia-call/",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        }
+      ],
+      "template": {
+        "url": "https://aaai.org/authorkit27/",
+        "year": 2027,
+        "status": "current",
+        "sourceUrl": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+        "note": "官网已链接 AAAI-27 Author Kit；抓取工具访问此下载入口返回 403，未验证压缩包内容。"
+      },
+      "acceptanceHistory": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "ratePercent": null,
+          "track": "Main / Research",
+          "note": "尚未核验原始投稿数与录用数。",
+          "sources": [],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "accepted": null,
+          "submitted": null,
+          "ratePercent": null,
+          "track": "Main / Research",
+          "note": "尚未核验原始投稿数与录用数。",
+          "sources": [],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "accepted": null,
+          "submitted": null,
+          "ratePercent": null,
+          "track": "Main / Research",
+          "note": "尚未核验原始投稿数与录用数。",
+          "sources": [],
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "bestPapersYear": 2025,
+      "bestPapers": [
+        {
+          "title": "Every Bit Helps: Achieving the Optimal Distortion with a Few Queries",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33507",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+        },
+        {
+          "title": "Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33905",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+        },
+        {
+          "title": "Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34845",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+        }
+      ],
+      "bestPapersNote": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。",
+      "sources": [
+        {
+          "label": "会议官方资料",
+          "url": "https://aaai.org/conference/aaai/aaai-27/",
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "label": "官方 CFP",
+          "url": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "verifiedDate": "2026-10-28"
+    },
+    {
+      "acronym": "ACL",
+      "edition": 2027,
+      "officialUrl": "https://2027.aclweb.org/",
+      "event": {
+        "start": "2027-08-17",
+        "end": "2027-08-22",
+        "location": "Kyoto, Japan",
+        "sourceUrl": "https://2027.aclweb.org/",
+        "note": "主会 8 月 20–22 日；Tutorials 8 月 17 日；Workshops 8 月 18–19 日。"
+      },
+      "tracks": [
+        {
+          "id": "main",
+          "name": "Main Conference · Long / Short",
+          "abstractDeadline": null,
+          "paperDeadline": "2027-01-04T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": null,
+          "cfpUrl": "https://2027.aclweb.org/calls/main/",
+          "note": "先提交 ARR，再 commitment 至 ACL。Commitment 日期与 2027 提交入口尚未公布；官网当前 ARR 链接指向 2026，请从 ARR 官方页面核对。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://2027.aclweb.org/calls/main/",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "submissionInfoUrl": "https://aclrollingreview.org/cfp",
+          "commitmentDeadline": null
+        },
+        {
+          "id": "theme",
+          "name": "Theme · Homogenization and knowledge collapse in LLMs",
+          "abstractDeadline": null,
+          "paperDeadline": "2027-01-04T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": null,
+          "cfpUrl": "https://2027.aclweb.org/calls/main/",
+          "note": "与主会共同通过 ARR 提交。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://2027.aclweb.org/calls/main/",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "submissionInfoUrl": "https://aclrollingreview.org/cfp"
+        }
+      ],
+      "template": {
+        "url": "https://github.com/acl-org/acl-style-files",
+        "year": null,
+        "status": "rolling",
+        "sourceUrl": "https://aclrollingreview.org/cfp",
+        "note": "ARR 官方指定的通用 ACL 模板，持续更新，无单独年度版本。"
+      },
+      "acceptanceHistory": [
+        {
+          "year": 2023,
+          "accepted": 1074,
+          "submitted": 4864,
+          "ratePercent": 22.08,
+          "track": "Main / Research",
+          "note": "主会长短文合计；含直接投稿及 ARR commitment；不含 Findings、TACL/CL。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aclanthology.org/2023.acl-long.0.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "accepted": 940,
+          "submitted": 4407,
+          "ratePercent": 21.33,
+          "track": "Main / Research",
+          "note": "按官方论文集前言：主会长短文；分母为官方 ARR 口径，非仅 commitment 数；不含 Findings。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aclanthology.org/2024.acl-long.0.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "accepted": 1699,
+          "submitted": 8360,
+          "ratePercent": 20.32,
+          "track": "Main / Research",
+          "note": "按 Program Chairs 前言：主会长短文；分母为 2024 年 12 月与 2025 年 2 月 ARR 的 unique submissions；不含 Findings。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aclanthology.org/2025.acl-long.0.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "bestPapersYear": 2025,
+      "bestPapers": [
+        {
+          "title": "A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive",
+          "url": "https://aclanthology.org/2025.acl-long.1454/",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://2025.aclweb.org/program/awards/"
+        },
+        {
+          "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+          "url": "https://aclanthology.org/2025.acl-long.341/",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://2025.aclweb.org/program/awards/"
+        },
+        {
+          "title": "Language Models Resist Alignment: Evidence From Data Compression",
+          "url": "https://aclanthology.org/2025.acl-long.1141/",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://2025.aclweb.org/program/awards/"
+        },
+        {
+          "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+          "url": "https://aclanthology.org/2025.acl-long.1126/",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://2025.aclweb.org/program/awards/"
+        }
+      ],
+      "bestPapersNote": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。",
+      "sources": [
+        {
+          "label": "会议官方资料",
+          "url": "https://2027.aclweb.org/",
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "label": "官方 CFP",
+          "url": "https://2027.aclweb.org/calls/main/",
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "verifiedDate": "2026-10-28"
+    },
+    {
+      "acronym": "EMNLP",
+      "edition": 2026,
+      "officialUrl": "https://2026.emnlp.org/",
+      "event": {
+        "start": "2026-10-24",
+        "end": "2026-10-29",
+        "location": "Budapest, Hungary",
+        "sourceUrl": "https://2026.emnlp.org/"
+      },
+      "tracks": [
+        {
+          "id": "main",
+          "name": "Main Conference · Long / Short",
+          "abstractDeadline": null,
+          "paperDeadline": "2026-05-25T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May",
+          "cfpUrl": "https://2026.emnlp.org/calls/main_conference_papers/",
+          "note": "需先 ARR 投稿，再 commitment；不得把 commitment 当成新论文提交截止。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://2026.emnlp.org/calls/main_conference_papers/",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "commitmentDeadline": "2026-08-02T23:59:00-12:00",
+          "commitmentUrl": "https://openreview.net/group?id=EMNLP"
+        },
+        {
+          "id": "industry",
+          "name": "Industry Track",
+          "abstractDeadline": null,
+          "paperDeadline": "2026-06-16T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=EMNLP/2026/Industry_Track",
+          "cfpUrl": "https://2026.emnlp.org/calls/industry_track/",
+          "note": "独立投稿入口见 CFP。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://2026.emnlp.org/calls/industry_track/",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        }
+      ],
+      "template": {
+        "url": "https://github.com/acl-org/acl-style-files",
+        "year": null,
+        "status": "rolling",
+        "sourceUrl": "https://aclrollingreview.org/cfp",
+        "note": "ARR 官方通用 ACL 模板，无单独年度版本。"
+      },
+      "acceptanceHistory": [
+        {
+          "year": 2023,
+          "accepted": 1047,
+          "submitted": 4909,
+          "ratePercent": 21.33,
+          "track": "Main / Research",
+          "note": "主会长短文；含 ARR commitment；不含 Findings、TACL/CL、Industry 与 Demo。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aclanthology.org/2023.emnlp-main.0.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "accepted": 1271,
+          "submitted": 6105,
+          "ratePercent": 20.82,
+          "track": "Main / Research",
+          "note": "主会决定时录用数；分母排除 70 篇未获 3 份评审即撤稿及 220 篇 desk reject；3 篇后续撤稿未从此录用数扣除。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aclanthology.org/2024.emnlp-main.0.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "accepted": 1811,
+          "submitted": 8174,
+          "ratePercent": 22.16,
+          "track": "Main / Research",
+          "note": "主会长短文；分母含 778 篇未获 3 份评审即撤稿及 670 篇 desk reject，与 2024 口径不同；不含 Findings。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aclanthology.org/2025.emnlp-main.0.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "bestPapersYear": 2025,
+      "bestPapers": [
+        {
+          "title": "Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index",
+          "url": "https://aclanthology.org/2025.emnlp-main.1268/",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://2025.emnlp.org/program/awards/"
+        }
+      ],
+      "bestPapersNote": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。",
+      "sources": [
+        {
+          "label": "会议官方资料",
+          "url": "https://2026.emnlp.org/",
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "label": "官方 CFP",
+          "url": "https://2026.emnlp.org/calls/main_conference_papers/",
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "verifiedDate": "2026-10-28"
+    },
+    {
+      "acronym": "NeurIPS",
+      "edition": 2026,
+      "officialUrl": "https://neurips.cc/Conferences/2026",
+      "event": {
+        "start": "2026-12-06",
+        "end": "2026-12-12",
+        "location": "Sydney, Australia · 主会",
+        "sourceUrl": "https://neurips.cc/Conferences/2026",
+        "satellites": [
+          {
+            "location": "Atlanta, USA",
+            "start": "2026-12-09",
+            "end": "2026-12-13"
+          },
+          {
+            "location": "Paris, France",
+            "start": "2026-12-09",
+            "end": "2026-12-13"
+          }
+        ],
+        "note": "Sydney 主会 12/6–12；Atlanta 与 Paris 卫星会 12/9–13。"
+      },
+      "tracks": [
+        {
+          "id": "main",
+          "name": "Main Track",
+          "abstractDeadline": "2026-05-04T23:59:00-12:00",
+          "paperDeadline": "2026-05-06T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=NeurIPS.cc/2026/Conference",
+          "cfpUrl": "https://neurips.cc/Conferences/2026/CallForPapers",
+          "note": "",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://neurips.cc/Conferences/2026/CallForPapers",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "id": "evaluations",
+          "name": "Evaluations & Datasets",
+          "abstractDeadline": "2026-05-04T23:59:00-12:00",
+          "paperDeadline": "2026-05-06T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=NeurIPS.cc/2026/Evaluations_and_Datasets_Track",
+          "cfpUrl": "https://neurips.cc/Conferences/2026/CallForEvaluationsDatasets",
+          "note": "2026 更名自 Datasets & Benchmarks；独立投稿入口见 CFP。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://neurips.cc/Conferences/2026/CallForEvaluationsDatasets",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "name": "Position Papers",
+          "abstractDeadline": "2026-05-04T23:59:00-12:00",
+          "paperDeadline": "2026-05-06T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=NeurIPS.cc/2026/Position_Paper_Track",
+          "cfpUrl": "https://neurips.cc/Conferences/2026/CallForPositionPapers",
+          "note": "",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://neurips.cc/Conferences/2026/CallForPositionPapers",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        }
+      ],
+      "template": {
+        "url": "https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip",
+        "year": 2026,
+        "status": "current",
+        "sourceUrl": "https://neurips.cc/Conferences/2026/CallForPapers",
+        "note": ""
+      },
+      "acceptanceHistory": [
+        {
+          "year": 2023,
+          "accepted": 3218,
+          "submitted": 12343,
+          "ratePercent": 26.07,
+          "track": "Main / Research",
+          "note": "官方 Fact Sheet 主赛道；不含 Datasets & Benchmarks。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://media.neurips.cc/Conferences/NeurIPS2023/NeurIPS2023-Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "accepted": 4037,
+          "submitted": 15671,
+          "ratePercent": 25.76,
+          "track": "Main / Research",
+          "note": "官方 Fact Sheet 主赛道统计；不含 Datasets & Benchmarks。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://media.neurips.cc/Conferences/NeurIPS2024/NeurIPS2024-Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "accepted": 5290,
+          "submitted": 21575,
+          "ratePercent": 24.52,
+          "track": "Main / Research",
+          "note": "主赛道有效投稿 valid submissions；不含 Datasets & Benchmarks / Position。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://blog.neurips.cc/2025/09/30/reflections-on-the-2025-review-process-from-the-program-committee-chairs/",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "bestPapersYear": 2025,
+      "bestPapers": [
+        {
+          "title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+          "url": "https://openreview.net/forum?id=saDOrrnNTz",
+          "award": "Best Paper · Datasets & Benchmarks",
+          "year": 2025,
+          "sourceUrl": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+        },
+        {
+          "title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+          "url": "https://openreview.net/forum?id=1b7whO4SfY",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+        },
+        {
+          "title": "1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities",
+          "url": "https://openreview.net/forum?id=s0JVsx3bx1",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+        },
+        {
+          "title": "Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training",
+          "url": "https://openreview.net/forum?id=BSZqpqgqM0",
+          "award": "Best Paper",
+          "year": 2025,
+          "sourceUrl": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+        }
+      ],
+      "bestPapersNote": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。",
+      "sources": [
+        {
+          "label": "会议官方资料",
+          "url": "https://neurips.cc/Conferences/2026",
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "label": "官方 CFP",
+          "url": "https://neurips.cc/Conferences/2026/CallForPapers",
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "verifiedDate": "2026-10-28"
+    },
+    {
+      "acronym": "ICLR",
+      "edition": 2027,
+      "officialUrl": "https://iclr.cc/Conferences/2027",
+      "event": {
+        "start": "2027-04-26",
+        "end": "2027-04-30",
+        "location": "California, USA · 具体场馆待公布",
+        "sourceUrl": "https://iclr.cc/"
+      },
+      "tracks": [
+        {
+          "id": "main",
+          "name": "Conference Papers",
+          "abstractDeadline": "2026-09-18T23:59:00-12:00",
+          "paperDeadline": "2026-09-25T23:59:00-12:00",
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": "https://openreview.net/group?id=ICLR.cc/2027/Conference",
+          "cfpUrl": "https://iclr.cc/Conferences/2027/CallForPapers",
+          "note": "",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://iclr.cc/Conferences/2027/CallForPapers",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        }
+      ],
+      "template": {
+        "url": "https://media.iclr.cc/Conferences/ICLR2027/iclr-2027-style-files.zip",
+        "year": 2027,
+        "status": "current",
+        "sourceUrl": "https://iclr.cc/Conferences/2027/AuthorGuidelines",
+        "note": ""
+      },
+      "acceptanceHistory": [
+        {
+          "year": 2023,
+          "accepted": 1574,
+          "submitted": 4938,
+          "ratePercent": 31.88,
+          "track": "Main / Research",
+          "note": "官方 Fact Sheet 主会统计；分母为完整投稿，非摘要注册数。该文件四舍五入显示约 31%，此处百分比由原始整数重算。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://media.iclr.cc/Conferences/ICLR2023/ICLR2023-Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "accepted": 2260,
+          "submitted": 7262,
+          "ratePercent": 31.12,
+          "track": "Main / Research",
+          "note": "官方 Fact Sheet 主会统计；原始分母为 7262，与其他收集日期的 OpenReview 汇总可能不同。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://media.iclr.cc/Conferences/ICLR2024/ICLR2024-Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "accepted": 3704,
+          "submitted": 11603,
+          "ratePercent": 31.92,
+          "track": "Main / Research",
+          "note": "2026 官方 Fact Sheet 回顾的 2025 主会数据。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://media.iclr.cc/Conferences/ICLR2026/ICLR2026_Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "bestPapersYear": 2025,
+      "bestPapers": [
+        {
+          "title": "Safety Alignment Should be Made More Than Just a Few Tokens Deep",
+          "url": "https://openreview.net/forum?id=6Mxhg9PtDE",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+        },
+        {
+          "title": "Learning Dynamics of LLM Finetuning",
+          "url": "https://openreview.net/forum?id=tPNHOoZFl9",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+        },
+        {
+          "title": "AlphaEdit: Null-Space Constrained Model Editing for Language Models",
+          "url": "https://openreview.net/forum?id=HvSytvg3Jh",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+        }
+      ],
+      "bestPapersNote": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。",
+      "sources": [
+        {
+          "label": "会议官方资料",
+          "url": "https://iclr.cc/Conferences/2027",
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "label": "官方 CFP",
+          "url": "https://iclr.cc/Conferences/2027/CallForPapers",
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "verifiedDate": "2026-10-28"
+    },
+    {
+      "acronym": "ICML",
+      "edition": 2027,
+      "officialUrl": "https://icml.cc/Conferences/FutureMeetings",
+      "event": {
+        "start": null,
+        "end": null,
+        "location": "South America · 城市与会期尚未公布",
+        "sourceUrl": "https://icml.cc/Conferences/FutureMeetings"
+      },
+      "tracks": [
+        {
+          "id": "main",
+          "name": "Main Track",
+          "abstractDeadline": null,
+          "paperDeadline": null,
+          "timezone": "UTC-12 (AoE)",
+          "submissionUrl": null,
+          "cfpUrl": "https://icml.cc/Conferences/FutureMeetings",
+          "note": "2027 CFP 与截止日期尚未核验；不将 2026 日期外推。",
+          "sources": [
+            {
+              "label": "会议官方资料",
+              "url": "https://icml.cc/Conferences/FutureMeetings",
+              "verifiedDate": "2026-10-28"
+            }
+          ]
+        }
+      ],
+      "template": {
+        "url": "https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip",
+        "year": 2026,
+        "status": "previous-year",
+        "sourceUrl": "https://icml.cc/Conferences/2026/CallForPapers",
+        "note": "2027 模板尚未核验；暂提供 2026 官方模板，仅供提前准备。正式投稿前核对 2027 CFP。"
+      },
+      "acceptanceHistory": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "ratePercent": null,
+          "track": "Main / Research",
+          "note": "尚未核验原始投稿数与录用数。",
+          "sources": [],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "accepted": null,
+          "submitted": null,
+          "ratePercent": 27.5,
+          "track": "Main / Research",
+          "note": "官方仅给出超过 2600 篇和 27.5%；未提供可核验整数分母，不反推。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://media.icml.cc/Conferences/ICML2024/ICML2024_Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "accepted": 3260,
+          "submitted": 12107,
+          "ratePercent": 26.93,
+          "track": "Main / Research",
+          "note": "主赛道；RIKEN AIP 官方新闻报告原始数量，会议官方 Fact Sheet 确认 3260 篇及约 27%。",
+          "sources": [
+            {
+              "label": "官方统计 / 论文集前言",
+              "url": "https://aip.riken.jp/news/icml2025/?lang=ja",
+              "verifiedDate": "2026-10-28"
+            },
+            {
+              "label": "ICML 官方 Fact Sheet",
+              "url": "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "bestPapersYear": 2025,
+      "bestPapers": [
+        {
+          "title": "The Value of Prediction in Identifying the Worst-Off",
+          "url": "https://icml.cc/virtual/2025/oral/47269",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+        },
+        {
+          "title": "Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction",
+          "url": "https://icml.cc/virtual/2025/oral/47241",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+        },
+        {
+          "title": "Conformal Prediction as Bayesian Quadrature",
+          "url": "https://icml.cc/virtual/2025/oral/47227",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+        },
+        {
+          "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+          "url": "https://icml.cc/virtual/2025/poster/45990",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+        },
+        {
+          "title": "CollabLLM: From Passive Responders to Active Collaborators",
+          "url": "https://icml.cc/virtual/2025/oral/47250",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+        },
+        {
+          "title": "Score Matching with Missing Data",
+          "url": "https://icml.cc/virtual/2025/oral/47194",
+          "award": "Outstanding Paper",
+          "year": 2025,
+          "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+        }
+      ],
+      "bestPapersNote": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。",
+      "sources": [
+        {
+          "label": "会议官方资料",
+          "url": "https://icml.cc/Conferences/FutureMeetings",
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "label": "官方 CFP",
+          "url": "https://icml.cc/Conferences/2026/CallForPapers",
+          "verifiedDate": "2026-10-28"
+        }
+      ],
+      "verifiedDate": "2026-10-28",
+      "previousEdition": {
+        "year": 2026,
+        "officialUrl": "https://icml.cc/Conferences/2026",
+        "event": {
+          "start": "2026-07-06",
+          "end": "2026-07-11",
+          "location": "Seoul, South Korea"
+        },
+        "tracks": [
+          {
+            "id": "main",
+            "name": "Main Track",
+            "abstractDeadline": "2026-01-23T23:59:00-12:00",
+            "paperDeadline": "2026-01-28T23:59:00-12:00",
+            "timezone": "UTC-12 (AoE)",
+            "submissionUrl": "https://openreview.net/group?id=ICML.cc/2026/Conference",
+            "cfpUrl": "https://icml.cc/Conferences/2026/CallForPapers",
+            "note": "",
+            "sources": [
+              {
+                "label": "会议官方资料",
+                "url": "https://icml.cc/Conferences/2026/CallForPapers",
+                "verifiedDate": "2026-10-28"
+              }
+            ]
+          },
+          {
+            "id": "position",
+            "name": "Position Papers",
+            "abstractDeadline": "2026-01-23T23:59:00-12:00",
+            "paperDeadline": "2026-01-28T23:59:00-12:00",
+            "timezone": "UTC-12 (AoE)",
+            "submissionUrl": "https://openreview.net/group?id=ICML.cc/2026/Position_Paper_Track",
+            "cfpUrl": "https://icml.cc/Conferences/2026/CallForPositionPapers",
+            "note": "",
+            "sources": [
+              {
+                "label": "会议官方资料",
+                "url": "https://icml.cc/Conferences/2026/CallForPositionPapers",
+                "verifiedDate": "2026-10-28"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPapersSource": "https://icml.cc/virtual/2025/awards_detail"
+    }
+  ]
+}

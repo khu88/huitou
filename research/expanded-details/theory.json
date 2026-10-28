@@ -1,0 +1,5264 @@
+{
+  "asOf": "2026-10-28",
+  "conferences": [
+    {
+      "id": "stoc",
+      "detail": {
+        "acronym": "STOC",
+        "year": 2027,
+        "officialUrl": "https://acm-stoc.org/stoc2027/",
+        "event": {
+          "start": "2027-06-06",
+          "end": "2027-06-10",
+          "location": "Atlanta, Georgia, USA",
+          "source": "https://acm-stoc.org/stoc2027/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-11-02T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://stoc27.hotcrp.com/",
+            "template": {
+              "url": "http://www.acm.org/publications/proceedings-template",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://acm-stoc.org/stoc2027/stoc2027-cfp.html",
+            "sources": [
+              "https://acm-stoc.org/stoc2027/stoc2027-cfp.html"
+            ],
+            "note": "",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "主会 6 月 6–10 日；AI Day 为 6 月 11 日。"
+        ],
+        "sources": [
+          {
+            "url": "https://acm-stoc.org/stoc2027/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://acm-stoc.org/stoc2027/stoc2027-cfp.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://acm-stoc.org/stoc2027/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://acm-stoc.org/stoc2027/stoc2027-cfp.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "attempted",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://acm-stoc.org/stoc2027/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://acm-stoc.org/stoc2027/stoc2027-cfp.html",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/stoc.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "unavailable",
+            "sources": [
+              "https://pure.mpg.de/pubman/item/item_3490057_4/component/file_3561382/3564246.fm-1.pdf"
+            ],
+            "note": "Public source retrieval failed: HTTPError: HTTP Error 403: Forbidden. Counts remain unknown; failure does not show that statistics were not published."
+          }
+        }
+      }
+    },
+    {
+      "id": "soda",
+      "detail": {
+        "acronym": "SODA",
+        "year": 2027,
+        "officialUrl": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+        "event": {
+          "start": "2027-01-24",
+          "end": "2027-01-27",
+          "location": "Sheraton Philadelphia Downtown, Philadelphia, Pennsylvania, USA",
+          "source": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-07-09T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://soda27.hotcrp.com/",
+            "template": null,
+            "cfpUrl": "https://www.siam.org/conferences-events/siam-conferences/soda27/submissions/",
+            "sources": [
+              "https://www.siam.org/conferences-events/siam-conferences/soda27/submissions/"
+            ],
+            "note": "官方列明排版要求，尚未核验独立模板下载链接。",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/submissions/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/submissions/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "not-checked",
+          "acceptance2023-2025": "attempted",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+            "status": null,
+            "error": "HTTPError: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+            "status": null,
+            "error": null
+          },
+          {
+            "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/submissions/",
+            "status": null,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/soda.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "unavailable",
+            "sources": [
+              "https://epubs.siam.org/doi/pdf/10.1137/1.9781611977554.fm"
+            ],
+            "note": "Public source retrieval failed: HTTPError: HTTP Error 403: Forbidden. Counts remain unknown; failure does not show that statistics were not published."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "unavailable",
+            "sources": [
+              "https://epubs.siam.org/doi/pdf/10.1137/1.9781611977912.fm"
+            ],
+            "note": "Public source retrieval failed: HTTPError: HTTP Error 403: Forbidden. Counts remain unknown; failure does not show that statistics were not published."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "unavailable",
+            "sources": [
+              "https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.fm"
+            ],
+            "note": "Public source retrieval failed: HTTPError: HTTP Error 403: Forbidden. Counts remain unknown; failure does not show that statistics were not published."
+          }
+        }
+      }
+    },
+    {
+      "id": "cav",
+      "detail": {
+        "acronym": "CAV",
+        "year": 2027,
+        "officialUrl": "https://conferences.i-cav.org/2027/",
+        "event": {
+          "start": "2027-07-21",
+          "end": "2027-07-23",
+          "location": "KIT, Amsterdam, Netherlands",
+          "source": "https://conferences.i-cav.org/2027/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Regular papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2027-01-20T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "cfpUrl": "https://conferences.i-cav.org/2027/cfp/",
+            "sources": [
+              "https://conferences.i-cav.org/2027/cfp/"
+            ],
+            "note": "官方要求 LNCS 格式；HotCRP 投稿链接尚待公布。",
+            "primary": true
+          },
+          {
+            "name": "Tool papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2027-01-20T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "cfpUrl": "https://conferences.i-cav.org/2027/cfp/",
+            "sources": [
+              "https://conferences.i-cav.org/2027/cfp/"
+            ],
+            "note": "官方要求 LNCS 格式；HotCRP 投稿链接尚待公布。",
+            "primary": false
+          },
+          {
+            "name": "Application / Industrial Experience / Case Study papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2027-01-20T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "cfpUrl": "https://conferences.i-cav.org/2027/cfp/",
+            "sources": [
+              "https://conferences.i-cav.org/2027/cfp/"
+            ],
+            "note": "官方要求 LNCS 格式；HotCRP 投稿链接尚待公布。",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 67,
+            "submitted": 261,
+            "scope": "Full papers",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-37706-8"
+            ],
+            "note": "Publisher proceedings summary."
+          },
+          {
+            "year": 2024,
+            "accepted": 69,
+            "submitted": 317,
+            "scope": "Regular, tool and case-study papers",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-3-031-65633-0/1"
+            ],
+            "note": "51 regular + 16 tool + 2 case-study papers. The preface also claims roughly 26% in each category, inconsistent with 69/317 (21.8%); preserve the explicit integers and flag this source inconsistency."
+          },
+          {
+            "year": 2025,
+            "accepted": 79,
+            "submitted": 305,
+            "scope": "Regular, tool and case-study papers",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-98668-0"
+            ],
+            "note": "51 regular + 24 tool + 4 case-study papers."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-37706-8"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-3-031-65633-0/1"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-98668-0"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "主会 7 月 21–23 日；含 workshops 的总会期为 7 月 19–23 日。"
+        ],
+        "sources": [
+          {
+            "url": "https://conferences.i-cav.org/2027/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://conferences.i-cav.org/2027/cfp/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://conferences.i-cav.org/2027/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://conferences.i-cav.org/2027/cfp/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "not-checked",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://conferences.i-cav.org/2027/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://conferences.i-cav.org/2027/cfp/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/cav.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-37706-8"
+            ],
+            "note": "Publisher proceedings summary."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-3-031-65633-0/1"
+            ],
+            "note": "51 regular + 16 tool + 2 case-study papers. The preface also claims roughly 26% in each category, inconsistent with 69/317 (21.8%); preserve the explicit integers and flag this source inconsistency."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-98668-0"
+            ],
+            "note": "51 regular + 24 tool + 4 case-study papers."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-37706-8"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-3-031-65633-0/1"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-98668-0"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-98668-0"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "focs",
+      "detail": {
+        "acronym": "FOCS",
+        "year": 2026,
+        "officialUrl": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+        "event": {
+          "start": "2026-11-08",
+          "end": "2026-11-11",
+          "location": "New York City, USA",
+          "source": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-04-01T17:00:00-04:00",
+            "timezone": "EDT (UTC−4)",
+            "submissionUrl": "https://focs26.hotcrp.com/",
+            "template": null,
+            "cfpUrl": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+            "sources": [
+              "https://sanjeevkhanna.org/FOCS2026_CFP.html"
+            ],
+            "note": "",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": 133,
+            "submitted": 463,
+            "scope": "Official HotCRP public submission statistics",
+            "sources": [
+              "https://focs24.hotcrp.com/"
+            ],
+            "note": "Official public HotCRP counts individually verified. The page does not further specify paper types or withdrawal handling."
+          },
+          {
+            "year": 2025,
+            "accepted": 137,
+            "submitted": 546,
+            "scope": "Research papers",
+            "sources": [
+              "https://ieee-focs.org/FOCS-2025-Papers/pdfs/FOCS2025-4pLZMZRP5BPG9n0GSua5T9/713200z017/713200z017.pdf"
+            ],
+            "note": "Official proceedings welcome message; plenary talks and workshops excluded."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://focs24.hotcrp.com/"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://ieee-focs.org/FOCS-2025-Papers/pdfs/FOCS2025-4pLZMZRP5BPG9n0GSua5T9/713200z017/713200z017.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Quasipolynomial Bounds for the Corners Theorem",
+              "url": "https://arxiv.org/abs/2504.07006",
+              "award": "Best Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/"
+            },
+            {
+              "title": "Explicit Lossless Vertex Expanders",
+              "url": "https://arxiv.org/abs/2504.15087",
+              "award": "Best Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/"
+            },
+            {
+              "title": "Breaking a Long-Standing Barrier: 2-ε Approximation for Steiner Forest",
+              "url": "https://arxiv.org/abs/2504.11398",
+              "award": "Best Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/"
+            },
+            {
+              "title": "Obfuscation of Unitary Quantum Programs",
+              "url": "https://arxiv.org/abs/2507.11970",
+              "award": "Machtey Award for Best Student Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/"
+            },
+            {
+              "title": "Gödel in Cryptography: Effectively Zero Knowledge Proofs for NP with No Interaction, No Setup, and Perfect Soundness",
+              "url": "https://eccc.weizmann.ac.il/report/2025/095/",
+              "award": "Machtey Award for Best Student Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/"
+            }
+          ],
+          "source": "https://focs.computer.org/2025/best-paper-awards/",
+          "note": "Includes all three Best Paper and both Machtey Best Student Paper co-winners listed by the official 2025 awards page. Author preprints checked by title/authors; these are preprint links, not guaranteed final proceedings versions. No supplemental Oral/Spotlight papers added."
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Quasipolynomial Bounds for the Corners Theorem",
+              "url": "https://arxiv.org/abs/2504.07006",
+              "award": "Best Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/",
+              "presentationType": "best",
+              "topic": "Combinatorics"
+            },
+            {
+              "title": "Explicit Lossless Vertex Expanders",
+              "url": "https://arxiv.org/abs/2504.15087",
+              "award": "Best Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/",
+              "presentationType": "best",
+              "topic": "Expander graphs"
+            },
+            {
+              "title": "Breaking a Long-Standing Barrier: 2-ε Approximation for Steiner Forest",
+              "url": "https://arxiv.org/abs/2504.11398",
+              "award": "Best Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/",
+              "presentationType": "best",
+              "topic": "Approximation algorithms"
+            },
+            {
+              "title": "Obfuscation of Unitary Quantum Programs",
+              "url": "https://arxiv.org/abs/2507.11970",
+              "award": "Machtey Award for Best Student Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/",
+              "presentationType": "best",
+              "topic": "Quantum cryptography"
+            },
+            {
+              "title": "Gödel in Cryptography: Effectively Zero Knowledge Proofs for NP with No Interaction, No Setup, and Perfect Soundness",
+              "url": "https://eccc.weizmann.ac.il/report/2025/095/",
+              "award": "Machtey Award for Best Student Paper",
+              "source": "https://focs.computer.org/2025/best-paper-awards/",
+              "presentationType": "best",
+              "topic": "Cryptography and proof complexity"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://focs.computer.org/2025/best-paper-awards/",
+              "label": "2025 official award or proceedings source"
+            }
+          ],
+          "selectionNote": "Includes all three Best Paper and both Machtey Best Student Paper co-winners listed by the official 2025 awards page. Author preprints checked by title/authors; these are preprint links, not guaranteed final proceedings versions. No supplemental Oral/Spotlight papers added."
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "not-checked",
+          "acceptance2023-2025": "partial",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/focs.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://focs24.hotcrp.com/"
+            ],
+            "note": "Official public HotCRP counts individually verified. The page does not further specify paper types or withdrawal handling."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://ieee-focs.org/FOCS-2025-Papers/pdfs/FOCS2025-4pLZMZRP5BPG9n0GSua5T9/713200z017/713200z017.pdf"
+            ],
+            "note": "Official proceedings welcome message; plenary talks and workshops excluded."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "partial",
+            "sources": [
+              "https://focs.computer.org/2025/best-paper-awards/"
+            ],
+            "note": "Includes all three Best Paper and both Machtey Best Student Paper co-winners listed by the official 2025 awards page. Author preprints checked by title/authors; these are preprint links, not guaranteed final proceedings versions. No supplemental Oral/Spotlight papers added."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://focs24.hotcrp.com/"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://ieee-focs.org/FOCS-2025-Papers/pdfs/FOCS2025-4pLZMZRP5BPG9n0GSua5T9/713200z017/713200z017.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          }
+        }
+      }
+    },
+    {
+      "id": "lics",
+      "detail": {
+        "acronym": "LICS",
+        "year": 2027,
+        "officialUrl": "https://lics.siglog.org/lics27/",
+        "event": {
+          "start": "2027-06-21",
+          "end": "2027-06-24",
+          "location": "Université du Québec à Montréal (UQAM), Montreal, Canada",
+          "source": "https://lics.siglog.org/lics27/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": {
+              "url": "https://drops.dagstuhl.de/entities/series/LIPIcs",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://lics.siglog.org/lics27/cfp.php",
+            "sources": [
+              "https://lics.siglog.org/lics27/cfp.php"
+            ],
+            "note": "官网给出日期与 AoE，但未写钟点；投稿链接待公布。",
+            "fullDeadlineDate": "2027-01-21",
+            "abstractDeadlineDate": "2027-01-14",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://lics.siglog.org/lics27/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://lics.siglog.org/lics27/cfp.php",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://lics.siglog.org/lics27/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://lics.siglog.org/lics27/cfp.php",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "attempted",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://lics.siglog.org/lics27/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://lics.siglog.org/lics27/cfp.php",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/lics.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "unavailable",
+            "sources": [
+              "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10175826"
+            ],
+            "note": "Public source retrieval failed: HTTPError: HTTP Error 418: Unknown Code. Counts remain unknown; failure does not show that statistics were not published."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "unavailable",
+            "sources": [
+              "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11186295"
+            ],
+            "note": "Public source retrieval failed: HTTPError: HTTP Error 418: Unknown Code. Counts remain unknown; failure does not show that statistics were not published."
+          }
+        }
+      }
+    },
+    {
+      "id": "socg",
+      "detail": {
+        "acronym": "SoCG",
+        "year": 2027,
+        "officialUrl": "https://cgweek27.computational-geometry.org/",
+        "event": {
+          "start": "2027-06-21",
+          "end": "2027-06-25",
+          "location": "Indian Institute of Science, Bengaluru, India",
+          "source": "https://cgweek27.computational-geometry.org/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Track T — Theory",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-12-02T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://socg27.hotcrp.com/",
+            "template": {
+              "url": "https://computational-geometry.org/documents/socg-lipics-v2021.cls",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://cgweek27.computational-geometry.org/contribute",
+            "sources": [
+              "https://cgweek27.computational-geometry.org/contribute"
+            ],
+            "note": "必须先于 2026-11-25 23:59 AoE 注册投稿；官网称 registration，未作为独立摘要截止填入。",
+            "primary": true
+          },
+          {
+            "name": "Track P — Practice",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-12-02T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://socg27.hotcrp.com/",
+            "template": {
+              "url": "https://computational-geometry.org/documents/socg-lipics-v2021.cls",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://cgweek27.computational-geometry.org/contribute",
+            "sources": [
+              "https://cgweek27.computational-geometry.org/contribute"
+            ],
+            "note": "必须先于 2026-11-25 23:59 AoE 注册投稿；官网称 registration，未作为独立摘要截止填入。",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 61,
+            "submitted": 175,
+            "scope": "Technical papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol258-socg2023/LIPIcs.SoCG.2023.0/LIPIcs.SoCG.2023.0.pdf"
+            ],
+            "note": "Multimedia exposition excluded."
+          },
+          {
+            "year": 2024,
+            "accepted": 82,
+            "submitted": 235,
+            "scope": "Technical papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol293-socg2024/LIPIcs.SoCG.2024.0/LIPIcs.SoCG.2024.0.pdf"
+            ],
+            "note": "Source reports 82 accepted papers and notes two submissions merged into one presentation. Multimedia excluded."
+          },
+          {
+            "year": 2025,
+            "accepted": 78,
+            "submitted": 225,
+            "scope": "Technical papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            ],
+            "note": "Multimedia exposition excluded."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol258-socg2023/LIPIcs.SoCG.2023.0/LIPIcs.SoCG.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol293-socg2024/LIPIcs.SoCG.2024.0/LIPIcs.SoCG.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "A Linear Time Algorithm for the Maximum Overlap of Two Convex Polygons Under Translation",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2025.31",
+              "award": "Best Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            },
+            {
+              "title": "A Sparse Multicover Bifiltration of Linear Size",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2025.6",
+              "award": "Best Student Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            }
+          ],
+          "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf",
+          "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "A Linear Time Algorithm for the Maximum Overlap of Two Convex Polygons Under Translation",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2025.31",
+              "award": "Best Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Geometric optimization"
+            },
+            {
+              "title": "A Sparse Multicover Bifiltration of Linear Size",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2025.6",
+              "award": "Best Student Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Computational topology"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf",
+              "label": "2025 official award or proceedings source"
+            }
+          ],
+          "selectionNote": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://cgweek27.computational-geometry.org/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://cgweek27.computational-geometry.org/contribute",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://cgweek27.computational-geometry.org/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://cgweek27.computational-geometry.org/contribute",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://cgweek27.computational-geometry.org/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://cgweek27.computational-geometry.org/contribute",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/socg.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol258-socg2023/LIPIcs.SoCG.2023.0/LIPIcs.SoCG.2023.0.pdf"
+            ],
+            "note": "Multimedia exposition excluded."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol293-socg2024/LIPIcs.SoCG.2024.0/LIPIcs.SoCG.2024.0.pdf"
+            ],
+            "note": "Source reports 82 accepted papers and notes two submissions merged into one presentation. Multimedia excluded."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            ],
+            "note": "Multimedia exposition excluded."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "partial",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            ],
+            "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol258-socg2023/LIPIcs.SoCG.2023.0/LIPIcs.SoCG.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol293-socg2024/LIPIcs.SoCG.2024.0/LIPIcs.SoCG.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.0/LIPIcs.SoCG.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          }
+        }
+      }
+    },
+    {
+      "id": "esa",
+      "detail": {
+        "acronym": "ESA",
+        "year": 2026,
+        "officialUrl": "https://algo-conference.org/2026/esa/",
+        "event": {
+          "start": null,
+          "end": null,
+          "location": "L’Aquila, Italy",
+          "source": "https://algo-conference.org/2026/esa/",
+          "additionalLocations": [],
+          "dateText": "ALGO 联合会议周：2026-08-31 至 2026-09-04；ESA 单独日程待核验"
+        },
+        "tracks": [
+          {
+            "name": "Track A — Design and Analysis",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=esa2026",
+            "template": {
+              "url": "https://computational-geometry.org/guidelines/socg-lipics-v2021.cls",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://algo-conference.org/2026/esa/",
+            "sources": [
+              "https://algo-conference.org/2026/esa/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-04-23",
+            "abstractDeadlineDate": "2026-04-21",
+            "primary": true
+          },
+          {
+            "name": "Track E — Engineering and Applications",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=esa2026",
+            "template": {
+              "url": "https://computational-geometry.org/guidelines/socg-lipics-v2021.cls",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://algo-conference.org/2026/esa/",
+            "sources": [
+              "https://algo-conference.org/2026/esa/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-04-23",
+            "abstractDeadlineDate": "2026-04-21",
+            "primary": false
+          },
+          {
+            "name": "Track S — Simplicity",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=esa2026",
+            "template": {
+              "url": "https://computational-geometry.org/guidelines/socg-lipics-v2021.cls",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://algo-conference.org/2026/esa/",
+            "sources": [
+              "https://algo-conference.org/2026/esa/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-04-23",
+            "abstractDeadlineDate": "2026-04-21",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 103,
+            "submitted": 370,
+            "scope": "Tracks A, B and S",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol274-esa2023/LIPIcs.ESA.2023.0/LIPIcs.ESA.2023.0.pdf"
+            ],
+            "note": "Accepted A79+B15+S9; submitted A267+B61+S42."
+          },
+          {
+            "year": 2024,
+            "accepted": 103,
+            "submitted": 333,
+            "scope": "Tracks A, B and S; withdrawals excluded",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol308-esa2024/LIPIcs.ESA.2024.0/LIPIcs.ESA.2024.0.pdf"
+            ],
+            "note": "Accepted A78+B14+S11; submitted A247+B49+S37. Three withdrawn submissions excluded by source."
+          },
+          {
+            "year": 2025,
+            "accepted": 115,
+            "submitted": 372,
+            "scope": "Tracks A, B and S; withdrawals excluded",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            ],
+            "note": "Accepted A83+B16+S16; submitted A261+B54+S57. Five withdrawn submissions excluded by source."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol274-esa2023/LIPIcs.ESA.2023.0/LIPIcs.ESA.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol308-esa2024/LIPIcs.ESA.2024.0/LIPIcs.ESA.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Combined Search and Encoding for Seeds, with an Application to Minimal Perfect Hashing",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.109",
+              "award": "Best Paper - Track A",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            },
+            {
+              "title": "Weighted Matching in a Poly-Streaming Model",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.17",
+              "award": "Best Paper - Track B",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            },
+            {
+              "title": "Simpler Universally Optimal Dijkstra",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.71",
+              "award": "Best Paper - Track S",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            }
+          ],
+          "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf",
+          "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Combined Search and Encoding for Seeds, with an Application to Minimal Perfect Hashing",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.109",
+              "award": "Best Paper - Track A",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Hashing"
+            },
+            {
+              "title": "Weighted Matching in a Poly-Streaming Model",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.17",
+              "award": "Best Paper - Track B",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Streaming matching"
+            },
+            {
+              "title": "Simpler Universally Optimal Dijkstra",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.71",
+              "award": "Best Paper - Track S",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Shortest paths"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf",
+              "label": "2025 official award or proceedings source"
+            }
+          ],
+          "selectionNote": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://algo-conference.org/2026/esa/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://algo-conference.org/2026/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://algo-conference.org/2026/esa/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://algo-conference.org/2026/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "event"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "partial",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://algo-conference.org/2026/esa/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://algo-conference.org/2026/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/esa.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol274-esa2023/LIPIcs.ESA.2023.0/LIPIcs.ESA.2023.0.pdf"
+            ],
+            "note": "Accepted A79+B15+S9; submitted A267+B61+S42."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol308-esa2024/LIPIcs.ESA.2024.0/LIPIcs.ESA.2024.0.pdf"
+            ],
+            "note": "Accepted A78+B14+S11; submitted A247+B49+S37. Three withdrawn submissions excluded by source."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            ],
+            "note": "Accepted A83+B16+S16; submitted A261+B54+S57. Five withdrawn submissions excluded by source."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "partial",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            ],
+            "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol274-esa2023/LIPIcs.ESA.2023.0/LIPIcs.ESA.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol308-esa2024/LIPIcs.ESA.2024.0/LIPIcs.ESA.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.0/LIPIcs.ESA.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          }
+        }
+      }
+    },
+    {
+      "id": "ccc",
+      "detail": {
+        "acronym": "CCC",
+        "year": 2027,
+        "officialUrl": "https://computationalcomplexity.org/",
+        "event": {
+          "start": "2027-07-19",
+          "end": "2027-07-22",
+          "location": "University of Washington, Seattle, USA",
+          "source": "https://computationalcomplexity.org/",
+          "additionalLocations": []
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 36,
+            "submitted": 74,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol264-ccc2023/LIPIcs.CCC.2023.0/LIPIcs.CCC.2023.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2024,
+            "accepted": 36,
+            "submitted": 105,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol300-ccc2024/LIPIcs.CCC.2024.0/LIPIcs.CCC.2024.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2025,
+            "accepted": 36,
+            "submitted": 91,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol339-ccc2025/LIPIcs.CCC.2025.0/LIPIcs.CCC.2025.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol264-ccc2023/LIPIcs.CCC.2023.0/LIPIcs.CCC.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol300-ccc2024/LIPIcs.CCC.2024.0/LIPIcs.CCC.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol339-ccc2025/LIPIcs.CCC.2025.0/LIPIcs.CCC.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "官网已公布 2027 会期；当前可访问 CFP 为 2026 届，不将上一届截止日期移用到 2027。"
+        ],
+        "sources": [
+          {
+            "url": "https://computationalcomplexity.org/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://computationalcomplexity.org/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "not-checked",
+          "templates": "not-checked",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://computationalcomplexity.org/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://computationalcomplexity.org/Archive/2026/cfp.html",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://computationalcomplexity.org/Archive/2025/cfp.html",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/ccc.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol264-ccc2023/LIPIcs.CCC.2023.0/LIPIcs.CCC.2023.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol300-ccc2024/LIPIcs.CCC.2024.0/LIPIcs.CCC.2024.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol339-ccc2025/LIPIcs.CCC.2025.0/LIPIcs.CCC.2025.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol264-ccc2023/LIPIcs.CCC.2023.0/LIPIcs.CCC.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol300-ccc2024/LIPIcs.CCC.2024.0/LIPIcs.CCC.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol339-ccc2025/LIPIcs.CCC.2025.0/LIPIcs.CCC.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol339-ccc2025/LIPIcs.CCC.2025.0/LIPIcs.CCC.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "icalp",
+      "detail": {
+        "acronym": "ICALP",
+        "year": 2027,
+        "officialUrl": "https://icalp.uj.edu.pl/home/",
+        "event": {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "location": "Jagiellonian University, Kraków, Poland",
+          "source": "https://icalp.uj.edu.pl/home/",
+          "additionalLocations": []
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 132,
+            "submitted": 443,
+            "scope": "Eligible anonymous submissions, tracks A and B",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol261-icalp2023/LIPIcs.ICALP.2023.0/LIPIcs.ICALP.2023.0.pdf"
+            ],
+            "note": "Track A103/346; Track B29/97."
+          },
+          {
+            "year": 2024,
+            "accepted": 153,
+            "submitted": 519,
+            "scope": "Eligible anonymous submissions, tracks A and B",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.0/LIPIcs.ICALP.2024.0.pdf"
+            ],
+            "note": "Track A119/404; Track B34/115."
+          },
+          {
+            "year": 2025,
+            "accepted": 170,
+            "submitted": 563,
+            "scope": "Tracks A and B",
+            "sources": [
+              "https://conferences.au.dk/icalp2025/accepted-papers"
+            ],
+            "note": "Track A135/445; Track B35/118; aggregate calculated from official category counts."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol261-icalp2023/LIPIcs.ICALP.2023.0/LIPIcs.ICALP.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.0/LIPIcs.ICALP.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://conferences.au.dk/icalp2025/accepted-papers"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "采用官网明确的 2027 Kraków 段落；页面底部仍残留与 2027 不符的 Aarhus / 2026 旧模板文案，未采纳。当前投稿截止与入口尚未在该页核实。"
+        ],
+        "sources": [
+          {
+            "url": "https://icalp.uj.edu.pl/home/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://icalp.uj.edu.pl/home/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "not-checked",
+          "templates": "not-checked",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://icalp.uj.edu.pl/",
+            "status": null,
+            "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+          },
+          {
+            "url": "https://icalp.uj.edu.pl/home/",
+            "status": null,
+            "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+          },
+          {
+            "url": "https://icalp.uj.edu.pl/home/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/icalp.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol261-icalp2023/LIPIcs.ICALP.2023.0/LIPIcs.ICALP.2023.0.pdf"
+            ],
+            "note": "Track A103/346; Track B29/97."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.0/LIPIcs.ICALP.2024.0.pdf"
+            ],
+            "note": "Track A119/404; Track B34/115."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://conferences.au.dk/icalp2025/accepted-papers"
+            ],
+            "note": "Track A135/445; Track B35/118; aggregate calculated from official category counts."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol261-icalp2023/LIPIcs.ICALP.2023.0/LIPIcs.ICALP.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.0/LIPIcs.ICALP.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://conferences.au.dk/icalp2025/accepted-papers"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://conferences.au.dk/icalp2025/accepted-papers"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "cade",
+      "detail": {
+        "acronym": "CADE",
+        "year": 2027,
+        "officialUrl": "https://fscd-cade.science.ru.nl/",
+        "event": {
+          "start": "2027-08-22",
+          "end": "2027-08-25",
+          "location": "Van der Valk Hotel, Nijmegen-Lent, Netherlands",
+          "source": "https://fscd-cade.science.ru.nl/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Regular papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": null,
+            "submissionUrl": "https://easychair.org/conferences/?conf=cade31",
+            "template": {
+              "url": "https://www.dagstuhl.de/en/publishing/series/details/lipics",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+            "sources": [
+              "https://fscd-cade.science.ru.nl/calls/papers-cade"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2027-02-22",
+            "abstractDeadlineDate": "2027-02-15",
+            "primary": true
+          },
+          {
+            "name": "Short papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": null,
+            "submissionUrl": "https://easychair.org/conferences/?conf=cade31",
+            "template": {
+              "url": "https://www.dagstuhl.de/en/publishing/series/details/lipics",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+            "sources": [
+              "https://fscd-cade.science.ru.nl/calls/papers-cade"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2027-02-22",
+            "abstractDeadlineDate": "2027-02-15",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 33,
+            "submitted": 74,
+            "scope": "Full and short papers",
+            "sources": [
+              "https://cadeinc.org/Reports/CADE-29_JuergenGiesl.pdf"
+            ],
+            "note": "28 full and 5 short papers; 62 full and 12 short submissions."
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": 37,
+            "submitted": 87,
+            "scope": "Full and short papers",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-99984-0"
+            ],
+            "note": "33 full and 4 short papers."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://cadeinc.org/Reports/CADE-29_JuergenGiesl.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-99984-0"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "与 FSCD 合办；此处为 CADE 主会日期，非整个联合会议周。"
+        ],
+        "sources": [
+          {
+            "url": "https://fscd-cade.science.ru.nl/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://fscd-cade.science.ru.nl/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "partial",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://fscd-cade.science.ru.nl/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/cade.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://cadeinc.org/Reports/CADE-29_JuergenGiesl.pdf"
+            ],
+            "note": "28 full and 5 short papers; 62 full and 12 short submissions."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-99984-0"
+            ],
+            "note": "33 full and 4 short papers."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://cadeinc.org/Reports/CADE-29_JuergenGiesl.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-99984-0"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-99984-0"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "concur",
+      "detail": {
+        "acronym": "CONCUR",
+        "year": 2026,
+        "officialUrl": "https://confest-2026.github.io/concur/",
+        "event": {
+          "start": "2026-09-01",
+          "end": "2026-09-04",
+          "location": "University of Liverpool, Liverpool, UK",
+          "source": "https://confest-2026.github.io/concur/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences?conf=concur2026",
+            "template": {
+              "url": "https://drops.dagstuhl.de/entities/series/LIPIcs#author",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://confest-2026.github.io/concur/call-for-papers",
+            "sources": [
+              "https://confest-2026.github.io/concur/call-for-papers"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-04-27",
+            "abstractDeadlineDate": "2026-04-20",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 37,
+            "submitted": 98,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol279-concur2023/LIPIcs.CONCUR.2023.0/LIPIcs.CONCUR.2023.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2024,
+            "accepted": 37,
+            "submitted": 80,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol311-concur2024/LIPIcs.CONCUR.2024.0/LIPIcs.CONCUR.2024.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2025,
+            "accepted": 36,
+            "submitted": 83,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol348-concur2025/LIPIcs.CONCUR.2025.0/LIPIcs.CONCUR.2025.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol279-concur2023/LIPIcs.CONCUR.2023.0/LIPIcs.CONCUR.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol311-concur2024/LIPIcs.CONCUR.2024.0/LIPIcs.CONCUR.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol348-concur2025/LIPIcs.CONCUR.2025.0/LIPIcs.CONCUR.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://confest-2026.github.io/concur/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://confest-2026.github.io/concur/call-for-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://confest-2026.github.io/concur/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://confest-2026.github.io/concur/call-for-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://confest-2026.github.io/concur/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://confest-2026.github.io/concur/call-for-papers",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/concur.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol279-concur2023/LIPIcs.CONCUR.2023.0/LIPIcs.CONCUR.2023.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol311-concur2024/LIPIcs.CONCUR.2024.0/LIPIcs.CONCUR.2024.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol348-concur2025/LIPIcs.CONCUR.2025.0/LIPIcs.CONCUR.2025.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol279-concur2023/LIPIcs.CONCUR.2023.0/LIPIcs.CONCUR.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol311-concur2024/LIPIcs.CONCUR.2024.0/LIPIcs.CONCUR.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol348-concur2025/LIPIcs.CONCUR.2025.0/LIPIcs.CONCUR.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol348-concur2025/LIPIcs.CONCUR.2025.0/LIPIcs.CONCUR.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "hscc",
+      "detail": {
+        "acronym": "HSCC",
+        "year": 2027,
+        "officialUrl": "https://hscc.acm.org/2027/",
+        "event": {
+          "start": "2027-05-17",
+          "end": "2027-05-20",
+          "location": "Boulder, Colorado, USA",
+          "source": "https://hscc.acm.org/2027/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Foundations",
+            "abstractDeadline": "2026-10-29T23:59:59-12:00",
+            "fullDeadline": "2026-11-05T23:59:59-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://hscc-iccps27.hotcrp.com/",
+            "template": {
+              "url": "https://www.acm.org/publications/proceedings-template",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/",
+            "sources": [
+              "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/"
+            ],
+            "note": "各 track 接收 Regular、Short、Tool papers；poster/demo 另行征稿。",
+            "primary": true
+          },
+          {
+            "name": "Systems and Applications",
+            "abstractDeadline": "2026-10-29T23:59:59-12:00",
+            "fullDeadline": "2026-11-05T23:59:59-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://hscc-iccps27.hotcrp.com/",
+            "template": {
+              "url": "https://www.acm.org/publications/proceedings-template",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/",
+            "sources": [
+              "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/"
+            ],
+            "note": "各 track 接收 Regular、Short、Tool papers；poster/demo 另行征稿。",
+            "primary": false
+          },
+          {
+            "name": "AI-enabled Autonomy",
+            "abstractDeadline": "2026-10-29T23:59:59-12:00",
+            "fullDeadline": "2026-11-05T23:59:59-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://hscc-iccps27.hotcrp.com/",
+            "template": {
+              "url": "https://www.acm.org/publications/proceedings-template",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/",
+            "sources": [
+              "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/"
+            ],
+            "note": "各 track 接收 Regular、Short、Tool papers；poster/demo 另行征稿。",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "官方说明 HSCC 与 ICCPS 于 2027 完全合并为 International Conference on Cyber-Physical and Autonomous Systems，保留两个前身简称。"
+        ],
+        "sources": [
+          {
+            "url": "https://hscc.acm.org/2027/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://hscc.acm.org/2027/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://hscc.acm.org/2027/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://hscc-iccps2027.taylortjohnson.com/call-for-papers/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/hscc.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "sat",
+      "detail": {
+        "acronym": "SAT",
+        "year": 2026,
+        "officialUrl": "https://satisfiability.org/SAT26/",
+        "event": {
+          "start": "2026-07-20",
+          "end": "2026-07-23",
+          "location": "ISCTE, Lisbon, Portugal",
+          "source": "https://satisfiability.org/SAT26/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Long papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://submissions.floc26.org/sat/",
+            "template": {
+              "url": "https://www.dagstuhl.de/en/publishing/series/details/LIPIcs#author",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://satisfiability.org/SAT26/pages/cfp.html",
+            "sources": [
+              "https://satisfiability.org/SAT26/pages/cfp.html"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-03-10",
+            "abstractDeadlineDate": "2026-03-02",
+            "primary": true
+          },
+          {
+            "name": "Short papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://submissions.floc26.org/sat/",
+            "template": {
+              "url": "https://www.dagstuhl.de/en/publishing/series/details/LIPIcs#author",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://satisfiability.org/SAT26/pages/cfp.html",
+            "sources": [
+              "https://satisfiability.org/SAT26/pages/cfp.html"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-03-10",
+            "abstractDeadlineDate": "2026-03-02",
+            "primary": false
+          },
+          {
+            "name": "Tool papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://submissions.floc26.org/sat/",
+            "template": {
+              "url": "https://www.dagstuhl.de/en/publishing/series/details/LIPIcs#author",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://satisfiability.org/SAT26/pages/cfp.html",
+            "sources": [
+              "https://satisfiability.org/SAT26/pages/cfp.html"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-03-10",
+            "abstractDeadlineDate": "2026-03-02",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 30,
+            "submitted": 67,
+            "scope": "Regular, short and tool papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.0/LIPIcs.SAT.2023.0.pdf"
+            ],
+            "note": "Accepted 21 regular + 3 short + 6 tool; submitted 47 regular + 10 short + 10 tool."
+          },
+          {
+            "year": 2024,
+            "accepted": 28,
+            "submitted": 70,
+            "scope": "Regular, short and tool papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol305-sat2024/LIPIcs.SAT.2024.0/LIPIcs.SAT.2024.0.pdf"
+            ],
+            "note": "Includes four conditionally accepted papers that passed the final revision review."
+          },
+          {
+            "year": 2025,
+            "accepted": 30,
+            "submitted": 77,
+            "scope": "All submitted regular, short and tool papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol341-sat2025/LIPIcs.SAT.2025.0/LIPIcs.SAT.2025.0.pdf"
+            ],
+            "note": "73 complete/in-scope papers reviewed after initial filtering. Accepted 23 long + 4 short + 3 tool."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.0/LIPIcs.SAT.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol305-sat2024/LIPIcs.SAT.2024.0/LIPIcs.SAT.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol341-sat2025/LIPIcs.SAT.2025.0/LIPIcs.SAT.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://satisfiability.org/SAT26/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://satisfiability.org/SAT26/pages/cfp.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://satisfiability.org/SAT26/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://satisfiability.org/SAT26/pages/cfp.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://satisfiability.org/SAT26/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://satisfiability.org/SAT26/pages/cfp.html",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/sat.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.0/LIPIcs.SAT.2023.0.pdf"
+            ],
+            "note": "Accepted 21 regular + 3 short + 6 tool; submitted 47 regular + 10 short + 10 tool."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol305-sat2024/LIPIcs.SAT.2024.0/LIPIcs.SAT.2024.0.pdf"
+            ],
+            "note": "Includes four conditionally accepted papers that passed the final revision review."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol341-sat2025/LIPIcs.SAT.2025.0/LIPIcs.SAT.2025.0.pdf"
+            ],
+            "note": "73 complete/in-scope papers reviewed after initial filtering. Accepted 23 long + 4 short + 3 tool."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.0/LIPIcs.SAT.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol305-sat2024/LIPIcs.SAT.2024.0/LIPIcs.SAT.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol341-sat2025/LIPIcs.SAT.2025.0/LIPIcs.SAT.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol341-sat2025/LIPIcs.SAT.2025.0/LIPIcs.SAT.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "cocoon",
+      "detail": {
+        "acronym": "COCOON",
+        "year": 2026,
+        "officialUrl": "https://event.ntu.edu.sg/cocoon2026",
+        "event": {
+          "start": "2026-07-23",
+          "end": "2026-07-25",
+          "location": "Nanyang Technological University, Singapore",
+          "source": "https://event.ntu.edu.sg/cocoon2026",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-03-04T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences?conf=cocoon2026",
+            "template": {
+              "url": "https://www.springer.com/la/computer-science/lncs/conference-proceedings-guidelines",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://event.ntu.edu.sg/cocoon2026/pages/call-for-papers",
+            "sources": [
+              "https://event.ntu.edu.sg/cocoon2026/pages/call-for-papers"
+            ],
+            "note": "",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 60,
+            "submitted": 146,
+            "scope": "Full papers",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-49190-0"
+            ],
+            "note": "Publisher proceedings summary."
+          },
+          {
+            "year": 2024,
+            "accepted": 90,
+            "submitted": 277,
+            "scope": "Regular full papers",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-1090-7/1"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2025,
+            "accepted": 54,
+            "submitted": 191,
+            "scope": "Full papers",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-981-95-0215-8"
+            ],
+            "note": "Publisher proceedings summary."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-49190-0"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-1090-7/1"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-981-95-0215-8"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://event.ntu.edu.sg/cocoon2026",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://event.ntu.edu.sg/cocoon2026/pages/call-for-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://event.ntu.edu.sg/cocoon2026",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://event.ntu.edu.sg/cocoon2026/pages/call-for-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://event.ntu.edu.sg/cocoon2026",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://event.ntu.edu.sg/cocoon2026/pages/call-for-papers",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/cocoon.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-49190-0"
+            ],
+            "note": "Publisher proceedings summary."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-1090-7/1"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-981-95-0215-8"
+            ],
+            "note": "Publisher proceedings summary."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-3-031-49190-0"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-1090-7/1"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-981-95-0215-8"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://link.springer.com/book/10.1007/978-981-95-0215-8"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "fmcad",
+      "detail": {
+        "acronym": "FMCAD",
+        "year": 2026,
+        "officialUrl": "https://fmcad.forsyte.at/FMCAD26/",
+        "event": {
+          "start": "2026-09-16",
+          "end": "2026-09-18",
+          "location": "Graz University of Technology, Graz, Austria",
+          "source": "https://fmcad.forsyte.at/FMCAD26/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Regular papers",
+            "abstractDeadline": "2026-05-04T23:59:00-12:00",
+            "fullDeadline": "2026-05-11T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=fmcad2026",
+            "template": {
+              "url": "https://fmcad.or.at/latex/fmcad.cls",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://fmcad.forsyte.at/FMCAD26/cfp",
+            "sources": [
+              "https://fmcad.forsyte.at/FMCAD26/cfp"
+            ],
+            "note": "延期按官网 4 月 24 日公告；时区和钟点来自 Important Dates。",
+            "primary": true
+          },
+          {
+            "name": "Tool & Case Study papers",
+            "abstractDeadline": "2026-05-04T23:59:00-12:00",
+            "fullDeadline": "2026-05-11T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=fmcad2026",
+            "template": {
+              "url": "https://fmcad.or.at/latex/fmcad.cls",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://fmcad.forsyte.at/FMCAD26/cfp",
+            "sources": [
+              "https://fmcad.forsyte.at/FMCAD26/cfp"
+            ],
+            "note": "延期按官网 4 月 24 日公告；时区和钟点来自 Important Dates。",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 31,
+            "submitted": 73,
+            "scope": "Main peer-reviewed papers",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/188648/2/front-matter-198428.pdf"
+            ],
+            "note": "Student forum contributions excluded."
+          },
+          {
+            "year": 2024,
+            "accepted": 29,
+            "submitted": 56,
+            "scope": "Main peer-reviewed papers",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/200767/2/front-matter-215178.pdf"
+            ],
+            "note": "Regular/tool/case-study papers; student forum excluded."
+          },
+          {
+            "year": 2025,
+            "accepted": 27,
+            "submitted": 64,
+            "scope": "Main full submissions",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/219511/2/front-matter-236164.pdf"
+            ],
+            "note": "82 abstract registrations excluded; 17 regular + 10 tool/case-study accepted; student forum excluded."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/188648/2/front-matter-198428.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/200767/2/front-matter-215178.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/219511/2/front-matter-236164.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "主会为 9 月 16–18 日；9 月 15 日为与 VSTTE 联合教程日。"
+        ],
+        "sources": [
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/important_dates",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/cfp",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/important_dates",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/cfp",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/important_dates",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://fmcad.forsyte.at/FMCAD26/cfp",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/fmcad.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/188648/2/front-matter-198428.pdf"
+            ],
+            "note": "Student forum contributions excluded."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/200767/2/front-matter-215178.pdf"
+            ],
+            "note": "Regular/tool/case-study papers; student forum excluded."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/219511/2/front-matter-236164.pdf"
+            ],
+            "note": "82 abstract registrations excluded; 17 regular + 10 tool/case-study accepted; student forum excluded."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/188648/2/front-matter-198428.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/200767/2/front-matter-215178.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/219511/2/front-matter-236164.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-award-list",
+            "sources": [
+              "https://repositum.tuwien.at/bitstream/20.500.12708/219511/2/front-matter-236164.pdf"
+            ],
+            "note": "Checked this statistics/preface source. No final award-winning titles with verified paper links established here; candidates and ordinary accepted papers are not imported as award/Oral/Spotlight selections. Separate award page checks remain."
+          }
+        }
+      }
+    },
+    {
+      "id": "csl",
+      "detail": {
+        "acronym": "CSL",
+        "year": 2027,
+        "officialUrl": "https://csl2027.github.io/index.html",
+        "event": {
+          "start": "2027-01-26",
+          "end": "2027-01-29",
+          "location": "Brighton, UK",
+          "source": "https://csl2027.github.io/index.html",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://form.sdu.dk/CSL2027/",
+            "template": {
+              "url": "https://submission.dagstuhl.de/series/details/LIPIcs#author",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://csl2027.github.io/index.html",
+            "sources": [
+              "https://csl2027.github.io/index.html"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-07-15",
+            "abstractDeadlineDate": "2026-07-08",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "官网现有主会日期为 1 月 26–29 日，workshops 为 1 月 25–26 日；搜索索引旧摘要可能仍显示 25–29 日。"
+        ],
+        "sources": [
+          {
+            "url": "https://csl2027.github.io/index.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://csl2027.github.io/index.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://csl2027.github.io/index.html",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/csl.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "fsttcs",
+      "detail": {
+        "acronym": "FSTTCS",
+        "year": 2026,
+        "officialUrl": "https://www.fsttcs.org.in/2026/",
+        "event": {
+          "start": "2026-12-16",
+          "end": "2026-12-18",
+          "location": "IIT Delhi, New Delhi, India",
+          "source": "https://www.fsttcs.org.in/2026/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Track A",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/my/conference?conf=fsttcs2026",
+            "template": {
+              "url": "https://submission.dagstuhl.de/documentation/authors",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://www.fsttcs.org.in/2026/",
+            "sources": [
+              "https://www.fsttcs.org.in/2026/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-07-11",
+            "abstractDeadlineDate": "2026-07-04",
+            "primary": true
+          },
+          {
+            "name": "Track B",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/my/conference?conf=fsttcs2026",
+            "template": {
+              "url": "https://submission.dagstuhl.de/documentation/authors",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://www.fsttcs.org.in/2026/",
+            "sources": [
+              "https://www.fsttcs.org.in/2026/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-07-11",
+            "abstractDeadlineDate": "2026-07-04",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://www.fsttcs.org.in/2026/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.fsttcs.org.in/2026/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://www.fsttcs.org.in/2026/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/fsttcs.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "dsaa",
+      "detail": {
+        "acronym": "DSAA",
+        "year": 2026,
+        "officialUrl": "https://www.iiit.ac.in/dsaa-2026-call-for-participation/",
+        "event": {
+          "start": "2026-10-06",
+          "end": "2026-10-09",
+          "location": "New Delhi, India",
+          "source": "https://www.iiit.ac.in/dsaa-2026-call-for-participation/",
+          "additionalLocations": []
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "会议官网正文依赖动态加载；已由组织方 IIIT Hyderabad 官方通知核实会期地点，投稿细节仍待核验。"
+        ],
+        "sources": [
+          {
+            "url": "https://www.iiit.ac.in/dsaa-2026-call-for-participation/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.iiit.ac.in/dsaa-2026-call-for-participation/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "not-checked",
+          "templates": "not-checked",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://dsaa2026.dsaa.co/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://www.iiit.ac.in/dsaa-2026-call-for-participation/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/dsaa.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "ictac",
+      "detail": {
+        "acronym": "ICTAC",
+        "year": 2026,
+        "officialUrl": "https://ictac2026.github.io/",
+        "event": {
+          "start": "2026-11-11",
+          "end": "2026-11-13",
+          "location": "Bariloche, Argentina",
+          "source": "https://ictac2026.github.io/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Regular papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=ictac2026",
+            "template": {
+              "url": "https://www.springer.com/gp/computer-science/lncs",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://ictac2026.github.io/cfp/",
+            "sources": [
+              "https://ictac2026.github.io/cfp/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-06-22",
+            "abstractDeadlineDate": "2026-06-22",
+            "primary": true
+          },
+          {
+            "name": "Short papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=ictac2026",
+            "template": {
+              "url": "https://www.springer.com/gp/computer-science/lncs",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://ictac2026.github.io/cfp/",
+            "sources": [
+              "https://ictac2026.github.io/cfp/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-06-22",
+            "abstractDeadlineDate": "2026-06-22",
+            "primary": false
+          },
+          {
+            "name": "Tool papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=ictac2026",
+            "template": {
+              "url": "https://www.springer.com/gp/computer-science/lncs",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://ictac2026.github.io/cfp/",
+            "sources": [
+              "https://ictac2026.github.io/cfp/"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-06-22",
+            "abstractDeadlineDate": "2026-06-22",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://ictac2026.github.io/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://ictac2026.github.io/cfp/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://ictac2026.github.io/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://ictac2026.github.io/cfp/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://ictac2026.github.io/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://ictac2026.github.io/cfp/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/ictac.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "ipco",
+      "detail": {
+        "acronym": "IPCO",
+        "year": 2027,
+        "officialUrl": "https://ieor.columbia.edu/ipco2027/call-papers",
+        "event": {
+          "start": "2027-06-15",
+          "end": "2027-06-17",
+          "location": "Columbia University, New York City, USA",
+          "source": "https://ieor.columbia.edu/ipco2027/call-papers",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Extended abstracts",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "cfpUrl": "https://ieor.columbia.edu/ipco2027/call-papers",
+            "sources": [
+              "https://ieor.columbia.edu/ipco2027/call-papers"
+            ],
+            "note": "官网要求 LNCS；投稿系统尚待公布。",
+            "fullDeadlineDate": "2026-11-10",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://ieor.columbia.edu/ipco2027/call-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://ieor.columbia.edu/ipco2027/call-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "not-checked",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://ieor.columbia.edu/ipco2027",
+            "status": null,
+            "error": "HTTPError: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://ieor.columbia.edu/ipco2027/call-papers",
+            "status": null,
+            "error": "HTTPError: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://ieor.columbia.edu/ipco2027/call-papers",
+            "status": null,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/ipco.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "fscd",
+      "detail": {
+        "acronym": "FSCD",
+        "year": 2027,
+        "officialUrl": "https://fscd-cade.science.ru.nl/",
+        "event": {
+          "start": "2027-08-23",
+          "end": "2027-08-26",
+          "location": "Van der Valk Hotel, Nijmegen-Lent, Netherlands",
+          "source": "https://fscd-cade.science.ru.nl/",
+          "additionalLocations": []
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": 30,
+            "submitted": 57,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024.0/LIPIcs.FSCD.2024.0.pdf"
+            ],
+            "note": "Invited talks excluded."
+          },
+          {
+            "year": 2025,
+            "accepted": 31,
+            "submitted": 77,
+            "scope": "Research papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf"
+            ],
+            "note": "Invited talks excluded."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024.0/LIPIcs.FSCD.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "What Does It Take to Certify a Conversion Checker?",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2025.27",
+              "award": "Best Paper by Junior Researchers",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf"
+            }
+          ],
+          "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf",
+          "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "What Does It Take to Certify a Conversion Checker?",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2025.27",
+              "award": "Best Paper by Junior Researchers",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Type theory and proof assistants"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf",
+              "label": "2025 official award or proceedings source"
+            }
+          ],
+          "selectionNote": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "联合主页目前列出的 2 月摘要/全文日期属于 CADE，未用作 FSCD 截止日。"
+        ],
+        "sources": [
+          {
+            "url": "https://fscd-cade.science.ru.nl/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://fscd-cade.science.ru.nl/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "not-checked",
+          "templates": "not-checked",
+          "acceptance2023-2025": "partial",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://fscd-cade.science.ru.nl/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/fscd.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024.0/LIPIcs.FSCD.2024.0.pdf"
+            ],
+            "note": "Invited talks excluded."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf"
+            ],
+            "note": "Invited talks excluded."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "partial",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf"
+            ],
+            "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024.0/LIPIcs.FSCD.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.0/LIPIcs.FSCD.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          }
+        }
+      }
+    },
+    {
+      "id": "isaac",
+      "detail": {
+        "acronym": "ISAAC",
+        "year": 2026,
+        "officialUrl": "https://www.algo-door.com/isaac2026/index.html",
+        "event": {
+          "start": "2026-12-07",
+          "end": "2026-12-09",
+          "location": "Hangzhou, China",
+          "source": "https://www.algo-door.com/isaac2026/index.html",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=isaac2026",
+            "template": {
+              "url": "https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/",
+              "year": 2026,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://www.algo-door.com/isaac2026/call-for-papers.html",
+            "sources": [
+              "https://www.algo-door.com/isaac2026/call-for-papers.html"
+            ],
+            "note": "",
+            "fullDeadlineDate": "2026-06-29",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 55,
+            "submitted": 184,
+            "scope": "Contributed papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol283-isaac2023/LIPIcs.ISAAC.2023.0/LIPIcs.ISAAC.2023.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2024,
+            "accepted": 56,
+            "submitted": 193,
+            "scope": "Technical papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol322-isaac2024/LIPIcs.ISAAC.2024.0/LIPIcs.ISAAC.2024.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2025,
+            "accepted": 52,
+            "submitted": 178,
+            "scope": "Contributed papers",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol283-isaac2023/LIPIcs.ISAAC.2023.0/LIPIcs.ISAAC.2023.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol322-isaac2024/LIPIcs.ISAAC.2024.0/LIPIcs.ISAAC.2024.0.pdf"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "New Approximate Distance Oracles and Their Applications",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2025.43",
+              "award": "Best Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            },
+            {
+              "title": "Simple, Strict, Proper, and Directed: Comparing Reachability in Directed and Undirected Temporal Graphs",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2025.27",
+              "award": "Best Student Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            }
+          ],
+          "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf",
+          "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "New Approximate Distance Oracles and Their Applications",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2025.43",
+              "award": "Best Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Distance oracles"
+            },
+            {
+              "title": "Simple, Strict, Proper, and Directed: Comparing Reachability in Directed and Undirected Temporal Graphs",
+              "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2025.27",
+              "award": "Best Student Paper",
+              "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf",
+              "presentationType": "best",
+              "topic": "Temporal graphs"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf",
+              "label": "2025 official award or proceedings source"
+            }
+          ],
+          "selectionNote": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "主会 12 月 7–9 日；12 月 6 日为欢迎活动。"
+        ],
+        "sources": [
+          {
+            "url": "https://www.algo-door.com/isaac2026/index.html",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://www.algo-door.com/isaac2026/call-for-papers.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.algo-door.com/isaac2026/index.html",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://www.algo-door.com/isaac2026/call-for-papers.html",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "verified",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://www.algo-door.com/isaac2026/index.html",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://www.algo-door.com/isaac2026/call-for-papers.html",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/isaac.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol283-isaac2023/LIPIcs.ISAAC.2023.0/LIPIcs.ISAAC.2023.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol322-isaac2024/LIPIcs.ISAAC.2024.0/LIPIcs.ISAAC.2024.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "partial",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            ],
+            "note": "Official 2025 proceedings identify these awards; each paper link was checked against the publisher page. No ordinary accepted papers are relabeled as Oral or Spotlight. Remaining categories and supplemental selections are not fully audited."
+          },
+          "attendance2023": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol283-isaac2023/LIPIcs.ISAAC.2023.0/LIPIcs.ISAAC.2023.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol322-isaac2024/LIPIcs.ISAAC.2024.0/LIPIcs.ISAAC.2024.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://drops.dagstuhl.de/storage/00lipics/lipics-vol359-isaac2025/LIPIcs.ISAAC.2025.0/LIPIcs.ISAAC.2025.0.pdf"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          }
+        }
+      }
+    },
+    {
+      "id": "mfcs",
+      "detail": {
+        "acronym": "MFCS",
+        "year": 2026,
+        "officialUrl": "https://mfcs2026.irif.fr/",
+        "event": {
+          "start": "2026-08-24",
+          "end": "2026-08-28",
+          "location": "Paris, France",
+          "source": "https://mfcs2026.irif.fr/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Research papers",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://mfcs26.hotcrp.com/",
+            "template": null,
+            "cfpUrl": "https://mfcs2026.irif.fr/",
+            "sources": [
+              "https://mfcs2026.irif.fr/"
+            ],
+            "note": "官网要求 LIPIcs 格式；模板直接下载链接尚未核验。",
+            "fullDeadlineDate": "2026-04-24",
+            "primary": true
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://mfcs2026.irif.fr/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://mfcs2026.irif.fr/",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "not-checked",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://mfcs2026.irif.fr/",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/mfcs.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "stacs",
+      "detail": {
+        "acronym": "STACS",
+        "year": 2027,
+        "officialUrl": "https://stacs2027.uni-goettingen.de/",
+        "event": {
+          "start": "2027-03-08",
+          "end": "2027-03-12",
+          "location": "Alte Mensa, Göttingen, Germany",
+          "source": "https://stacs2027.uni-goettingen.de/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Track A — Algorithm Design, Data Structures, Complexity",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=stacs2027",
+            "template": {
+              "url": "https://drops.dagstuhl.de/entities/series/LIPIcs#author",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://events.gwdg.de/event/1460/page/476-submissions",
+            "sources": [
+              "https://events.gwdg.de/event/1460/page/476-submissions"
+            ],
+            "note": "总览写 October 11, 23:59 AoE，但该日期行未写年份；完整年份待投稿系统交叉核验，不生成精确倒计时。",
+            "primary": true
+          },
+          {
+            "name": "Track B — Automata, Logic, Semantics, Theory of Programming",
+            "abstractDeadline": null,
+            "fullDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=stacs2027",
+            "template": {
+              "url": "https://drops.dagstuhl.de/entities/series/LIPIcs#author",
+              "year": 2027,
+              "status": "current",
+              "note": "该届官方投稿说明直接链接的模板。"
+            },
+            "cfpUrl": "https://events.gwdg.de/event/1460/page/476-submissions",
+            "sources": [
+              "https://events.gwdg.de/event/1460/page/476-submissions"
+            ],
+            "note": "总览写 October 11, 23:59 AoE，但该日期行未写年份；完整年份待投稿系统交叉核验，不生成精确倒计时。",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验官方获奖名单。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "sources": [],
+          "selectionNote": "尚未核验官方获奖/oral/spotlight名单，不以普通录用论文填充。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://stacs2027.uni-goettingen.de/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://events.gwdg.de/e/stacs2027",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://events.gwdg.de/event/1460/page/476-submissions",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://stacs2027.uni-goettingen.de/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://events.gwdg.de/e/stacs2027",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://events.gwdg.de/event/1460/page/476-submissions",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "partial",
+          "acceptance2023-2025": "not-checked",
+          "attendance2023-2025": "not-checked",
+          "curatedPapers2025": "not-checked"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://stacs2027.uni-goettingen.de/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://events.gwdg.de/e/stacs2027",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://events.gwdg.de/event/1460/page/476-submissions",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/stacs.json",
+        "note": "已逐字段核验列出的官网/CFP；历史统计、作者参会政策、获奖论文与其余轨道仍待核验。"
+      }
+    },
+    {
+      "id": "setta",
+      "detail": {
+        "acronym": "SETTA",
+        "year": 2026,
+        "officialUrl": "https://www.setta2026.sg/",
+        "event": {
+          "start": "2026-12-02",
+          "end": "2026-12-04",
+          "location": "Singapore Management University, Singapore",
+          "source": "https://www.setta2026.sg/",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Round 1",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-05-24T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=setta2026",
+            "template": null,
+            "cfpUrl": "https://www.setta2026.sg/home/call-for-papers",
+            "sources": [
+              "https://www.setta2026.sg/home/call-for-papers"
+            ],
+            "note": "按官网删除线修订后的延期日期；要求 LNCS 格式，独立模板链接尚待核验。",
+            "primary": true
+          },
+          {
+            "name": "Round 2",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-08-24T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://easychair.org/conferences/?conf=setta2026",
+            "template": null,
+            "cfpUrl": "https://www.setta2026.sg/home/call-for-papers",
+            "sources": [
+              "https://www.setta2026.sg/home/call-for-papers"
+            ],
+            "note": "按官网删除线修订后的延期日期；要求 LNCS 格式，独立模板链接尚待核验。",
+            "primary": false
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": null,
+            "sources": [],
+            "note": "尚未核验官方录用统计。"
+          },
+          {
+            "year": 2024,
+            "accepted": 21,
+            "submitted": 47,
+            "scope": "Complete submissions",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-0602-3/1"
+            ],
+            "note": "Official proceedings preface."
+          },
+          {
+            "year": 2025,
+            "accepted": 18,
+            "submitted": 46,
+            "scope": "Research papers",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1"
+            ],
+            "note": "Official proceedings preface."
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核验该届作者现场报告/远程例外政策。",
+            "scope": "作者报告要求",
+            "sources": [],
+            "verifiedDate": null
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-0602-3/1"
+            ],
+            "verifiedDate": null
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "本轮已查官方统计/前言未能确认作者必须线下报告或允许远程的政策；仍须核验该届作者指南。",
+            "scope": "作者报告要求",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1"
+            ],
+            "verifiedDate": null
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Synchronous System Design with Quantitative Types",
+              "url": "https://link.springer.com/chapter/10.1007/978-981-95-7826-9_2",
+              "award": "Best Paper",
+              "source": "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1"
+            }
+          ],
+          "source": "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1",
+          "note": "Best Paper verified in the 2025 proceedings preface; chapter link taken from publisher table of contents. No supplemental Oral/Spotlight selections verified."
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Synchronous System Design with Quantitative Types",
+              "url": "https://link.springer.com/chapter/10.1007/978-981-95-7826-9_2",
+              "award": "Best Paper",
+              "source": "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1",
+              "presentationType": "best",
+              "topic": "Type systems and synchronous design"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1",
+              "label": "2025 official award or proceedings source"
+            }
+          ],
+          "selectionNote": "Best Paper verified in the 2025 proceedings preface; chapter link taken from publisher table of contents. No supplemental Oral/Spotlight selections verified."
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://www.setta2026.sg/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://www.setta2026.sg/home/call-for-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.setta2026.sg/",
+            "label": "官方届次网页 / 投稿说明"
+          },
+          {
+            "url": "https://www.setta2026.sg/home/call-for-papers",
+            "label": "官方届次网页 / 投稿说明"
+          }
+        ],
+        "missingFields": [
+          "allTracksCoverage",
+          "acceptance2023-2025",
+          "attendance2023-2025",
+          "curatedPapers2025",
+          "templates"
+        ],
+        "fieldChecks": {
+          "edition": "verified",
+          "event": "verified",
+          "tracks": "partial",
+          "templates": "not-checked",
+          "acceptance2023-2025": "partial",
+          "attendance2023-2025": "partial",
+          "curatedPapers2025": "partial"
+        },
+        "attemptedSources": [
+          {
+            "url": "https://www.setta2026.sg/",
+            "status": 200,
+            "error": null
+          },
+          {
+            "url": "https://www.setta2026.sg/home/call-for-papers",
+            "status": 200,
+            "error": null
+          }
+        ],
+        "evidenceFile": "research/evidence/theory/setta.json",
+        "note": "已核验列示的官网/CFP与历史来源；各字段的实查范围见 fieldChecks/historyChecks。未确认值保持为空，全部轨道、历史参会政策及精选论文覆盖仍不完整。",
+        "historyChecks": {
+          "acceptance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-0602-3/1"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "acceptance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "verified",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1"
+            ],
+            "note": "Official proceedings preface."
+          },
+          "curatedPapers2025": {
+            "checkedAt": "2026-10-28",
+            "status": "partial",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1"
+            ],
+            "note": "Best Paper verified in the 2025 proceedings preface; chapter link taken from publisher table of contents. No supplemental Oral/Spotlight selections verified."
+          },
+          "attendance2024": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-96-0602-3/1"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          },
+          "attendance2025": {
+            "checkedAt": "2026-10-28",
+            "status": "checked-no-policy",
+            "sources": [
+              "https://link.springer.com/content/pdf/bfm:978-981-95-7826-9/1"
+            ],
+            "note": "Checked this statistics/preface source; no main-conference requirement or remote exception for authors could be established. In-person event format or attendance counts do not prove mandatory physical presentation. A dedicated author-policy check is still required."
+          }
+        }
+      }
+    }
+  ]
+}

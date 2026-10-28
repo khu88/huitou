@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN" data-authenticated="false">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f6fa">
+  <meta name="description" content="面向科研工作者的 CCF 全学科会议导航：分级、投稿截止、Track、录用统计和精选论文。">
+  <title>会投 · CCF 会议导航</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./relax.css">
+  <link rel="stylesheet" href="./reminders.css">
+  <link rel="stylesheet" href="./wechat.css">
+  <link rel="stylesheet" href="./services.css">
+  <script src="./data/relax-content.js" defer></script>
+  <script src="./relax.js" defer></script>
+  <script src="./site-config.js" defer></script>
+  <script src="./community.js" defer></script>
+  <script src="./services.js" defer></script>
+  <script src="./portal.js" defer></script>
+  <script src="./wechat.js" defer></script>
+  <script src="./reminders.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到会议列表</a>
+  <aside class="sidebar">
+    <a class="brand" href="#" aria-label="会投首页"><span class="brand-symbol">↗</span><span>会投<small>CONF. ATLAS</small></span></a>
+    <div class="workspace-label">你的科研坐标</div>
+    <nav aria-label="主导航">
+      <button class="nav-item active" data-view="explore"><span class="nav-icon">◫</span>会议探索<span class="nav-arrow">↗</span></button>
+      <button class="nav-item" data-view="favorites" hidden><span class="nav-icon">☆</span>我的收藏<span id="favorite-count" class="nav-count">0</span></button>
+      <button class="nav-item" data-view="calendar"><span class="nav-icon">▦</span>截止日历</button>
+      <button class="nav-item" data-view="relax" aria-label="研究者解压室"><span class="nav-icon">♧</span>研究者解压室<span class="nav-new">NEW</span></button>
+      <button class="nav-item" data-view="wechat" aria-label="微信助手"><span class="nav-icon">☏</span>微信助手</button>
+      <button class="nav-item" data-view="services" aria-label="服务与合作"><span class="nav-icon">✉</span>服务与合作</button>
+      <button class="nav-item" data-view="settings"><span class="nav-icon">⚙</span>设置</button>
+    </nav>
+    <div class="sidebar-divider"></div>
+    <div class="workspace-label">浏览学科</div>
+    <div id="area-nav" class="area-nav"></div>
+    <div class="sidebar-bottom">
+      <div class="edition-badge"><span class="status-dot"></span><span id="catalog-version">CCF 官方目录</span></div>
+      <p>认真核验每一个目的地。</p>
+      <button class="text-button" id="about-button">数据说明与来源 <span>↗</span></button>
+    </div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><div class="breadcrumb">工作台 <span>/</span> <strong id="breadcrumb-view">会议探索</strong></div><div class="topbar-right"><button class="mobile-about" id="mobile-about-button" aria-label="数据说明与来源">ⓘ 数据说明</button><button id="theme-toggle" class="icon-button theme-toggle" data-portal="theme-toggle" aria-label="切换亮色与暗色主题" title="切换主题">◐</button><button class="user-button" data-view="account"><span class="avatar" id="user-avatar">研</span><span id="user-label">登录 / 注册</span></button></div></header>
+    <main id="main">
+      <section class="project-banner" aria-label="加入会投与上线计划">
+        <div class="project-repository"><a data-repository-link href="https://github.com/khu88/huitou" target="_blank" rel="noopener noreferrer"><span class="project-mark" aria-hidden="true">↗</span><span><strong>加入我们的仓库</strong><small data-repository-address>https://github.com/khu88/huitou</small></span></a><span class="project-status" data-repository-status>欢迎 Star · 反馈 · 共建</span></div>
+        <p class="project-launch"><span class="status-dot"></span>网页 / App 计划上线中，敬请期待</p>
+      </section>
+      <section class="page-heading">
+        <div><div class="eyebrow">A CLEARER PATH TO YOUR NEXT PAPER</div><h1 id="page-title">下一篇，投向哪里<span>？</span></h1><p id="page-subtitle">从一个好问题出发，找到值得抵达的会议。</p></div>
+        <button id="calendar-shortcut" class="outline-button"><span>▦</span> 查看截止日历 <span>↗</span></button>
+      </section>
+      <section id="secondary-view" hidden></section>
+      <div id="dashboard-view">
+      <div id="reminder-overview" hidden></div>
+      <section class="metrics" aria-label="数据概览">
+        <div class="metric"><span class="metric-label">收录会议 <span>↗</span></span><div><strong id="metric-total">—</strong><small>覆盖全部学科</small></div></div>
+        <div class="metric"><span class="metric-label">30 天内截止 <span class="orange-dot"></span></span><div><strong id="metric-soon">—</strong><small>已核验的主 Track 精确 DDL</small></div></div>
+        <div class="metric"><span class="metric-label">已补充届次信息 <span>◉</span></span><div><strong id="metric-details">—</strong><small id="metric-detail-note">其余详情逐步完善</small></div></div>
+        <div class="metric metric-note"><div class="mini-orbit">✳</div><div><strong>让信息有据可查</strong><p>分级有出处，日期有时区。<br>每条详情都能回到原始来源。</p></div></div>
+      </section>
+      <p id="coverage-note" class="coverage-note" role="note"></p>
+      <section class="conference-section">
+        <div class="section-heading"><div class="section-title"><h2 id="list-title">探索会议</h2><span id="result-count" class="count-badge">—</span></div><div class="data-stamp" id="data-stamp">正在加载官方目录</div></div>
+        <div class="rank-tabs" role="group" aria-label="CCF 分级筛选">
+          <button class="rank-tab selected" data-rank="all">全部会议 <span id="count-all">—</span></button>
+          <button class="rank-tab" data-rank="A"><i class="rank-dot rank-a"></i>CCF A <span id="count-A">—</span></button>
+          <button class="rank-tab" data-rank="B"><i class="rank-dot rank-b"></i>CCF B <span id="count-B">—</span></button>
+          <button class="rank-tab" data-rank="C"><i class="rank-dot rank-c"></i>CCF C <span id="count-C">—</span></button>
+          <button class="rank-tab" data-rank="N"><i class="rank-dot rank-n"></i>N · 未分级 <span id="count-N">—</span></button>
+        </div>
+        <div class="toolbar">
+          <label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="搜索会议名称、简称或 Track…" autocomplete="off" aria-label="搜索会议"></label>
+          <div class="filter-group"><label class="sr-only" for="area-select">学科</label><select id="area-select"><option value="all">全部学科</option></select><label class="sr-only" for="status-select">投稿状态</label><select id="status-select"><option value="all">全部状态</option><option value="any-upcoming">任意 Track 未截止</option><option value="upcoming">主 Track 未截止</option><option value="soon">主 Track 30 天内</option><option value="closed">主 Track 已截止</option><option value="date-only">仅日期 · 时刻待确认</option><option value="rolling">滚动投稿</option><option value="unknown">待补全日期</option></select><label class="sr-only" for="coverage-select">详情覆盖</label><select id="coverage-select"><option value="all">全部覆盖状态</option><option value="details">已补充届次详情</option><option value="catalog">仅目录 · 待补全</option></select><label class="sr-only" for="sort-select">排序</label><select id="sort-select"><option value="deadline">按截止日期</option><option value="name">按会议名称</option><option value="rank">按 CCF 分级</option></select></div>
+        </div>
+        <div id="active-filter" class="active-filter" hidden></div>
+        <div id="calendar-view" hidden></div>
+        <div id="table-view" class="table-wrap"><table><thead><tr><th class="favorite-col"><span class="sr-only">收藏</span></th><th>会议 / CONFERENCE</th><th>分区</th><th>学科方向</th><th>举办信息</th><th>主 Track 投稿截止 <span title="默认主 Research / Papers Track；其他 Track 请查看详情">ⓘ</span></th><th><span class="sr-only">详情</span></th></tr></thead><tbody id="conference-body"><tr><td colspan="7" class="loading-state">正在加载会议目录…</td></tr></tbody></table></div>
+        <div id="pagination" class="pagination"></div>
+      </section>
+      <footer class="page-footer"><span><span class="status-dot"></span>官方来源优先 · 未知信息如实标注</span><span>N 为本站收录分类，不属于 CCF 官方分级。</span></footer>
+      </div>
+      <p class="maintenance-note">个人维护不易，信息仅供参考，具体请以会议官网为准。</p>
+    </main>
+  </div>
+  <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
+  <aside id="detail-drawer" class="detail-drawer" aria-modal="true" role="dialog" aria-labelledby="detail-title" hidden></aside>
+  <dialog id="about-dialog"><div class="modal-top"><div><div class="eyebrow">ABOUT THE DATA</div><h2>可追溯，才值得依赖。</h2></div><button class="icon-button" id="close-about" aria-label="关闭数据说明">×</button></div><div id="about-content"></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>

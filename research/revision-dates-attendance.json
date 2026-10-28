@@ -1,0 +1,699 @@
+{
+  "asOf": "2026-10-28",
+  "attendanceWindow": [
+    2023,
+    2024,
+    2025
+  ],
+  "corrections": [
+    {
+      "acronym": "WWW",
+      "year": 2027,
+      "event": {
+        "start": "2027-05-12",
+        "end": "2027-05-14",
+        "overallStart": "2027-05-10",
+        "overallEnd": "2027-05-14",
+        "location": "Dublin, Ireland · Dublin Royal Convention Centre",
+        "note": "主会 5 月 12–14 日；5 月 10–11 日为 Workshops / Tutorials / Web4All，整体活动 5 月 10–14 日。"
+      },
+      "tracks": [
+        {
+          "name": "Research Papers",
+          "submissionUrl": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Long_Papers",
+          "announcedAbstractDeadline": "2026-10-18T23:59:00-12:00",
+          "announcedFullDeadline": "2026-10-25T23:59:00-12:00",
+          "portalListedAbstractDeadline": "2026-10-19T13:00:00Z",
+          "portalListedFullDeadline": "2026-10-26T13:00:00Z",
+          "deadlineSourceLabel": "官方 CFP；投稿入口说明有冲突，真实 invitation 截止未公开核实",
+          "deadlineConflict": true,
+          "note": "主 Research Long Paper：官网为摘要 10 月 18 日、全文 10 月 25 日 AoE。OpenReview 入口文字分别显示次日 13:00 UTC，比官网时刻晚 61 分钟；未读取到可公开核验的 Long Submission / Full_Submission invitation 截止配置，保留官网时间并显式提示冲突。",
+          "sources": [
+            {
+              "url": "https://www2027.thewebconf.org/research-track-papers/",
+              "label": "官方 Research CFP"
+            },
+            {
+              "url": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Long_Papers",
+              "label": "OpenReview Long Papers 投稿入口"
+            }
+          ]
+        },
+        {
+          "name": "Industry Papers",
+          "submissionUrl": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Long_Papers",
+          "submissionAlternatives": [
+            {
+              "label": "Industry long paper",
+              "url": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Long_Papers"
+            },
+            {
+              "label": "Industry short paper",
+              "url": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Short_Papers"
+            }
+          ],
+          "announcedAbstractDeadline": "2026-10-18T23:59:00-12:00",
+          "announcedFullDeadline": "2026-10-25T23:59:00-12:00",
+          "portalListedAbstractDeadline": "2026-10-19T13:00:00Z",
+          "portalListedFullDeadline": "2026-10-26T13:00:00Z",
+          "deadlineSourceLabel": "官方 Industry CFP；共用 Long / Short 投稿入口",
+          "deadlineConflict": true,
+          "note": "Industry 无独立投稿系统：使用对应 Long / Short portal 并将 Industry Paper 设为 Yes。本行截止对应官网 Industry Call 的 10 月 Long 周期；Short 入口及其截止单列，勿混为同一轮。主 Research Long Paper：官网为摘要 10 月 18 日、全文 10 月 25 日 AoE。OpenReview 入口文字分别显示次日 13:00 UTC，比官网时刻晚 61 分钟；未读取到可公开核验的 Long Submission / Full_Submission invitation 截止配置，保留官网时间并显式提示冲突。",
+          "sources": [
+            {
+              "url": "https://www2027.thewebconf.org/call-for-industry-submissions/",
+              "label": "官方 Industry Call"
+            },
+            {
+              "url": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Long_Papers",
+              "label": "共用 Long Papers 入口"
+            },
+            {
+              "url": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Short_Papers",
+              "label": "共用 Short Papers 入口"
+            }
+          ]
+        },
+        {
+          "name": "Short Papers",
+          "submissionUrl": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Short_Papers",
+          "abstractDeadline": "2026-11-10T13:00:00Z",
+          "announcedAbstractDeadline": "2026-11-09T23:59:00-12:00",
+          "announcedFullDeadline": "2026-11-16T23:59:00-12:00",
+          "portalListedFullDeadline": "2026-11-17T13:00:00Z",
+          "deadlineSourceLabel": "摘要采用 OpenReview invitation duedate；全文仍为官方 CFP",
+          "deadlineConflict": true,
+          "note": "摘要采用实际 Submission invitation 的 duedate：2026-11-10 13:00 UTC，比官网 11 月 9 日 AoE 晚 61 分钟。expdate 13:30 UTC 是配置失效时间，不用作截止。全文入口文字为 11 月 17 日 13:00 UTC，但 Full_Submission invitation 未公开，保留官网全文截止并列冲突。",
+          "sources": [
+            {
+              "url": "https://api2.openreview.net/invitations?id=ACM.org%2FTheWebConf%2F2027%2FConference_Short_Papers%2F-%2FSubmission",
+              "label": "OpenReview 摘要 invitation 原始截止配置"
+            },
+            {
+              "url": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Conference_Short_Papers",
+              "label": "OpenReview Short Papers 入口说明"
+            },
+            {
+              "url": "https://www2027.thewebconf.org/important-dates/",
+              "label": "官网截止表"
+            }
+          ]
+        },
+        {
+          "name": "Demo Papers",
+          "submissionUrl": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Demos",
+          "fullDeadline": "2026-11-15T21:00:00Z",
+          "announcedFullDeadline": "2026-11-16T23:59:00-12:00",
+          "deadlineSourceLabel": "OpenReview Submission invitation duedate（与官方 CFP 冲突）",
+          "deadlineConflict": true,
+          "note": "实际 Submission invitation 的 duedate 为 2026-11-15 21:00 UTC，早于官网公布的 11 月 16 日 AoE（即 11 月 17 日 11:59 UTC）。倒计时采用投稿系统当前硬截止，同时保留官网原日期；expdate 21:30 UTC 不是投稿截止。",
+          "sources": [
+            {
+              "url": "https://api2.openreview.net/invitations?id=ACM.org%2FTheWebConf%2F2027%2FDemos%2F-%2FSubmission",
+              "label": "OpenReview Demo invitation 原始截止配置"
+            },
+            {
+              "url": "https://www2027.thewebconf.org/demos/",
+              "label": "官方 Demo CFP"
+            }
+          ]
+        }
+      ],
+      "reason": "区分主会与整体活动范围；修复投稿入口、核验真实 invitation 截止，保留与 CFP 冲突信息。",
+      "sources": [
+        {
+          "url": "https://www2027.thewebconf.org/",
+          "label": "官方会期与会场"
+        },
+        {
+          "url": "https://www2027.thewebconf.org/important-dates/",
+          "label": "官方各 Track 截止表"
+        }
+      ]
+    },
+    {
+      "acronym": "CVPR",
+      "year": 2027,
+      "tracks": [
+        {
+          "name": "Main Conference / Research",
+          "deadlineSourceLabel": "摘要已与 OpenReview invitation duedate 交叉核验；全文为 CFP",
+          "note": "摘要的 OpenReview duedate 为 2026-11-11 11:59 UTC，与官网 11 月 10 日 AoE 一致；Full_Submission invitation 尚未公开。",
+          "sources": [
+            {
+              "url": "https://api2.openreview.net/invitations?id=thecvf.com%2FCVPR%2F2027%2FConference%2F-%2FSubmission",
+              "label": "OpenReview 摘要 invitation 配置"
+            }
+          ]
+        }
+      ],
+      "reason": "投稿系统交叉核验，原摘要时间正确，无需修改。",
+      "sources": []
+    }
+  ],
+  "attendance": [
+    {
+      "acronym": "AAAI",
+      "years": [
+        {
+          "year": 2023,
+          "status": "unknown",
+          "summary": "作者须按现场费率注册，虚拟票不适用于报告作者；但该注册页不足以确认是否一律必须本人到场及例外流程。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://aaai-23.aaai.org/registration/",
+              "label": "已检查的该届官方页面；不足以确认强制到场"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "required",
+          "summary": "至少一名作者必须现场报告；无远程报告选项。签证等特殊情况须提前报批，代理报告也须主席批准。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://aaai.org/aaai-24-conference/policies-for-aaai-24-authors/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "required",
+          "summary": "至少一名作者必须现场报告并按现场费率注册；无远程报告选项。无法到场的特殊情况须立即通知 AAAI 并按官方流程处理。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://aaai.org/conference/aaai/aaai-25/policies-for-aaai-25-authors/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "ACL",
+      "years": [
+        {
+          "year": 2023,
+          "status": "remote-allowed",
+          "summary": "主会论文须报告且至少一名作者注册；明确支持现场或线上报告。Findings 的展示要求不同。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://2023.aclweb.org/calls/main_conference/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "remote-allowed",
+          "summary": "主会论文至少一名作者注册；报告作者可按现场或虚拟报告类型注册。Findings 的展示要求不同。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://2024.aclweb.org/registration",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "remote-allowed",
+          "summary": "主会论文必须报告；明确提供现场和线上两种报告方式，至少一名报告作者按规定注册。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://2025.aclweb.org/calls/main_conference_papers/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "EMNLP",
+      "years": [
+        {
+          "year": 2023,
+          "status": "remote-allowed",
+          "summary": "主会论文至少一名作者注册；可选择现场或虚拟报告。未展示的 Findings 另有注册规则。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://2023.emnlp.org/registration/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "remote-allowed",
+          "summary": "作者按实际报告方式选择现场或虚拟注册；签证拒签也可申请切换到虚拟参会。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://2024.emnlp.org/registration/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "remote-allowed",
+          "summary": "至少一名作者注册以展示论文；官方列出现场与虚拟两种论文报告费用，支持远程报告。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://2025.emnlp.org/registration/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "NeurIPS",
+      "years": [
+        {
+          "year": 2023,
+          "status": "unknown",
+          "summary": "未找到足以确认作者是否必须到场的该届官方政策；不从举办地点或注册费率推断。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://neurips.cc/Conferences/2023/CallForPapers",
+              "label": "已检查的该届官方页面；不足以确认强制到场"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "unknown",
+          "summary": "已确认每篇论文至少一名作者注册；该届页面链接的通用 FAQ 会随年份变化，未用当前通用条款倒推 2024 的强制到场规则。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://nips.cc/Conferences/2024/PaperInformation/NeurIPS-FAQ",
+              "label": "已检查的该届官方页面；不足以确认强制到场"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "conditional",
+          "summary": "每篇论文须在 San Diego 或 Mexico City 现场展示；若所有作者都无法到场，可以找人代为展示，因此不等于必须有作者本人到场。",
+          "scope": "主会论文现场展示；允许代理",
+          "sources": [
+            {
+              "url": "https://neurips.cc/Conferences/2025/PosterInstructions",
+              "label": "官方 Poster Instructions"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "ICML",
+      "years": [
+        {
+          "year": 2023,
+          "status": "conditional",
+          "summary": "至少一名作者须按现场费率注册，官方明确覆盖无法实际到场的情况；Oral 仅现场，不提供远程或预录 Oral。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://icml.cc/Conferences/2023/StyleAuthorInstructions",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "conditional",
+          "summary": "至少一名作者须按现场费率注册，即使无法实际到场也适用；该条款不能解读成必须本人到场，远程报告的具体安排未核实。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://icml.cc/Conferences/2024/AuthorInstructions",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "conditional",
+          "summary": "原则上至少一名作者注册并到场展示；官方未安排常规远程或混合报告，特殊情况除外。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://icml.cc/Conferences/2025/PeerReviewFAQ",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "ICLR",
+      "years": [
+        {
+          "year": 2023,
+          "status": "remote-allowed",
+          "summary": "至少一名作者可选择虚拟或现场注册；所有论文提供异步视频展示，现场 Oral/Poster 仅面向到场作者。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://iclr.cc/Conferences/2023/AuthorGuide",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "unknown",
+          "summary": "至少一名作者须有会议注册；该届无虚拟 Poster session，并提供异步视频，但页面未明确所有作者必须到场。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://iclr.cc/Conferences/2024/AuthorGuide",
+              "label": "已检查的该届官方页面；不足以确认强制到场"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "unknown",
+          "summary": "至少一名作者须有 Conference and Workshops 注册；该届无虚拟 Poster session，但不能仅据此判定所有作者必须到场。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://iclr.cc/Conferences/2025/AuthorGuide",
+              "label": "已检查的该届官方页面；不足以确认强制到场"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "CVPR",
+      "years": [
+        {
+          "year": 2023,
+          "status": "conditional",
+          "summary": "作者须按现场费率注册覆盖论文；如无法到场，官方明确允许虚拟参会，但仍须支付现场作者注册费并申报虚拟方式。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://cvpr.thecvf.com/Conferences/2023/Pricing2",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "conditional",
+          "summary": "作者须按现场费率注册覆盖论文；如无法到场，官方明确允许虚拟参会，但仍须支付现场作者注册费并申报虚拟方式。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://cvpr.thecvf.com/Conferences/2024/Pricing2",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "conditional",
+          "summary": "作者须按现场费率注册覆盖论文；如无法到场，官方明确允许虚拟参会，但仍须支付现场作者注册费并申报虚拟方式。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://cvpr.thecvf.com/Conferences/2025/Pricing2",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "ICCV",
+      "years": [
+        {
+          "year": 2023,
+          "status": "conditional",
+          "summary": "每篇论文至少一名作者按现场费率注册；如无法到场，可虚拟参会，但仍须支付现场作者注册费。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://iccv2023.thecvf.com/registration-81.php",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "not-held",
+          "summary": "该年未举办 ICCV；官方历届列表相邻届次为 2023 和 2025。",
+          "scope": "会议届次",
+          "sources": [
+            {
+              "url": "https://www.thecvf.com/?page_id=100",
+              "label": "CVF 官方历届会议目录"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "conditional",
+          "summary": "作者须按现场费率注册覆盖论文；如无法到场，可虚拟参会，但仍须支付现场作者注册费并申报虚拟方式。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://iccv.thecvf.com/Conferences/2025/Pricing2",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "WWW",
+      "years": [
+        {
+          "year": 2023,
+          "status": "conditional",
+          "summary": "论文须现场展示；特殊原因无法到场可安排现场代理。4 月 26 日更新称不再接受额外远程报告安排；须按非学生现场费率注册。",
+          "scope": "主会论文现场展示；特殊情况可代理",
+          "sources": [
+            {
+              "url": "https://archives.iw3c2.org/www2023/attendees/registration/",
+              "label": "官方归档注册及参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "conditional",
+          "summary": "原则上现场报告；可在注册时申请远程报告并获批后用 Zoom 直播，仍须安排实体 Poster 在会场展示并参与线上互动。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://www2024.thewebconf.org/attending/presentation/",
+              "label": "官方作者／参会政策"
+            },
+            {
+              "url": "https://www2024.thewebconf.org/attending/registration/",
+              "label": "官方注册与论文覆盖规则"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "unknown",
+          "summary": "官方归档确认有现场与虚拟参会内容，但尚未找到主会作者必须到场或可远程报告的明确规则；不据此推断。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://archives.iw3c2.org/www2025/",
+              "label": "已检查的该届官方页面；不足以确认强制到场"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "CHI",
+      "years": [
+        {
+          "year": 2023,
+          "status": "remote-allowed",
+          "summary": "Papers 作者可远程通过预录视频及异步问答参与；不要求必须到场。不同 Extended Abstracts Track 规则需另查。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://chi2023.acm.org/2023/01/27/the-chi2023-approach-to-a-hybrid-conference-format/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "remote-allowed",
+          "summary": "官方明确发表无需旅行；Papers 支持远程视频及异步讨论。Interactivity、学生竞赛等 Track 的现场要求不同。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://chi2024.acm.org/2023/11/09/hybrid-experience-at-chi-2024/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "remote-allowed",
+          "summary": "Papers 设置远程报告时段，作者可用 Zoom 面向现场听众报告；Interactivity 等 Track 不适用此远程规则。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://chi2025.acm.org/chi25-presentation-instructions/",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "KDD",
+      "years": [
+        {
+          "year": 2023,
+          "status": "required",
+          "summary": "至少一名作者须注册并现场报告；无虚拟报告。无法到场应由共同作者现场展示。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://www.kdd.org/kdd2023/faqs/index.html",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "conditional",
+          "summary": "论文与海报须由作者或指定代理现场展示；会议室不支持在线报告，代理由作者自行安排。",
+          "scope": "Research / ADS 论文；现场展示可代理",
+          "sources": [
+            {
+              "url": "https://www.kdd.org/kdd2024/presentation-instructions/",
+              "label": "官方作者报告说明"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "conditional",
+          "summary": "论文与海报须由作者或指定代理现场展示；会议室不支持在线报告，作者不能到场时可自行安排代理。",
+          "scope": "Research / ADS / Datasets & Benchmarks；现场展示可代理",
+          "sources": [
+            {
+              "url": "https://www.kdd.org/kdd2025/author-presentation-instructions/",
+              "label": "官方作者报告说明"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "acronym": "ICSE",
+      "years": [
+        {
+          "year": 2023,
+          "status": "conditional",
+          "summary": "默认现场报告；只有事先获批的报告者可通过 Zoom 远程报告。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://conf.researchr.org/attending/icse-2023/main-conference-virtual-presenter-instructions",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2024,
+          "status": "conditional",
+          "summary": "原则上现场报告；签证或健康等特殊情况且无共同作者可到场时，可申请远程直播、远程问答或预录展示。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://conf.researchr.org/attending/icse-2024/registration",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        },
+        {
+          "year": 2025,
+          "status": "conditional",
+          "summary": "原则上必须到场；仅医疗、签证拒签等使所有共同作者均无法出席的特殊情形可申请远程报告，须主席批准；经费不足等不属于许可理由。",
+          "scope": "主会研究论文",
+          "sources": [
+            {
+              "url": "https://conf.researchr.org/attending/icse-2025/faq",
+              "label": "官方作者／参会政策"
+            }
+          ],
+          "verifiedDate": "2026-10-28"
+        }
+      ]
+    }
+  ],
+  "auditNotes": [
+    "历史参会窗口固定为 2023、2024、2025，与现有近三年录用率窗口一致；不是按当前 2027 届次向前推三届。",
+    "required=通常要求至少一名作者亲自现场展示；remote-allowed=官方支持常规远程作者报告；conditional=远程或代理需满足条件，或有按现场费率注册等重要限制；not-held=该年无届次；unknown=证据不足。conditional 不能统一译为可以远程。",
+    "必须按现场费率注册不等于必须本人到场；有虚拟门票或直播不等于允许作者远程报告。每条均限定主会研究论文或注明 Track 范围。",
+    "不把当前无年份的 NeurIPS / ICML / ICLR 通用 FAQ 倒推到 2023–2025；历史页面不足则保留 unknown。",
+    "已核验 WWW 2027 Short 摘要与 Demo 的真实 OpenReview invitation duedate，未将 expdate 用作截止。WWW Long 及 Short 全文 invitation 访问受限/未发布；其 portal metadata 只能作为并列冲突证据。详见 www-openreview-deadline-evidence.json。",
+    "额外抽查 AAAI 2027、EMNLP ARR May 2026、NeurIPS 2026、KDD 2027 Cycle 1 的 OpenReview 入口日期，与现有数据的 UTC 换算一致；其旧 invitation 不可公开读取，不能称为硬截止核验通过。ICLR 2027 入口未提供日期；保留官网值。详见 other-openreview-deadline-audit.json。",
+    "ACL 2027 具体 ARR 投稿入口尚未核实、ICML/ICCV 2027 DDL 未公布：保留未知，不由上一年外推。CHI 2027 PCS 需登录、ICSE 2027 HotCRP 的过期截止未本轮读取；本轮未独立完成这些主 Track 的系统级核验。",
+    "WWW 2026 为不同届次：主会 2026-07-01 至 07-03，整体 06-29 至 07-03；原计划 Dubai 后转为全线上。官方证据 https://archives.iw3c2.org/www2026/attending/registration-virtual.html 。不得将 2026 的会期或全线上政策套用到 2027 Dublin。",
+    "来源为2026-10-28读取的官网及官方归档；政策只描述已核实的历史安排，不构成未来届次保证。"
+  ]
+}

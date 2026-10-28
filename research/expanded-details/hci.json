@@ -1,0 +1,4158 @@
+{
+  "asOf": "2026-10-28",
+  "conferences": [
+    {
+      "id": "cscw",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://cscw.acm.org/2027/",
+        "event": {
+          "start": "2027-10-16",
+          "end": "2027-10-20",
+          "location": "Philadelphia, Pennsylvania, USA",
+          "source": "https://cscw.acm.org/2027/"
+        },
+        "tracks": [
+          {
+            "name": "Papers — Rolling Submissions",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://cscw.acm.org/rolling.html",
+            "template": null,
+            "note": "CSCW 采用滚动投稿与期刊录用机制；不设一个固定的年度主论文截止。会议展示录用条件以官方 rolling 页面为准。",
+            "sources": [
+              {
+                "url": "https://cscw.acm.org/rolling.html",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "deadlineMode": "rolling"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://cscw.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://cscw.acm.org/rolling.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://cscw.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://cscw.acm.org/rolling.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "chi",
+      "detail": {
+        "acronym": "CHI",
+        "year": 2027,
+        "officialUrl": "https://chi2027.acm.org",
+        "event": {
+          "start": "2027-05-10",
+          "end": "2027-05-14",
+          "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+          "source": "https://chi2027.acm.org",
+          "additionalLocations": []
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-09-10T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://new.precisionconference.com/",
+            "template": {
+              "url": "https://chi2027.acm.org/chi-publication-formats/",
+              "year": 2027,
+              "status": "current",
+              "note": "2027官方格式页；审稿用单栏 ACM manuscript,review,anonymous。"
+            },
+            "sources": [
+              "https://chi2027.acm.org/authors/papers/"
+            ],
+            "note": "官方明确没有单独摘要截止；12月3日是已进入修订流程的重投稿截止，不能当作新稿DDL。",
+            "primary": true,
+            "fullTimezone": "AoE (UTC−12)"
+          },
+          {
+            "name": "Posters",
+            "abstractDeadline": null,
+            "fullDeadline": "2027-01-21T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "sources": [
+              "https://chi2027.acm.org/"
+            ],
+            "note": "专用投稿入口与该Track模板尚未核验。",
+            "primary": false,
+            "fullTimezone": "AoE (UTC−12)"
+          },
+          {
+            "name": "Interactive Demos",
+            "abstractDeadline": null,
+            "fullDeadline": "2027-01-21T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "sources": [
+              "https://chi2027.acm.org/"
+            ],
+            "note": "专用投稿入口与该Track模板尚未核验。",
+            "primary": false,
+            "fullTimezone": "AoE (UTC−12)"
+          },
+          {
+            "name": "Panels",
+            "abstractDeadline": null,
+            "fullDeadline": "2026-11-19T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "template": null,
+            "sources": [
+              "https://chi2027.acm.org/"
+            ],
+            "note": "专用投稿入口与该Track模板尚未核验。",
+            "primary": false,
+            "fullTimezone": "AoE (UTC−12)"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "Main / Research Track",
+            "sources": [],
+            "note": "未核验最终成对数量。"
+          },
+          {
+            "year": 2024,
+            "accepted": 1060,
+            "submitted": 4028,
+            "scope": "Papers Track / completed submissions",
+            "sources": [
+              "https://chi2024.acm.org/2023/11/17/chi-2024-papers-track-post-round-one-outcomes-report/",
+              "https://chi2024.acm.org/2024/01/29/chi-2024-papers-track-post-pc-outcomes-report/"
+            ],
+            "note": "使用同届R1报告完整投稿数4028及post-PC录用数1060计算26.32%；官方post-PC公布26.4%，其说明存在冲突回避导致的分析缺失。后续年度回顾出现4046，故口径不可直接混合。"
+          },
+          {
+            "year": 2025,
+            "accepted": 1249,
+            "submitted": 5014,
+            "scope": "Papers Track / conditional acceptance",
+            "sources": [
+              "https://chi2025.acm.org/chi-2025-papers-track-post-pc-outcomes-report/"
+            ],
+            "note": "PC会后有条件录用，非最终出版篇数。"
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": "https://programs.sigchi.org/chi/2025/awards/",
+          "note": "官方公告确认50篇Best Paper；动态奖项页面未提取到逐篇标题，待补10篇。",
+          "evidence": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "保留原项目已核验的详细 Track、统计、参会政策和精选论文；本轮新增核验范围以 audit 与各字段来源为准。"
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "remote-allowed",
+            "summary": "Papers 作者可远程通过预录视频及异步问答参与；不要求必须到场。不同 Extended Abstracts Track 规则需另查。",
+            "scope": "主会研究论文",
+            "sources": [
+              {
+                "url": "https://chi2023.acm.org/2023/01/27/the-chi2023-approach-to-a-hybrid-conference-format/",
+                "label": "官方作者／参会政策"
+              }
+            ],
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "year": 2024,
+            "status": "remote-allowed",
+            "summary": "官方明确发表无需旅行；Papers 支持远程视频及异步讨论。Interactivity、学生竞赛等 Track 的现场要求不同。",
+            "scope": "主会研究论文",
+            "sources": [
+              {
+                "url": "https://chi2024.acm.org/2023/11/09/hybrid-experience-at-chi-2024/",
+                "label": "官方作者／参会政策"
+              }
+            ],
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "year": 2025,
+            "status": "remote-allowed",
+            "summary": "Papers 设置远程报告时段，作者可用 Zoom 面向现场听众报告；Interactivity 等 Track 不适用此远程规则。",
+            "scope": "主会研究论文",
+            "sources": [
+              {
+                "url": "https://chi2025.acm.org/chi25-presentation-instructions/",
+                "label": "官方作者／参会政策"
+              }
+            ],
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "curatedPapers": {
+          "acronym": "CHI",
+          "selectionNote": "官方共 50 篇 Best Paper，按主题多样性精选其中 10 篇；这是获奖子集，不是完整获奖名单或官方排名。",
+          "items": [
+            {
+              "title": "Permission Rationales in the Web Ecosystem: An Exploration of Rationale Text and Design Patterns",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713547",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "Web 权限与隐私",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/188217",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713631",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "辅助技术与无障碍",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/189502",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "Enabling Recycling of Multi-Material 3D Printed Objects through Computational Design and Disassembly by Dissolution",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3714080",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "可持续制造与回收",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/188414",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "Lost in Magnitudes: Exploring Visualization Designs for Large Value Ranges",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713487",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "信息可视化",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/188628",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713535",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "健康与术后生活质量",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/189229",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "AMUSE: Human-AI Collaborative Songwriting with Multimodal Inspirations",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713818",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "多模态创作与音乐",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/188559",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "“It’s Like Being On Stage”: Conveying Dancers’ Expressiveness Through A Haptic-Installed Contemporary Dance Performance",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713321",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "触觉交互与舞蹈",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/189110",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "Traversing Dual Realities: Investigating Techniques for Transitioning 3D Objects between Desktop and Augmented Reality Environments",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713949",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "增强现实与跨设备交互",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/188973",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "Code Shaping: Iterative Code Editing with Free-form AI-Interpreted Sketching",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713822",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "人机协作编程",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/189580",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            },
+            {
+              "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+              "url": "https://dl.acm.org/doi/10.1145/3706598.3713697",
+              "award": "Best Paper",
+              "presentationType": "best",
+              "topic": "生成内容与人类记忆",
+              "source": "https://programs.sigchi.org/chi/2025/program/content/189485",
+              "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+            }
+          ],
+          "sources": [
+            {
+              "label": "CHI 官方奖项公告",
+              "url": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+            },
+            {
+              "label": "SIGCHI 官方奖项列表",
+              "url": "https://programs.sigchi.org/chi/2025/awards/"
+            },
+            {
+              "label": "SIGCHI 官方公开 program 数据",
+              "url": "https://files.sigchi.org/conference/program/CHI/2025"
+            }
+          ],
+          "totalOfficialBestPapers": 50,
+          "year": 2025
+        },
+        "sources": [
+          {
+            "url": "https://chi2027.acm.org",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://chi2023.acm.org/2023/01/27/the-chi2023-approach-to-a-hybrid-conference-format/",
+            "label": "官方作者／参会政策"
+          },
+          {
+            "url": "https://chi2024.acm.org/2023/11/09/hybrid-experience-at-chi-2024/",
+            "label": "官方作者／参会政策"
+          },
+          {
+            "url": "https://chi2025.acm.org/chi25-presentation-instructions/",
+            "label": "官方作者／参会政策"
+          },
+          {
+            "label": "CHI 官方奖项公告",
+            "url": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+          },
+          {
+            "label": "SIGCHI 官方奖项列表",
+            "url": "https://programs.sigchi.org/chi/2025/awards/"
+          },
+          {
+            "label": "SIGCHI 官方公开 program 数据",
+            "url": "https://files.sigchi.org/conference/program/CHI/2025"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://chi2027.acm.org",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://chi2023.acm.org/2023/01/27/the-chi2023-approach-to-a-hybrid-conference-format/",
+            "label": "官方作者／参会政策"
+          },
+          {
+            "url": "https://chi2024.acm.org/2023/11/09/hybrid-experience-at-chi-2024/",
+            "label": "官方作者／参会政策"
+          },
+          {
+            "url": "https://chi2025.acm.org/chi25-presentation-instructions/",
+            "label": "官方作者／参会政策"
+          },
+          {
+            "label": "CHI 官方奖项公告",
+            "url": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+          },
+          {
+            "label": "SIGCHI 官方奖项列表",
+            "url": "https://programs.sigchi.org/chi/2025/awards/"
+          },
+          {
+            "label": "SIGCHI 官方公开 program 数据",
+            "url": "https://files.sigchi.org/conference/program/CHI/2025"
+          }
+        ],
+        "missingFields": [
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "ubicomp",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://sigchi.org/events/ubicomp-2027/",
+        "event": {
+          "start": "2027-10-03",
+          "end": "2027-10-07",
+          "location": "Seoul Dragon City, Seoul, Republic of Korea",
+          "source": "https://sigchi.org/events/ubicomp-2027/"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://sigchi.org/events/ubicomp-2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://sigchi.org/events/ubicomp-2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "uist",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://uist.acm.org/2026/",
+        "event": {
+          "start": "2026-11-02",
+          "end": "2026-11-05",
+          "location": "Renaissance Center, Detroit, Michigan, USA",
+          "source": "https://uist.acm.org/2026/"
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "primary": true,
+            "fullDeadline": "2026-03-31T23:59:00-12:00",
+            "abstractDeadline": "2026-03-24T23:59:00-12:00",
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://new.precisionconference.com/submissions",
+            "cfpUrl": "https://uist.acm.org/2026/cfp",
+            "template": {
+              "url": "https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip",
+              "year": 2026,
+              "status": "current",
+              "note": "本届要求双栏sigconf，匿名review格式；见CFP。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://uist.acm.org/2026/cfp",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE (UTC−12)",
+            "abstractTimezone": "AoE (UTC−12)"
+          },
+          {
+            "name": "Posters / Demos",
+            "primary": false,
+            "fullDeadline": "2026-07-10T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://new.precisionconference.com/submissions",
+            "cfpUrl": "https://uist.acm.org/2026/cfp",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://uist.acm.org/2026/cfp",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE (UTC−12)"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 121,
+            "submitted": 483,
+            "scope": "Technical Papers",
+            "sources": [
+              {
+                "url": "https://hci.cs.uni-saarland.de/wp-content/uploads/publications/follmer_uist23_frontmatter.pdf",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "官方会议前言，作者机构保存的出版文本。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing",
+              "url": "https://arxiv.org/abs/2509.17268",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "创作工具 / 绘画学习",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates",
+              "url": "https://arxiv.org/abs/2507.22193",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "可持续计算 / 可回收电路",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+              "url": "https://arxiv.org/abs/2508.04889",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "社交系统 / 互操作",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps",
+              "url": "https://doi.org/10.1145/3746059.3747685",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "形变界面 / 多模态驱动",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "ProForm: Solder-Free Circuit Assembly Using Thermoforming",
+              "url": "https://arxiv.org/abs/2507.20933",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "无焊接制造 / 电子装配",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots",
+              "url": "https://doi.org/10.1145/3746059.3747660",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "混合现实 / 机器人交互",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            }
+          ],
+          "source": "https://uist.acm.org/2025/awards/",
+          "note": "收录官方全部 6 篇 Best Papers；主题覆盖创作工具、可持续计算、社交系统、形变界面、制造和混合现实。Honorable Mentions 未误标为 Best Paper。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing",
+              "url": "https://arxiv.org/abs/2509.17268",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "创作工具 / 绘画学习",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates",
+              "url": "https://arxiv.org/abs/2507.22193",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "可持续计算 / 可回收电路",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+              "url": "https://arxiv.org/abs/2508.04889",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "社交系统 / 互操作",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps",
+              "url": "https://doi.org/10.1145/3746059.3747685",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "形变界面 / 多模态驱动",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "ProForm: Solder-Free Circuit Assembly Using Thermoforming",
+              "url": "https://arxiv.org/abs/2507.20933",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "无焊接制造 / 电子装配",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots",
+              "url": "https://doi.org/10.1145/3746059.3747660",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://uist.acm.org/2025/awards/",
+              "presentationType": "best",
+              "topic": "混合现实 / 机器人交互",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://uist.acm.org/2025/awards/",
+              "label": "2025 官方奖项 / 会议前言",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "selectionNote": "收录官方全部 6 篇 Best Papers；主题覆盖创作工具、可持续计算、社交系统、形变界面、制造和混合现实。Honorable Mentions 未误标为 Best Paper。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://uist.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://hci.cs.uni-saarland.de/wp-content/uploads/publications/follmer_uist23_frontmatter.pdf",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://uist.acm.org/2026/cfp",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://uist.acm.org/2025/awards/",
+            "label": "2025 官方奖项 / 会议前言",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://uist.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://hci.cs.uni-saarland.de/wp-content/uploads/publications/follmer_uist23_frontmatter.pdf",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://uist.acm.org/2026/cfp",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://uist.acm.org/2025/awards/",
+            "label": "2025 官方奖项 / 会议前言",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "templates",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "2025-oral-spotlight-topic-supplement"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "group",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://group.acm.org/conferences/group27/",
+        "event": {
+          "start": "2027-01-10",
+          "end": "2027-01-13",
+          "location": "Sea Palms Resort, St. Simons Island, Georgia, USA",
+          "source": "https://group.acm.org/conferences/group27/"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "会议独立网站本次返回 403；日期地点使用 ACM SIGCHI 主办方日历，投稿细则仍待核实。"
+        ],
+        "sources": [
+          {
+            "url": "https://group.acm.org/conferences/group27/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://sigchi.org/events/group-2027/",
+            "label": "ACM SIGCHI 官方会议日历",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://group.acm.org/conferences/group27/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://sigchi.org/events/group-2027/",
+            "label": "ACM SIGCHI 官方会议日历",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "iui",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://iui.hosting.acm.org/2027/",
+        "event": {
+          "start": "2027-02-08",
+          "end": "2027-02-11",
+          "location": "Helsinki Congress Paasitorni, Helsinki, Finland",
+          "source": "https://iui.hosting.acm.org/2027/"
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://new.precisionconference.com/",
+            "cfpUrl": "https://iui.acm.org/2027/call-for-papers/",
+            "template": {
+              "url": "https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://iui.acm.org/2027/call-for-papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-08-20",
+            "abstractDeadlineDate": "2026-08-13"
+          },
+          {
+            "name": "Posters & Demos",
+            "primary": false,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "cfpUrl": "https://iui.hosting.acm.org/2027/",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://iui.hosting.acm.org/2027/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-11-10"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://iui.hosting.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://iui.acm.org/2027/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://iui.hosting.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://iui.acm.org/2027/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "iss",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://iss.acm.org/2026/",
+        "event": {
+          "start": "2026-11-23",
+          "end": "2026-11-26",
+          "location": "Turin, Italy",
+          "source": "https://iss.acm.org/2026/"
+        },
+        "tracks": [
+          {
+            "name": "PACMHCI Papers — Winter Round",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": null,
+            "cfpUrl": "https://iss.acm.org/2026/authors/papers/",
+            "template": {
+              "url": "https://dl.acm.org/journal/pacmhci/submission-templates",
+              "year": 2026,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "官方可读 CFP 列出冬季和夏季审稿轮次，但日期表在静态文本中为空；不由第三方反填。投稿说明要求 PCS，但没有核得本届准确提交网址。",
+            "sources": [
+              {
+                "url": "https://iss.acm.org/2026/authors/papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ]
+          },
+          {
+            "name": "PACMHCI Papers — Summer Round",
+            "primary": false,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": null,
+            "cfpUrl": "https://iss.acm.org/2026/authors/papers/",
+            "template": {
+              "url": "https://dl.acm.org/journal/pacmhci/submission-templates",
+              "year": 2026,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "官方可读 CFP 列出冬季和夏季审稿轮次，但日期表在静态文本中为空；不由第三方反填。投稿说明要求 PCS，但没有核得本届准确提交网址。",
+            "sources": [
+              {
+                "url": "https://iss.acm.org/2026/authors/papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ]
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://iss.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://iss.acm.org/2026/authors/papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://iss.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://iss.acm.org/2026/authors/papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "ecscw",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://ecscw.eusset.eu/2026",
+        "event": {
+          "start": "2026-06-29",
+          "end": "2026-07-03",
+          "location": "Munich, Germany",
+          "source": "https://ecscw.eusset.eu/2026"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://ecscw.eusset.eu/2026",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://ecscw.eusset.eu/2026",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "percom",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://percom.org/",
+        "event": {
+          "start": "2027-03-08",
+          "end": "2027-03-12",
+          "location": "Goa, India",
+          "source": "https://percom.org/"
+        },
+        "tracks": [
+          {
+            "name": "Research",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": "https://percom2027.hotcrp.com/",
+            "cfpUrl": "https://percom.org/call-for-papers/",
+            "template": {
+              "url": "https://www.ieee.org/conferences/publishing/templates.html",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "官方延长后的注册 9/11、全文 9/18；页面仅写 AoE，未写准确时刻，不补 23:59。",
+            "sources": [
+              {
+                "url": "https://percom.org/call-for-papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-09-18",
+            "abstractDeadlineDate": "2026-09-11"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "conditional",
+            "summary": "会议原则上要求现场展示；若全部作者因签证、COVID 或健康相关出行障碍无法到场，可向组织方申请远程展示或预录视频例外。",
+            "scope": "论文作者展示要求",
+            "sources": [
+              {
+                "url": "https://percom.org/2024/",
+                "label": "官方作者参会政策 / 会议报告",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "year": 2025,
+            "status": "required",
+            "summary": "主会议论文必须由至少一名作者现场展示并完成全价注册；未遵守会从最终论文集、会议程序和 IEEE Digital Library 中移除。",
+            "scope": "论文作者展示要求",
+            "sources": [
+              {
+                "url": "https://percom.org/2025/call-for-papers/",
+                "label": "官方作者参会政策 / 会议报告",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "官网当前届原则为现场会议，签证/健康等特殊原因可个案申请远程；该条不推定 2023–2025 历史政策。"
+        ],
+        "sources": [
+          {
+            "url": "https://percom.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://percom.org/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://percom.org/2025/call-for-papers/",
+            "label": "官方作者参会政策 / 会议报告",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://percom.org/2024/",
+            "label": "官方作者参会政策 / 会议报告",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://percom.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://percom.org/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://percom.org/2025/call-for-papers/",
+            "label": "官方作者参会政策 / 会议报告",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://percom.org/2024/",
+            "label": "官方作者参会政策 / 会议报告",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "acceptance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "mobilehci",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://mobilehci.acm.org/2027/",
+        "event": {
+          "start": "2027-09-20",
+          "end": "2027-09-23",
+          "location": "St. Raphael Resort & Marina, Limassol, Cyprus",
+          "source": "https://mobilehci.acm.org/2027/"
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://new.precisionconference.com/",
+            "cfpUrl": "https://mobilehci.acm.org/2027/submission/",
+            "template": {
+              "url": "https://www.acm.org/publications/proceedings-template",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://mobilehci.acm.org/2027/submission/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2027-02-17",
+            "abstractDeadlineDate": "2027-02-10"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://mobilehci.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://mobilehci.acm.org/2027/submission/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://mobilehci.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://mobilehci.acm.org/2027/submission/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "icwsm",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://www.icwsm.org/2027/",
+        "event": {
+          "start": null,
+          "end": null,
+          "location": "Edinburgh, Scotland",
+          "source": "https://www.icwsm.org/2027/"
+        },
+        "tracks": [
+          {
+            "name": "Full Papers / 第三轮",
+            "primary": true,
+            "fullDeadline": "2027-01-15T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": "https://new.precisionconference.com",
+            "cfpUrl": "https://www.icwsm.org/2027/submit/",
+            "template": {
+              "url": "https://aaai.org/authorkit27/",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "本轮新稿若需 R&R，可能转入 ICWSM 2028；不是保证 2027 展示的最终录用窗口。",
+            "sources": [
+              {
+                "url": "https://www.icwsm.org/2027/submit/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE"
+          },
+          {
+            "name": "Full Papers / 第一轮",
+            "primary": false,
+            "fullDeadline": "2026-05-15T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": "https://new.precisionconference.com",
+            "cfpUrl": "https://www.icwsm.org/2027/submit/",
+            "template": {
+              "url": "https://aaai.org/authorkit27/",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.icwsm.org/2027/submit/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE"
+          },
+          {
+            "name": "Full Papers / 第二轮",
+            "primary": false,
+            "fullDeadline": "2026-09-15T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": "https://new.precisionconference.com",
+            "cfpUrl": "https://www.icwsm.org/2027/submit/",
+            "template": {
+              "url": "https://aaai.org/authorkit27/",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.icwsm.org/2027/submit/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE"
+          },
+          {
+            "name": "Poster / Demo / Dataset",
+            "primary": false,
+            "fullDeadline": "2027-01-15T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": "https://new.precisionconference.com",
+            "cfpUrl": "https://www.icwsm.org/2027/submit/",
+            "template": {
+              "url": "https://aaai.org/authorkit27/",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.icwsm.org/2027/submit/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "不同类型与轮次按官方 Submit 页面列出；2027 届举办日期仍未核实。"
+        ],
+        "sources": [
+          {
+            "url": "https://www.icwsm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://www.icwsm.org/2027/submit/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.icwsm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://www.icwsm.org/2027/submit/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "event-dates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "dis",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://dis.acm.org/2027/",
+        "event": {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "location": "KTH Royal Institute of Technology, Stockholm, Sweden",
+          "source": "https://dis.acm.org/2027/"
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": "AoE",
+            "submissionUrl": "https://new.precisionconference.com/user/login",
+            "cfpUrl": "https://dis.acm.org/2027/call-for-papers/",
+            "template": {
+              "url": "https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip",
+              "year": 2027,
+              "status": "current",
+              "note": "本届官方投稿说明引用的模板。"
+            },
+            "note": "官方说明所有截止按 AoE，但本次读取未发现明确钟点；只展示日期，不补 23:59。Pictorials 的独立说明仍待核验。",
+            "sources": [
+              {
+                "url": "https://dis.acm.org/2027/call-for-papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2027-01-18",
+            "abstractDeadlineDate": "2027-01-11"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "本次已核对 Papers CFP；未把当前届可线上展示规则回填为 2023–2025 的参会政策。"
+        ],
+        "sources": [
+          {
+            "url": "https://dis.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://dis.acm.org/2027/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://dis.acm.org/2027/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://dis.acm.org/2027/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "icmi",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://icmi.acm.org/2026/",
+        "event": {
+          "start": "2026-10-05",
+          "end": "2026-10-09",
+          "location": "Napoli, Italy",
+          "source": "https://icmi.acm.org/2026/"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://icmi.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://icmi.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "assets",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://assets26.sigaccess.org/",
+        "event": {
+          "start": "2026-10-25",
+          "end": "2026-10-28",
+          "location": "Porto, Portugal",
+          "source": "https://assets26.sigaccess.org/"
+        },
+        "tracks": [
+          {
+            "name": "Technical Papers",
+            "primary": true,
+            "fullDeadline": "2026-04-22T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "cfpUrl": "https://assets26.sigaccess.org/call_for_papers.html",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://assets26.sigaccess.org/call_for_papers.html",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE (UTC−12)"
+          },
+          {
+            "name": "Posters and Demonstrations",
+            "primary": false,
+            "fullDeadline": "2026-07-01T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": null,
+            "cfpUrl": "https://assets26.sigaccess.org/call_for_papers.html",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://assets26.sigaccess.org/call_for_papers.html",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE (UTC−12)"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": 83,
+            "submitted": 279,
+            "scope": "Technical Papers",
+            "sources": [
+              {
+                "url": "https://assets25.sigaccess.org/registration.html",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "官方注册页的当届增长统计。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "remote-allowed",
+            "summary": "至少一名作者须按完整现场会议费率注册，但官方明确可以实际现场或虚拟参会；注册费率不能等同强制本人到场。",
+            "scope": "论文作者展示要求",
+            "sources": [
+              {
+                "url": "https://assets25.sigaccess.org/registration.html",
+                "label": "官方作者参会政策 / 会议报告",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "“As Someone Who is Disabled, I am so thankful for Sex Work”: Alternative Approaches to Access Among Disabled Sex-Workers",
+              "url": "https://doi.org/10.1145/3663547.3746375",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://assets25.sigaccess.org/",
+              "presentationType": "best",
+              "topic": "无障碍 / 残障群体访问需求",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "NeuroBridge: Using Generative AI to Bridge Cross-neurotype Communication Differences through Neurotypical Perspective-taking",
+              "url": "https://arxiv.org/abs/2509.23434",
+              "award": "Best Student Paper",
+              "year": 2025,
+              "source": "https://assets25.sigaccess.org/",
+              "presentationType": "best",
+              "topic": "神经多样性 / 生成式 AI 辅助沟通",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            }
+          ],
+          "source": "https://assets25.sigaccess.org/",
+          "note": "收录官方 Best Paper 与 Best Student Paper；不把 2009 年论文的 2025 Impact Award 当作 2025 新论文。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "“As Someone Who is Disabled, I am so thankful for Sex Work”: Alternative Approaches to Access Among Disabled Sex-Workers",
+              "url": "https://doi.org/10.1145/3663547.3746375",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://assets25.sigaccess.org/",
+              "presentationType": "best",
+              "topic": "无障碍 / 残障群体访问需求",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            },
+            {
+              "title": "NeuroBridge: Using Generative AI to Bridge Cross-neurotype Communication Differences through Neurotypical Perspective-taking",
+              "url": "https://arxiv.org/abs/2509.23434",
+              "award": "Best Student Paper",
+              "year": 2025,
+              "source": "https://assets25.sigaccess.org/",
+              "presentationType": "best",
+              "topic": "神经多样性 / 生成式 AI 辅助沟通",
+              "selectionReason": "官方奖项已核验；主题标签为编辑归纳。"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://assets25.sigaccess.org/",
+              "label": "2025 官方奖项 / 会议前言",
+              "verifiedDate": "2026-10-28"
+            }
+          ],
+          "selectionNote": "收录官方 Best Paper 与 Best Student Paper；不把 2009 年论文的 2025 Impact Award 当作 2025 新论文。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://assets26.sigaccess.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://assets25.sigaccess.org/registration.html",
+            "label": "官方作者参会政策 / 会议报告",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://assets26.sigaccess.org/call_for_papers.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://assets25.sigaccess.org/",
+            "label": "2025 官方奖项 / 会议前言",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://assets26.sigaccess.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://assets25.sigaccess.org/registration.html",
+            "label": "官方作者参会政策 / 会议报告",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://assets26.sigaccess.org/call_for_papers.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://assets25.sigaccess.org/",
+            "label": "2025 官方奖项 / 会议前言",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "2025-oral-spotlight-topic-supplement"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "gi",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://conferences.graphicsinterface.org/2027",
+        "event": {
+          "start": "2027-06-15",
+          "end": "2027-06-18",
+          "location": "Winnipeg, Manitoba, Canada",
+          "source": "https://conferences.graphicsinterface.org/2027"
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "primary": true,
+            "fullDeadline": "2027-02-05T23:59:00-12:00",
+            "abstractDeadline": null,
+            "timezone": "AoE (UTC−12)",
+            "submissionUrl": "https://new.precisionconference.com/submissions",
+            "cfpUrl": "https://conferences.graphicsinterface.org/2027/submissions/",
+            "template": {
+              "url": "https://www.acm.org/publications/proceedings-template",
+              "year": 2027,
+              "status": "current",
+              "note": "本届为单盲，双栏sigconf/screen；不应套用其他会议匿名设置。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://conferences.graphicsinterface.org/2027/submissions/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullTimezone": "AoE (UTC−12)"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://conferences.graphicsinterface.org/2027",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://conferences.graphicsinterface.org/2027/submissions/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://conferences.graphicsinterface.org/2027",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://conferences.graphicsinterface.org/2027/submissions/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "uic",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://swc-ieee-2026.github.io/uic/",
+        "event": {
+          "start": "2026-09-07",
+          "end": "2026-09-11",
+          "location": "Rende, Calabria, Italy",
+          "source": "https://swc-ieee-2026.github.io/uic/"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://swc-ieee-2026.github.io/uic/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://swc-ieee-2026.github.io/uic/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "ieee-world-haptics-conference",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://2027.worldhaptics.org/",
+        "event": {
+          "start": "2027-07-13",
+          "end": "2027-07-16",
+          "location": "Boston, Massachusetts, USA",
+          "source": "https://2027.worldhaptics.org/"
+        },
+        "tracks": [
+          {
+            "name": "Long and Regular Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://2027.worldhaptics.org/",
+            "template": null,
+            "note": "官方将本表日期标为 tentative，可能调整；尚未给出准确时刻/时区。",
+            "sources": [
+              {
+                "url": "https://2027.worldhaptics.org/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2027-01-29"
+          },
+          {
+            "name": "Work-in-Progress Papers",
+            "primary": false,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://2027.worldhaptics.org/",
+            "template": null,
+            "note": "官方暂定日期。",
+            "sources": [
+              {
+                "url": "https://2027.worldhaptics.org/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2027-04-30"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://2027.worldhaptics.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://2027.worldhaptics.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "interact",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "https://interact2027.org/",
+        "event": {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "location": "Tallinn University, Tallinn, Estonia",
+          "source": "https://interact2027.org/"
+        },
+        "tracks": [
+          {
+            "name": "Full Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://interact2027.org/",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://interact2027.org/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2027-02-01"
+          },
+          {
+            "name": "Short Papers / Other Tracks",
+            "primary": false,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://interact2027.org/",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://interact2027.org/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2027-05-03"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://interact2027.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://interact2027.org/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "idc",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://idc.acm.org/2026/",
+        "event": {
+          "start": "2026-06-22",
+          "end": "2026-06-25",
+          "location": "Leonardo Royal Hotel, Brighton, United Kingdom",
+          "source": "https://idc.acm.org/2026/"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 36,
+            "submitted": 125,
+            "scope": "Full + Short + Pictorial",
+            "sources": [
+              {
+                "url": "https://idc.acm.org/2023/wp-content/uploads/2023/05/IDC-2023-Program-3-Compressed.pdf",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "31 full +4 short +1 pictorial；分母87+31+7。"
+          },
+          {
+            "year": 2024,
+            "accepted": 46,
+            "submitted": 145,
+            "scope": "Full + Short + Pictorial",
+            "sources": [
+              {
+                "url": "https://pure.uva.nl/ws/files/244248452/IDC_2024_Chair_s_Welcome.pdf",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "34 full +8 short +4 pictorial；分母101+37+7。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "2027 会议站返回 403 且未取得可靠当届日期；采用已核实的 2026 届。SIGCHI 日历中的旧主办机构描述可能沿用往年，本条只采用明确的 Event Time / Venue 字段。"
+        ],
+        "sources": [
+          {
+            "url": "https://idc.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://sigchi.org/events/idc-2026/",
+            "label": "ACM SIGCHI 官方会议日历",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://idc.acm.org/2023/wp-content/uploads/2023/05/IDC-2023-Program-3-Compressed.pdf",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://pure.uva.nl/ws/files/244248452/IDC_2024_Chair_s_Welcome.pdf",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://idc.acm.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://sigchi.org/events/idc-2026/",
+            "label": "ACM SIGCHI 官方会议日历",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://idc.acm.org/2023/wp-content/uploads/2023/05/IDC-2023-Program-3-Compressed.pdf",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://pure.uva.nl/ws/files/244248452/IDC_2024_Chair_s_Welcome.pdf",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "attendance-2023",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "collaboratecom",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://collaboratecom.eai-conferences.org/2026/",
+        "event": {
+          "start": "2026-11-14",
+          "end": "2026-11-15",
+          "location": "Hong Kong SAR, China",
+          "source": "https://collaboratecom.eai-conferences.org/2026/"
+        },
+        "tracks": [
+          {
+            "name": "Full Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": "https://confyplus.eai.eu/app#conftrack-overview/cid/53806",
+            "cfpUrl": "https://collaboratecom.eai-conferences.org/2026/call-for-papers/",
+            "template": {
+              "url": "https://help.eai-conferences.org/wp-content/uploads/sites/88/2021/04/Springer_Latex_Template.zip",
+              "year": 2026,
+              "status": "current",
+              "note": "本届官方CFP仍引用通用Springer模板归档；不是2026新生成的模板版本。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://collaboratecom.eai-conferences.org/2026/call-for-papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-05-01"
+          },
+          {
+            "name": "Late Track",
+            "primary": false,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": "https://confyplus.eai.eu/app#conftrack-overview/tid/5234/cid/53806",
+            "cfpUrl": "https://collaboratecom.eai-conferences.org/2026/call-for-papers/",
+            "template": {
+              "url": "https://help.eai-conferences.org/wp-content/uploads/sites/88/2021/04/Springer_Latex_Template.zip",
+              "year": 2026,
+              "status": "current",
+              "note": "本届官方CFP仍引用通用Springer模板归档；不是2026新生成的模板版本。"
+            },
+            "note": "",
+            "sources": [
+              {
+                "url": "https://collaboratecom.eai-conferences.org/2026/call-for-papers/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-08-17"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": 72,
+            "submitted": 176,
+            "scope": "Full Papers",
+            "sources": [
+              {
+                "url": "https://link.springer.com/book/10.1007/978-3-031-54531-3",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "Springer 论文集介绍。"
+          },
+          {
+            "year": 2024,
+            "accepted": 62,
+            "submitted": 173,
+            "scope": "Full Papers",
+            "sources": [
+              {
+                "url": "https://link.springer.com/book/10.1007/978-3-031-93257-1",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "Springer 论文集介绍。"
+          },
+          {
+            "year": 2025,
+            "accepted": 58,
+            "submitted": 207,
+            "scope": "会议论文",
+            "sources": [
+              {
+                "url": "https://link.springer.com/content/pdf/bfm:978-3-032-21168-2/1",
+                "label": "官方/出版方原始统计或前言",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "note": "Springer 前言。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://collaboratecom.eai-conferences.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://link.springer.com/book/10.1007/978-3-031-54531-3",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://link.springer.com/book/10.1007/978-3-031-93257-1",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://link.springer.com/content/pdf/bfm:978-3-032-21168-2/1",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://collaboratecom.eai-conferences.org/2026/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://collaboratecom.eai-conferences.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://link.springer.com/book/10.1007/978-3-031-54531-3",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://link.springer.com/book/10.1007/978-3-031-93257-1",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://link.springer.com/content/pdf/bfm:978-3-032-21168-2/1",
+            "label": "官方/出版方原始统计或前言",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://collaboratecom.eai-conferences.org/2026/call-for-papers/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "attendance-2023",
+          "attendance-2024",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "cscwd",
+      "detail": {
+        "year": 2027,
+        "officialUrl": "http://2027.cscwd.org",
+        "event": {
+          "start": "2027-05-26",
+          "end": "2027-05-28",
+          "location": "Brisbane, Australia (hybrid)",
+          "source": "http://2027.cscwd.org"
+        },
+        "tracks": [
+          {
+            "name": "Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": "https://easychair.org/conferences/?conf=cscwd2027",
+            "cfpUrl": "http://2027.cscwd.org",
+            "template": null,
+            "note": "由10月31日延长至11月30日。",
+            "sources": [
+              {
+                "url": "http://2027.cscwd.org",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-11-30"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "http://2027.cscwd.org",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "http://2027.cscwd.org",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "coopis",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+        "event": {
+          "start": "2026-10-26",
+          "end": "2026-10-28",
+          "location": "ESEO campus, Angers, France",
+          "source": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026"
+        },
+        "tracks": [
+          {
+            "name": "Regular Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-07-03"
+          },
+          {
+            "name": "Demos",
+            "primary": false,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-09-14"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://coopisconference.org/",
+            "label": "会议系列官方指向当届网站",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://coopis.scitevents.org/CallForPapers.aspx?y=2026",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          },
+          {
+            "url": "https://coopisconference.org/",
+            "label": "会议系列官方指向当届网站",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "mobiquitous",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://mobiquitous.eai-conferences.org/2026/",
+        "event": {
+          "start": "2026-11-16",
+          "end": "2026-11-18",
+          "location": "Beppu, Japan",
+          "source": "https://mobiquitous.eai-conferences.org/2026/"
+        },
+        "tracks": [
+          {
+            "name": "Full Papers — Round 2",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://mobiquitous.eai-conferences.org/2026/",
+            "template": null,
+            "note": "",
+            "sources": [
+              {
+                "url": "https://mobiquitous.eai-conferences.org/2026/",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-06-28"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://mobiquitous.eai-conferences.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://mobiquitous.eai-conferences.org/2026/",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "avi",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://www.unive.it/web/en/16541/conference",
+        "event": {
+          "start": "2026-06-08",
+          "end": "2026-06-12",
+          "location": "Venice, Italy",
+          "source": "https://www.unive.it/web/en/16541/conference"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [
+          "6 月 8–9 日为 workshops，主会议为 6 月 10–12 日。"
+        ],
+        "sources": [
+          {
+            "url": "https://www.unive.it/web/en/16541/conference",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.unive.it/web/en/16541/conference",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "gpc",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://www.crowdos.cn/GPC2026/home.html",
+        "event": {
+          "start": "2026-12-04",
+          "end": "2026-12-06",
+          "location": "Nanjing, China",
+          "source": "https://www.crowdos.cn/GPC2026/home.html"
+        },
+        "tracks": [
+          {
+            "name": "Full Papers",
+            "primary": true,
+            "fullDeadline": null,
+            "abstractDeadline": null,
+            "timezone": null,
+            "submissionUrl": null,
+            "cfpUrl": "https://www.crowdos.cn/GPC2026/home.html",
+            "template": null,
+            "note": "官方 7 月 30 日发布的延期公告。",
+            "sources": [
+              {
+                "url": "https://www.crowdos.cn/GPC2026/home.html",
+                "label": "会议官方页面",
+                "verifiedDate": "2026-10-28"
+              }
+            ],
+            "fullDeadlineDate": "2026-08-18"
+          }
+        ],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://www.crowdos.cn/GPC2026/home.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://www.crowdos.cn/GPC2026/home.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    },
+    {
+      "id": "icxr",
+      "detail": {
+        "year": 2026,
+        "officialUrl": "https://icxr.net/2026/index.html",
+        "event": {
+          "start": null,
+          "end": null,
+          "location": null,
+          "source": "https://icxr.net/2026/index.html"
+        },
+        "tracks": [],
+        "acceptance": [
+          {
+            "year": 2023,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2024,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          },
+          {
+            "year": 2025,
+            "accepted": null,
+            "submitted": null,
+            "scope": "主论文；统计口径尚未核实",
+            "sources": [],
+            "note": "尚未核得官方整数投稿数与录用数；不从第三方百分比反推。"
+          }
+        ],
+        "attendance": [
+          {
+            "year": 2023,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2024,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          },
+          {
+            "year": 2025,
+            "status": "unknown",
+            "summary": "尚未核实该届作者是否必须现场展示。",
+            "scope": "作者论文展示要求",
+            "sources": []
+          }
+        ],
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "2025奖项尚待官方来源核实。"
+        },
+        "curatedPapers": {
+          "year": 2025,
+          "items": [],
+          "note": "仅收录有官方获奖或oral/spotlight依据的论文；不足十篇不凑数。"
+        },
+        "verifiedDate": "2026-10-28",
+        "notes": [],
+        "sources": [
+          {
+            "url": "https://icxr.net/2026/index.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ]
+      },
+      "audit": {
+        "checkedAt": "2026-10-28",
+        "status": "partial",
+        "officialSources": [
+          {
+            "url": "https://icxr.net/2026/index.html",
+            "label": "会议官方页面",
+            "verifiedDate": "2026-10-28"
+          }
+        ],
+        "missingFields": [
+          "event-dates",
+          "event-location",
+          "tracks",
+          "exact-deadline-timezones",
+          "submission-portals",
+          "templates",
+          "acceptance-2023",
+          "attendance-2023",
+          "acceptance-2024",
+          "attendance-2024",
+          "acceptance-2025",
+          "attendance-2025",
+          "best-papers-2025"
+        ],
+        "checkedScope": "本条明确填入的届次、日期、Track、历史统计、作者政策与奖项均对应来源。未填字段仍待逐项核验；已核对主 Track 不表示独立 Track 已穷尽，空奖项不表示该届没有设奖。",
+        "note": "已人工核对以下官方页面；第三方目录仅用于发现URL，默认时区未采用。"
+      }
+    }
+  ]
+}

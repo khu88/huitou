@@ -1,0 +1,24 @@
+{
+  "emnlp_main": [
+    "https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May",
+    "https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026",
+    "https://openreview.net/group?id=EMNLP",
+    "https://openreview.net/",
+    "https://github.com/acl-org/emnlp-2026/"
+  ],
+  "emnlp_industry": [
+    "https://openreview.net/group?id=EMNLP/2026/Industry_Track",
+    "https://acl-org.github.io/ACLPUB/formatting.html",
+    "https://github.com/acl-org/emnlp-2026/"
+  ],
+  "neurips_ed": [
+    "https://openreview.net/group?id=NeurIPS.cc%2F2026%2FEvaluations_and_Datasets_Track"
+  ],
+  "aaai_alignment": "HTTP Error 403: Forbidden",
+  "acl_cfp": [
+    "https://openreview.net/group?id=aclweb.org/ACL/ARR",
+    "https://github.com/acl-org/acl-style-files",
+    "https://acl-org.github.io/ACLPUB/formatting.html",
+    "https://acl-org.github.io/ACLPUB/formatting.html#appendices"
+  ]
+}

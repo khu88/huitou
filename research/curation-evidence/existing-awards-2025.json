@@ -1,0 +1,333 @@
+{
+  "conferences": [
+    {
+      "acronym": "ICSE",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验具体获奖论文"
+        }
+      }
+    },
+    {
+      "acronym": "SIGKDD",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
+          "items": [
+            {
+              "title": "Improving Group Robustness on Spurious Correlation via Evidential Alignment",
+              "url": "https://arxiv.org/abs/2506.11347",
+              "award": "Research Track · Best Paper",
+              "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+            },
+            {
+              "title": "Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity",
+              "url": "https://arxiv.org/abs/2505.14310",
+              "award": "Research Track · Best Student Paper",
+              "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+            },
+            {
+              "title": "Evaluating Decision Rules Across Many Weak Experiments",
+              "url": "https://arxiv.org/abs/2502.08763",
+              "award": "Applied Data Science · Best Paper",
+              "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+            },
+            {
+              "title": "When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark",
+              "url": "https://doi.org/10.1145/3711896.3737421",
+              "award": "Datasets & Benchmarks · Best Paper",
+              "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "acronym": "AAAI",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Every Bit Helps: Achieving the Optimal Distortion with a Few Queries",
+              "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33507",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+            },
+            {
+              "title": "Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection",
+              "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33905",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+            },
+            {
+              "title": "Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives",
+              "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34845",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+            }
+          ],
+          "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "note": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。"
+        }
+      }
+    },
+    {
+      "acronym": "NeurIPS",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+              "url": "https://openreview.net/forum?id=saDOrrnNTz",
+              "award": "Best Paper · Datasets & Benchmarks",
+              "year": 2025,
+              "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+            },
+            {
+              "title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+              "url": "https://openreview.net/forum?id=1b7whO4SfY",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+            },
+            {
+              "title": "1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities",
+              "url": "https://openreview.net/forum?id=s0JVsx3bx1",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+            },
+            {
+              "title": "Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training",
+              "url": "https://openreview.net/forum?id=BSZqpqgqM0",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+            }
+          ],
+          "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+          "note": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。"
+        }
+      }
+    },
+    {
+      "acronym": "ACL",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive",
+              "url": "https://aclanthology.org/2025.acl-long.1454/",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://2025.aclweb.org/program/awards/"
+            },
+            {
+              "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+              "url": "https://aclanthology.org/2025.acl-long.341/",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://2025.aclweb.org/program/awards/"
+            },
+            {
+              "title": "Language Models Resist Alignment: Evidence From Data Compression",
+              "url": "https://aclanthology.org/2025.acl-long.1141/",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://2025.aclweb.org/program/awards/"
+            },
+            {
+              "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+              "url": "https://aclanthology.org/2025.acl-long.1126/",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://2025.aclweb.org/program/awards/"
+            }
+          ],
+          "source": "https://2025.aclweb.org/program/awards/",
+          "note": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。"
+        }
+      }
+    },
+    {
+      "acronym": "CVPR",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "VGGT: Visual Geometry Grounded Transformer",
+              "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.html",
+              "award": "Best Paper",
+              "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+            },
+            {
+              "title": "Neural Inverse Rendering from Propagating Light",
+              "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Malik_Neural_Inverse_Rendering_from_Propagating_Light_CVPR_2025_paper.html",
+              "award": "Best Student Paper",
+              "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+            }
+          ],
+          "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+        }
+      }
+    },
+    {
+      "acronym": "ICCV",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": null,
+          "note": "尚未核验具体获奖论文"
+        }
+      }
+    },
+    {
+      "acronym": "ICML",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "The Value of Prediction in Identifying the Worst-Off",
+              "url": "https://icml.cc/virtual/2025/oral/47269",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://icml.cc/virtual/2025/awards_detail"
+            },
+            {
+              "title": "Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction",
+              "url": "https://icml.cc/virtual/2025/oral/47241",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://icml.cc/virtual/2025/awards_detail"
+            },
+            {
+              "title": "Conformal Prediction as Bayesian Quadrature",
+              "url": "https://icml.cc/virtual/2025/oral/47227",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://icml.cc/virtual/2025/awards_detail"
+            },
+            {
+              "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+              "url": "https://icml.cc/virtual/2025/poster/45990",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://icml.cc/virtual/2025/awards_detail"
+            },
+            {
+              "title": "CollabLLM: From Passive Responders to Active Collaborators",
+              "url": "https://icml.cc/virtual/2025/oral/47250",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://icml.cc/virtual/2025/awards_detail"
+            },
+            {
+              "title": "Score Matching with Missing Data",
+              "url": "https://icml.cc/virtual/2025/oral/47194",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://icml.cc/virtual/2025/awards_detail"
+            }
+          ],
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "note": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。"
+        }
+      }
+    },
+    {
+      "acronym": "ICLR",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Safety Alignment Should be Made More Than Just a Few Tokens Deep",
+              "url": "https://openreview.net/forum?id=6Mxhg9PtDE",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+            },
+            {
+              "title": "Learning Dynamics of LLM Finetuning",
+              "url": "https://openreview.net/forum?id=tPNHOoZFl9",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+            },
+            {
+              "title": "AlphaEdit: Null-Space Constrained Model Editing for Language Models",
+              "url": "https://openreview.net/forum?id=HvSytvg3Jh",
+              "award": "Outstanding Paper",
+              "year": 2025,
+              "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+            }
+          ],
+          "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/",
+          "note": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。"
+        }
+      }
+    },
+    {
+      "acronym": "EMNLP",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index",
+              "url": "https://aclanthology.org/2025.emnlp-main.1268/",
+              "award": "Best Paper",
+              "year": 2025,
+              "source": "https://2025.emnlp.org/program/awards/"
+            }
+          ],
+          "source": "https://2025.emnlp.org/program/awards/",
+          "note": "仅收录已核验的 Best / Outstanding Paper；不混入 Test of Time。"
+        }
+      }
+    },
+    {
+      "acronym": "CHI",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [],
+          "source": "https://programs.sigchi.org/chi/2025/awards/",
+          "note": "官方公告确认50篇Best Paper；动态奖项页面未提取到逐篇标题，待补10篇。",
+          "evidence": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+        }
+      }
+    },
+    {
+      "acronym": "WWW",
+      "detail": {
+        "bestPapers": {
+          "year": 2025,
+          "items": [
+            {
+              "title": "Behavioral Homophily in Social Media via Inverse Reinforcement Learning: A Reddit Case Study",
+              "url": "https://doi.org/10.1145/3696410.3714618",
+              "award": "Best Paper",
+              "source": "https://actu.epfl.ch/news/philipp-schneider-wins-2025-web-conference-best--3/"
+            }
+          ],
+          "source": "https://actu.epfl.ch/news/philipp-schneider-wins-2025-web-conference-best--3/",
+          "note": "由获奖作者所在机构 EPFL 的公告核验。"
+        }
+      }
+    }
+  ]
+}

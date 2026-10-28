@@ -1,0 +1,366 @@
+{
+  "checkedAt": "2026-10-28",
+  "scope": "Selected official oral detail pages and ACL Anthology paper URLs; DOI/OpenReview links are not retested here.",
+  "results": [
+    {
+      "conference": "NeurIPS",
+      "url": "https://neurips.cc/virtual/2025/oral/115563",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "NeurIPS",
+      "url": "https://neurips.cc/virtual/2025/oral/119076",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "NeurIPS",
+      "url": "https://neurips.cc/virtual/2025/oral/115002",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "NeurIPS",
+      "url": "https://neurips.cc/virtual/2025/oral/115066",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "NeurIPS",
+      "url": "https://neurips.cc/virtual/2025/oral/117112",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "NeurIPS",
+      "url": "https://neurips.cc/virtual/2025/oral/119298",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.1454/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.341/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.1141/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.1126/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.96/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.914/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.294/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.436/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.1579/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ACL",
+      "url": "https://aclanthology.org/2025.acl-long.1006/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35317",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35336",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35356",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35272",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35307",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35281",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35353",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "CVPR",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35282",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2912",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2925",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2935",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2889",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2880",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2900",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2904",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2928",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2905",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/oral/2932",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47269",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47241",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47227",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47250",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47194",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47258",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47238",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47193",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICML",
+      "url": "https://icml.cc/virtual/2025/oral/47222",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31870",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31933",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31878",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31767",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31923",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31868",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "ICLR",
+      "url": "https://iclr.cc/virtual/2025/oral/31737",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.1268/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.69/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.154/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.398/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.486/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.504/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.882/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.1271/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.1180/",
+      "status": 200,
+      "titleFound": true
+    },
+    {
+      "conference": "EMNLP",
+      "url": "https://aclanthology.org/2025.emnlp-main.90/",
+      "status": 200,
+      "titleFound": true
+    }
+  ]
+}

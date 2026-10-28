@@ -1,0 +1,258 @@
+[
+  [
+    "GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space",
+    "/virtual/2025/oral/2879"
+  ],
+  [
+    "Multi-View 3D Point Tracking",
+    "/virtual/2025/oral/2884"
+  ],
+  [
+    "Uncalibrated Structure from Motion on a Sphere",
+    "/virtual/2025/oral/2885"
+  ],
+  [
+    "Scaling Laws for Native Multimodal Models",
+    "/virtual/2025/oral/2880"
+  ],
+  [
+    "Removing Cost Volumes from Optical Flow Estimators",
+    "/virtual/2025/oral/2886"
+  ],
+  [
+    "FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases",
+    "/virtual/2025/oral/2881"
+  ],
+  [
+    "Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image",
+    "/virtual/2025/oral/2887"
+  ],
+  [
+    "Differentiable Room Acoustic Rendering with Multi-View Vision Priors",
+    "/virtual/2025/oral/2882"
+  ],
+  [
+    "Token Activation Map to Visually Explain Multimodal LLMs",
+    "/virtual/2025/oral/2883"
+  ],
+  [
+    "TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models",
+    "/virtual/2025/oral/2888"
+  ],
+  [
+    "RayZer: A Self-supervised Large View Synthesis Model",
+    "/virtual/2025/oral/2889"
+  ],
+  [
+    "Variance-Based Pruning for Accelerating and Compressing Trained Networks",
+    "/virtual/2025/oral/2894"
+  ],
+  [
+    "EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis",
+    "/virtual/2025/oral/2890"
+  ],
+  [
+    "Importance-Based Token Merging for Efficient Image and Video Generation",
+    "/virtual/2025/oral/2895"
+  ],
+  [
+    "Knowledge Distillation for Learned Image Compression",
+    "/virtual/2025/oral/2896"
+  ],
+  [
+    "Self-Ensembling Gaussian Splatting for Few-Shot Novel View Synthesis",
+    "/virtual/2025/oral/2891"
+  ],
+  [
+    "Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction",
+    "/virtual/2025/oral/2892"
+  ],
+  [
+    "Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion",
+    "/virtual/2025/oral/2897"
+  ],
+  [
+    "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
+    "/virtual/2025/oral/2898"
+  ],
+  [
+    "SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining",
+    "/virtual/2025/oral/2893"
+  ],
+  [
+    "RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model",
+    "/virtual/2025/oral/2899"
+  ],
+  [
+    "NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping",
+    "/virtual/2025/oral/2905"
+  ],
+  [
+    "MaskControl: Spatio-Temporal Control for Masked Motion Synthesis",
+    "/virtual/2025/oral/2906"
+  ],
+  [
+    "Towards a Unified Copernicus Foundation Model for Earth Vision",
+    "/virtual/2025/oral/2900"
+  ],
+  [
+    "Learning Streaming Video Representation via Multitask Training",
+    "/virtual/2025/oral/2901"
+  ],
+  [
+    "HairCUP: Hair Compositional Universal Prior for 3D Gaussian Avatars",
+    "/virtual/2025/oral/2907"
+  ],
+  [
+    "LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models",
+    "/virtual/2025/oral/2902"
+  ],
+  [
+    "Understanding Co-speech Gestures in-the-wild",
+    "/virtual/2025/oral/2908"
+  ],
+  [
+    "Learning Visual Hierarchies in Hyperbolic Space for Image Retrieval",
+    "/virtual/2025/oral/2903"
+  ],
+  [
+    "DPoser-X: Diffusion Model as Robust 3D Whole-body Human Pose Prior",
+    "/virtual/2025/oral/2909"
+  ],
+  [
+    "GMMamba: Group Masking Mamba for Whole Slide Image Classification",
+    "/virtual/2025/oral/2904"
+  ],
+  [
+    "Teeth Reconstruction and Performance Capture Using a Phone Camera",
+    "/virtual/2025/oral/2910"
+  ],
+  [
+    "Forecasting Continuous Non-Conservative Dynamical Systems in SO(3)",
+    "/virtual/2025/oral/2916"
+  ],
+  [
+    "Dynamic Typography: Bringing Text to Life via Video Diffusion Prior",
+    "/virtual/2025/oral/2911"
+  ],
+  [
+    "Generating Physically Stable and Buildable Brick Structures from Text",
+    "/virtual/2025/oral/2912"
+  ],
+  [
+    "Certifiably Optimal Anisotropic Rotation Averaging",
+    "/virtual/2025/oral/2917"
+  ],
+  [
+    "WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction",
+    "/virtual/2025/oral/2913"
+  ],
+  [
+    "Deterministic Object Pose Confidence Region Estimation",
+    "/virtual/2025/oral/2918"
+  ],
+  [
+    "RePoseD: Efficient Relative Pose Estimation With Known Depth Information",
+    "/virtual/2025/oral/2919"
+  ],
+  [
+    "SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling",
+    "/virtual/2025/oral/2914"
+  ],
+  [
+    "Diving into the Fusion of Monocular Priors for Generalized Stereo Matching",
+    "/virtual/2025/oral/2920"
+  ],
+  [
+    "ReCamMaster: Camera-Controlled Generative Rendering from A Single Video",
+    "/virtual/2025/oral/2915"
+  ],
+  [
+    "LaRender: Training-Free Occlusion Control in Image Generation via Latent Rendering",
+    "/virtual/2025/oral/2921"
+  ],
+  [
+    "ROAR: Reducing Inversion Error in Generative Image Watermarking",
+    "/virtual/2025/oral/2927"
+  ],
+  [
+    "MikuDance: Animating Character Art with Mixed Motion Dynamics",
+    "/virtual/2025/oral/2922"
+  ],
+  [
+    "Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos",
+    "/virtual/2025/oral/2928"
+  ],
+  [
+    "Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution",
+    "/virtual/2025/oral/2923"
+  ],
+  [
+    "Automated Model Evaluation for Object Detection via Prediction Consistency and Reliability",
+    "/virtual/2025/oral/2929"
+  ],
+  [
+    "Counting Stacked Objects",
+    "/virtual/2025/oral/2930"
+  ],
+  [
+    "LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing",
+    "/virtual/2025/oral/2924"
+  ],
+  [
+    "MIORe & VAR-MIORe: Benchmarks to Push the Boundaries of Restoration",
+    "/virtual/2025/oral/2931"
+  ],
+  [
+    "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+    "/virtual/2025/oral/2925"
+  ],
+  [
+    "Soft Local Completeness: Rethinking Completeness in XAI",
+    "/virtual/2025/oral/2932"
+  ],
+  [
+    "LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer",
+    "/virtual/2025/oral/2926"
+  ],
+  [
+    "SuperDec: 3D Scene Decomposition with Superquadrics Primitives",
+    "/virtual/2025/oral/2933"
+  ],
+  [
+    "CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation",
+    "/virtual/2025/oral/2938"
+  ],
+  [
+    "E-SAM: Training-Free Segment Every Entity Model",
+    "/virtual/2025/oral/2939"
+  ],
+  [
+    "Diffusion Image Prior",
+    "/virtual/2025/oral/2934"
+  ],
+  [
+    "Spatially-Varying Autofocus",
+    "/virtual/2025/oral/2935"
+  ],
+  [
+    "Online Reasoning Video Segmentation with Just-in-Time Digital Twins",
+    "/virtual/2025/oral/2940"
+  ],
+  [
+    "Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation",
+    "/virtual/2025/oral/2941"
+  ],
+  [
+    "Towards Foundational Models for Single-Chip Radar",
+    "/virtual/2025/oral/2936"
+  ],
+  [
+    "ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds",
+    "/virtual/2025/oral/2942"
+  ],
+  [
+    "Event-based Visual Vibrometry",
+    "/virtual/2025/oral/2937"
+  ]
+]

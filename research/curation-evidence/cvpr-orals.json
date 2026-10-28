@@ -1,0 +1,382 @@
+[
+  [
+    "CleanDIFT: Diffusion Features without Noise",
+    "/virtual/2025/oral/35284"
+  ],
+  [
+    "Motion Prompting: Controlling Video Generation with Motion Trajectories",
+    "/virtual/2025/oral/35272"
+  ],
+  [
+    "OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation",
+    "/virtual/2025/oral/35278"
+  ],
+  [
+    "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise",
+    "/virtual/2025/oral/35273"
+  ],
+  [
+    "OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels",
+    "/virtual/2025/oral/35285"
+  ],
+  [
+    "LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions",
+    "/virtual/2025/oral/35279"
+  ],
+  [
+    "Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather",
+    "/virtual/2025/oral/35286"
+  ],
+  [
+    "LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping",
+    "/virtual/2025/oral/35274"
+  ],
+  [
+    "Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild",
+    "/virtual/2025/oral/35280"
+  ],
+  [
+    "Alias-Free Latent Diffusion Models: Improving Fractional Shift Equivariance of Diffusion Latent Space",
+    "/virtual/2025/oral/35275"
+  ],
+  [
+    "DiffFNO: Diffusion Fourier Neural Operator",
+    "/virtual/2025/oral/35287"
+  ],
+  [
+    "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models",
+    "/virtual/2025/oral/35281"
+  ],
+  [
+    "Removing Reflections from RAW Photos",
+    "/virtual/2025/oral/35374"
+  ],
+  [
+    "RandAR: Decoder-only Autoregressive Visual Generation in Random Orders",
+    "/virtual/2025/oral/35276"
+  ],
+  [
+    "Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector",
+    "/virtual/2025/oral/35282"
+  ],
+  [
+    "CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models",
+    "/virtual/2025/oral/35297"
+  ],
+  [
+    "FoundationStereo: Zero-Shot Stereo Matching",
+    "/virtual/2025/oral/35290"
+  ],
+  [
+    "Descriptor-In-Pixel : Point-Feature Tracking For Pixel Processor Arrays",
+    "/virtual/2025/oral/35304"
+  ],
+  [
+    "Temporally Consistent Object-Centric Learning by Contrasting Slots",
+    "/virtual/2025/oral/35305"
+  ],
+  [
+    "MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision",
+    "/virtual/2025/oral/35291"
+  ],
+  [
+    "Reanimating Images using Neural Representations of Dynamic Stimuli",
+    "/virtual/2025/oral/35298"
+  ],
+  [
+    "EgoLM: Multi-Modal Language Model of Egocentric Motions",
+    "/virtual/2025/oral/35299"
+  ],
+  [
+    "Multi-view Reconstruction via SfM-guided Monocular Depth Estimation",
+    "/virtual/2025/oral/35292"
+  ],
+  [
+    "Temporal Alignment-Free Video Matching for Few-shot Action Recognition",
+    "/virtual/2025/oral/35306"
+  ],
+  [
+    "Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models",
+    "/virtual/2025/oral/35307"
+  ],
+  [
+    "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds",
+    "/virtual/2025/oral/35293"
+  ],
+  [
+    "Reconstructing Humans with a Biomechanically Accurate Skeleton",
+    "/virtual/2025/oral/35300"
+  ],
+  [
+    "The PanAf-FGBG Dataset: Understanding the Impact of Backgrounds in Wildlife Behaviour Recognition",
+    "/virtual/2025/oral/35308"
+  ],
+  [
+    "MEGA: Masked Generative Autoencoder for Human Mesh Recovery",
+    "/virtual/2025/oral/35301"
+  ],
+  [
+    "VGGT: Visual Geometry Grounded Transformer",
+    "/virtual/2025/oral/35294"
+  ],
+  [
+    "TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization",
+    "/virtual/2025/oral/35302"
+  ],
+  [
+    "Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers",
+    "/virtual/2025/oral/35309"
+  ],
+  [
+    "CraftsMan3D: High-fidelity Mesh Generation with 3D Native Diffusion and Interactive Geometry Refiner",
+    "/virtual/2025/oral/35295"
+  ],
+  [
+    "SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images",
+    "/virtual/2025/oral/35317"
+  ],
+  [
+    "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos",
+    "/virtual/2025/oral/35311"
+  ],
+  [
+    "Identifying and Mitigating Position Bias of Multi-image Vision-Language Models",
+    "/virtual/2025/oral/35323"
+  ],
+  [
+    "Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key",
+    "/virtual/2025/oral/35324"
+  ],
+  [
+    "Towards Universal Dataset Distillation via Task-Driven Diffusion",
+    "/virtual/2025/oral/35318"
+  ],
+  [
+    "Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos",
+    "/virtual/2025/oral/35312"
+  ],
+  [
+    "Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content",
+    "/virtual/2025/oral/35325"
+  ],
+  [
+    "Continuous 3D Perception Model with Persistent State",
+    "/virtual/2025/oral/35313"
+  ],
+  [
+    "IceDiff: High Resolution and High-Quality Arctic Sea Ice Forecasting with Generative Diffusion Prior",
+    "/virtual/2025/oral/35319"
+  ],
+  [
+    "Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning",
+    "/virtual/2025/oral/35320"
+  ],
+  [
+    "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+    "/virtual/2025/oral/35326"
+  ],
+  [
+    "TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion",
+    "/virtual/2025/oral/35314"
+  ],
+  [
+    "Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation",
+    "/virtual/2025/oral/35321"
+  ],
+  [
+    "Neural Inverse Rendering from Propagating Light",
+    "/virtual/2025/oral/35315"
+  ],
+  [
+    "From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons",
+    "/virtual/2025/oral/35327"
+  ],
+  [
+    "DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution",
+    "/virtual/2025/oral/35341"
+  ],
+  [
+    "PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation",
+    "/virtual/2025/oral/35335"
+  ],
+  [
+    "Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models",
+    "/virtual/2025/oral/35329"
+  ],
+  [
+    "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+    "/virtual/2025/oral/35336"
+  ],
+  [
+    "Language-Guided Image Tokenization for Generation",
+    "/virtual/2025/oral/35330"
+  ],
+  [
+    "Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World",
+    "/virtual/2025/oral/35342"
+  ],
+  [
+    "DreamRelation: Bridging Customization and Relation Generation",
+    "/virtual/2025/oral/35331"
+  ],
+  [
+    "Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues",
+    "/virtual/2025/oral/35343"
+  ],
+  [
+    "GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill",
+    "/virtual/2025/oral/35337"
+  ],
+  [
+    "Infinity∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis",
+    "/virtual/2025/oral/35332"
+  ],
+  [
+    "Camera Resection from Known Line Pencils and a Radially Distorted Scanline",
+    "/virtual/2025/oral/35344"
+  ],
+  [
+    "Navigation World Models",
+    "/virtual/2025/oral/35338"
+  ],
+  [
+    "Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning",
+    "/virtual/2025/oral/35339"
+  ],
+  [
+    "Opportunistic Single-Photon Time of Flight",
+    "/virtual/2025/oral/35345"
+  ],
+  [
+    "Autoregressive Distillation of Diffusion Transformers",
+    "/virtual/2025/oral/35333"
+  ],
+  [
+    "Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing",
+    "/virtual/2025/oral/35347"
+  ],
+  [
+    "UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming",
+    "/virtual/2025/oral/35353"
+  ],
+  [
+    "Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks",
+    "/virtual/2025/oral/35359"
+  ],
+  [
+    "Gromov–Wasserstein Problem with Cyclic Symmetry",
+    "/virtual/2025/oral/35360"
+  ],
+  [
+    "Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning",
+    "/virtual/2025/oral/35354"
+  ],
+  [
+    "DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models",
+    "/virtual/2025/oral/35348"
+  ],
+  [
+    "CustAny: Customizing Anything from A Single Example",
+    "/virtual/2025/oral/35349"
+  ],
+  [
+    "Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields",
+    "/virtual/2025/oral/35361"
+  ],
+  [
+    "Enhancing Diversity for Data-free Quantization",
+    "/virtual/2025/oral/35355"
+  ],
+  [
+    "Zero-Shot Monocular Scene Flow Estimation in the Wild",
+    "/virtual/2025/oral/35362"
+  ],
+  [
+    "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model",
+    "/virtual/2025/oral/35356"
+  ],
+  [
+    "Minority-Focused Text-to-Image Generation via Prompt Optimization",
+    "/virtual/2025/oral/35350"
+  ],
+  [
+    "3D Student Splatting and Scooping",
+    "/virtual/2025/oral/35367"
+  ],
+  [
+    "Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models",
+    "/virtual/2025/oral/35351"
+  ],
+  [
+    "Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation",
+    "/virtual/2025/oral/35357"
+  ],
+  [
+    "Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding",
+    "/virtual/2025/oral/35378"
+  ],
+  [
+    "Effective SAM Combination for Open-Vocabulary Semantic Segmentation",
+    "/virtual/2025/oral/35371"
+  ],
+  [
+    "DIFIX3D+: Improving 3D Reconstructions with Single-Step Diffusion Models",
+    "/virtual/2025/oral/35364"
+  ],
+  [
+    "3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting",
+    "/virtual/2025/oral/35365"
+  ],
+  [
+    "FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video",
+    "/virtual/2025/oral/35372"
+  ],
+  [
+    "Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding",
+    "/virtual/2025/oral/35379"
+  ],
+  [
+    "DNF: Unconditional 4D Generation with Dictionary-based Neural Fields",
+    "/virtual/2025/oral/35366"
+  ],
+  [
+    "LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models",
+    "/virtual/2025/oral/35380"
+  ],
+  [
+    "Birth and Death of a Rose",
+    "/virtual/2025/oral/35373"
+  ],
+  [
+    "VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection",
+    "/virtual/2025/oral/35381"
+  ],
+  [
+    "CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models",
+    "/virtual/2025/oral/35368"
+  ],
+  [
+    "Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining",
+    "/virtual/2025/oral/35288"
+  ],
+  [
+    "AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea",
+    "/virtual/2025/oral/35375"
+  ],
+  [
+    "SEAL: Semantic Attention Learning for Long Video Representation",
+    "/virtual/2025/oral/35382"
+  ],
+  [
+    "Diffusion Renderer: Neural Inverse and Forward Rendering with Video Diffusion Models",
+    "/virtual/2025/oral/35369"
+  ],
+  [
+    "Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens",
+    "/virtual/2025/oral/35376"
+  ],
+  [
+    "Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval",
+    "/virtual/2025/oral/35383"
+  ]
+]

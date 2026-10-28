@@ -1,0 +1,623 @@
+{
+  "verifiedDate": "2026-10-28",
+  "acceptanceWindow": [
+    2023,
+    2024,
+    2025
+  ],
+  "bestPaperYear": 2025,
+  "policy": "仅已核验字段有值；未知为null。截止时间保留原时区，AoE为UTC−12。年度窗口按当前日历年2026之前三个完整年份。",
+  "conferences": [
+    {
+      "acronym": "CVPR",
+      "year": 2027,
+      "officialUrl": "https://cvpr.thecvf.com/Conferences/2027",
+      "event": {
+        "start": "2027-06-20",
+        "end": "2027-06-25",
+        "location": "Seattle, Washington, USA",
+        "source": "https://cvpr.thecvf.com/Conferences/2027/Dates"
+      },
+      "tracks": [
+        {
+          "name": "Main Conference / Research",
+          "abstractDeadline": "2026-11-10T23:59:00-12:00",
+          "fullDeadline": "2026-11-16T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=thecvf.com/CVPR/2027/Conference",
+          "template": {
+            "url": "https://media.eventhosts.cc/Conferences/CVPR2027/author-kit-CVPR2027-v1-latex.zip",
+            "year": 2027,
+            "status": "current",
+            "note": null
+          },
+          "sources": [
+            "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+            "https://cvpr.thecvf.com/Conferences/2027/AuthorGuidelines"
+          ],
+          "note": "11月10日为强制 Paper Enrollment / 注册截止，官方作者指南也称 abstract deadline。"
+        }
+      ],
+      "acceptance": [
+        {
+          "year": 2023,
+          "accepted": 2359,
+          "submitted": 9155,
+          "percent": 25.77,
+          "scope": "Main / Research Track",
+          "sources": [
+            "https://cvpr.thecvf.com/Conferences/2023/BlogPaperSubmissions"
+          ],
+          "note": null
+        },
+        {
+          "year": 2024,
+          "accepted": 2719,
+          "submitted": 11532,
+          "percent": 23.58,
+          "scope": "Main / Research Track",
+          "sources": [
+            "https://cvpr.thecvf.com/Conferences/2024/News/Wrap_Release"
+          ],
+          "note": null
+        },
+        {
+          "year": 2025,
+          "accepted": 2872,
+          "submitted": 13008,
+          "percent": 22.08,
+          "scope": "Main / Research Track",
+          "sources": [
+            "https://cvpr.thecvf.com/Conferences/2025/News/Technical_Program"
+          ],
+          "note": "采用官方 Technical Program 公布的成对数量；另一 Wrap 新闻稿的 12008 与其 13%增长陈述及 Technical Program 冲突，未采用。"
+        }
+      ],
+      "bestPapers": {
+        "year": 2025,
+        "items": [
+          {
+            "title": "VGGT: Visual Geometry Grounded Transformer",
+            "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.html",
+            "award": "Best Paper",
+            "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+          },
+          {
+            "title": "Neural Inverse Rendering from Propagating Light",
+            "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Malik_Neural_Inverse_Rendering_from_Propagating_Light_CVPR_2025_paper.html",
+            "award": "Best Student Paper",
+            "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+          }
+        ],
+        "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+      },
+      "verifiedDate": "2026-10-28",
+      "notes": [
+        "会议完整日程含6月20–21日workshops/tutorials，主会6月22–25日。"
+      ]
+    },
+    {
+      "acronym": "WWW",
+      "year": 2027,
+      "officialUrl": "https://www2027.thewebconf.org",
+      "event": {
+        "start": "2027-05-10",
+        "end": "2027-05-14",
+        "location": "Dublin, Ireland",
+        "source": "https://www2027.thewebconf.org/research-track-papers/"
+      },
+      "tracks": [
+        {
+          "name": "Research Papers",
+          "abstractDeadline": "2026-10-18T23:59:00-12:00",
+          "fullDeadline": "2026-10-25T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=ACM.org/TheWebConf/2027",
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 CFP明确要求 ACM sigconf,anonymous,review 通用模板。"
+          },
+          "sources": [
+            "https://www2027.thewebconf.org/research-track-papers/"
+          ],
+          "note": null
+        },
+        {
+          "name": "Industry Papers",
+          "abstractDeadline": "2026-10-18T23:59:00-12:00",
+          "fullDeadline": "2026-10-25T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": null,
+          "template": null,
+          "sources": [
+            "https://www2027.thewebconf.org/important-dates/"
+          ],
+          "note": "日期已核验，专用投稿入口与模板待核验。"
+        },
+        {
+          "name": "Short Papers",
+          "abstractDeadline": "2026-11-09T23:59:00-12:00",
+          "fullDeadline": "2026-11-16T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": null,
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 research CFP规定 short paper 4页，含参考文献和附录。"
+          },
+          "sources": [
+            "https://www2027.thewebconf.org/important-dates/",
+            "https://www2027.thewebconf.org/research-track-papers/"
+          ],
+          "note": "专用投稿入口待核验。"
+        },
+        {
+          "name": "Demo Papers",
+          "abstractDeadline": null,
+          "fullDeadline": "2026-11-16T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=ACM.org/TheWebConf/2027/Demos",
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": null
+          },
+          "sources": [
+            "https://www2027.thewebconf.org/important-dates/",
+            "https://www2027.thewebconf.org/demos/"
+          ],
+          "note": null
+        }
+      ],
+      "acceptance": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": "本轮未取得可追溯的成对官方数量。"
+        },
+        {
+          "year": 2024,
+          "accepted": 405,
+          "submitted": 2008,
+          "percent": 20.17,
+          "scope": "Research Tracks / valid submissions",
+          "sources": [
+            "https://www2024.thewebconf.org/about/newsletters/"
+          ],
+          "note": null
+        },
+        {
+          "year": 2025,
+          "accepted": 409,
+          "submitted": 2062,
+          "percent": 19.84,
+          "scope": "Research Track / 送审有效论文（不含 desk reject）",
+          "sources": [
+            "https://yom-tov.info/blog/2025/04/30/insights-from-serving-as-one-of-thewebconference-2025-program-chairs/"
+          ],
+          "note": "来源为2025程序主席本人报告：2496份全文，434篇desk reject，2062篇送审。若以全部全文为分母，则409/2496=16.39%；此处采用主席报告的送审口径。"
+        }
+      ],
+      "bestPapers": {
+        "year": 2025,
+        "items": [
+          {
+            "title": "Behavioral Homophily in Social Media via Inverse Reinforcement Learning: A Reddit Case Study",
+            "url": "https://doi.org/10.1145/3696410.3714618",
+            "award": "Best Paper",
+            "source": "https://actu.epfl.ch/news/philipp-schneider-wins-2025-web-conference-best--3/"
+          }
+        ],
+        "source": "https://actu.epfl.ch/news/philipp-schneider-wins-2025-web-conference-best--3/",
+        "note": "由获奖作者所在机构 EPFL 的公告核验。"
+      },
+      "verifiedDate": "2026-10-28",
+      "notes": [
+        "各研究主题子Track详见 Research CFP；这里单独列可独立投稿的论文类型。"
+      ]
+    },
+    {
+      "acronym": "CHI",
+      "year": 2027,
+      "officialUrl": "https://chi2027.acm.org",
+      "event": {
+        "start": "2027-05-10",
+        "end": "2027-05-14",
+        "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+        "source": "https://chi2027.acm.org/attendees/visa-faq/"
+      },
+      "tracks": [
+        {
+          "name": "Papers",
+          "abstractDeadline": null,
+          "fullDeadline": "2026-09-10T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://new.precisionconference.com/",
+          "template": {
+            "url": "https://chi2027.acm.org/chi-publication-formats/",
+            "year": 2027,
+            "status": "current",
+            "note": "2027官方格式页；审稿用单栏 ACM manuscript,review,anonymous。"
+          },
+          "sources": [
+            "https://chi2027.acm.org/authors/papers/"
+          ],
+          "note": "官方明确没有单独摘要截止；12月3日是已进入修订流程的重投稿截止，不能当作新稿DDL。"
+        },
+        {
+          "name": "Posters",
+          "abstractDeadline": null,
+          "fullDeadline": "2027-01-21T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": null,
+          "template": null,
+          "sources": [
+            "https://chi2027.acm.org/"
+          ],
+          "note": "专用投稿入口与该Track模板尚未核验。"
+        },
+        {
+          "name": "Interactive Demos",
+          "abstractDeadline": null,
+          "fullDeadline": "2027-01-21T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": null,
+          "template": null,
+          "sources": [
+            "https://chi2027.acm.org/"
+          ],
+          "note": "专用投稿入口与该Track模板尚未核验。"
+        },
+        {
+          "name": "Panels",
+          "abstractDeadline": null,
+          "fullDeadline": "2026-11-19T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": null,
+          "template": null,
+          "sources": [
+            "https://chi2027.acm.org/"
+          ],
+          "note": "专用投稿入口与该Track模板尚未核验。"
+        }
+      ],
+      "acceptance": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": "未核验最终成对数量。"
+        },
+        {
+          "year": 2024,
+          "accepted": 1060,
+          "submitted": 4028,
+          "percent": 26.32,
+          "scope": "Papers Track / completed submissions",
+          "sources": [
+            "https://chi2024.acm.org/2023/11/17/chi-2024-papers-track-post-round-one-outcomes-report/",
+            "https://chi2024.acm.org/2024/01/29/chi-2024-papers-track-post-pc-outcomes-report/"
+          ],
+          "note": "使用同届R1报告完整投稿数4028及post-PC录用数1060计算26.32%；官方post-PC公布26.4%，其说明存在冲突回避导致的分析缺失。后续年度回顾出现4046，故口径不可直接混合。"
+        },
+        {
+          "year": 2025,
+          "accepted": 1249,
+          "submitted": 5014,
+          "percent": 24.91,
+          "scope": "Papers Track / conditional acceptance",
+          "sources": [
+            "https://chi2025.acm.org/chi-2025-papers-track-post-pc-outcomes-report/"
+          ],
+          "note": "PC会后有条件录用，非最终出版篇数。"
+        }
+      ],
+      "bestPapers": {
+        "year": 2025,
+        "items": [],
+        "source": "https://programs.sigchi.org/chi/2025/awards/",
+        "note": "官方公告确认50篇Best Paper；动态奖项页面未提取到逐篇标题，待补10篇。",
+        "evidence": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+      },
+      "verifiedDate": "2026-10-28",
+      "notes": []
+    },
+    {
+      "acronym": "KDD",
+      "year": 2027,
+      "officialUrl": "https://kdd2027.kdd.org",
+      "event": {
+        "start": "2027-08-01",
+        "end": "2027-08-05",
+        "location": "San Jose McEnery Convention Center, San Jose, California, USA",
+        "source": "https://kdd2027.kdd.org/"
+      },
+      "tracks": [
+        {
+          "name": "Research Track · Cycle 1",
+          "abstractDeadline": "2026-07-19T23:59:00-12:00",
+          "fullDeadline": "2026-07-26T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=KDD.org/2027/Research_Track_Cycle_1",
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 CFP明确采用 ACM 模板；不同Track的匿名要求不同。"
+          },
+          "sources": [
+            "https://kdd2027.kdd.org/research-track-call-for-papers/"
+          ],
+          "note": null
+        },
+        {
+          "name": "Applied Data Science · Cycle 1",
+          "abstractDeadline": "2026-07-19T23:59:00-12:00",
+          "fullDeadline": "2026-07-26T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=KDD.org/2027/Applied_Data_Science_Track_Cycle_1",
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 CFP明确采用 ACM 模板；不同Track的匿名要求不同。"
+          },
+          "sources": [
+            "https://kdd2027.kdd.org/applied-data-science-ads-track-call-for-papers/"
+          ],
+          "note": null
+        },
+        {
+          "name": "Datasets & Benchmarks · Cycle 1",
+          "abstractDeadline": "2026-07-19T23:59:00-12:00",
+          "fullDeadline": "2026-07-26T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=KDD.org/2027/Datasets_and_Benchmarks_Track_Cycle_1",
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 CFP明确采用 ACM 模板；不同Track的匿名要求不同。"
+          },
+          "sources": [
+            "https://kdd2027.kdd.org/datasets-and-benchmarks-track-call-for-papers/"
+          ],
+          "note": null
+        },
+        {
+          "name": "AI for Sciences · Cycle 1",
+          "abstractDeadline": "2026-07-19T23:59:00-12:00",
+          "fullDeadline": "2026-07-26T23:59:00-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://openreview.net/group?id=KDD.org/2027/AI4Sciences_Track_Cycle_1",
+          "template": {
+            "url": "https://www.acm.org/publications/proceedings-template",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 CFP明确采用 ACM 模板；不同Track的匿名要求不同。"
+          },
+          "sources": [
+            "https://kdd2027.kdd.org/ai4sciences-track-call-for-papers/"
+          ],
+          "note": null
+        }
+      ],
+      "acceptance": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        },
+        {
+          "year": 2024,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        },
+        {
+          "year": 2025,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        }
+      ],
+      "bestPapers": {
+        "year": 2025,
+        "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
+        "items": [
+          {
+            "title": "Improving Group Robustness on Spurious Correlation via Evidential Alignment",
+            "url": "https://arxiv.org/abs/2506.11347",
+            "award": "Research Track · Best Paper",
+            "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+          },
+          {
+            "title": "Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity",
+            "url": "https://arxiv.org/abs/2505.14310",
+            "award": "Research Track · Best Student Paper",
+            "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+          },
+          {
+            "title": "Evaluating Decision Rules Across Many Weak Experiments",
+            "url": "https://arxiv.org/abs/2502.08763",
+            "award": "Applied Data Science · Best Paper",
+            "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+          },
+          {
+            "title": "When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark",
+            "url": "https://doi.org/10.1145/3711896.3737421",
+            "award": "Datasets & Benchmarks · Best Paper",
+            "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+          }
+        ]
+      },
+      "verifiedDate": "2026-10-28",
+      "notes": [
+        "官网公布两个投稿周期；本轮仅核验到Cycle 1精确截止。Cycle 2未填日期，不以往年推算。"
+      ]
+    },
+    {
+      "acronym": "ICSE",
+      "year": 2027,
+      "officialUrl": "https://conf.researchr.org/home/icse-2027/",
+      "event": {
+        "start": "2027-04-25",
+        "end": "2027-05-01",
+        "location": "Dublin, Ireland",
+        "source": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track"
+      },
+      "tracks": [
+        {
+          "name": "Research Track",
+          "abstractDeadline": "2026-06-23T23:59:59-12:00",
+          "fullDeadline": "2026-06-30T23:59:59-12:00",
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": "https://icse2027.hotcrp.com/",
+          "template": {
+            "url": "https://www.ieee.org/conferences/publishing/templates.html",
+            "year": 2027,
+            "status": "current",
+            "note": "2027 Research CFP指向 IEEE会议模板。"
+          },
+          "sources": [
+            "https://conf.researchr.org/track/icse-2027/icse-2027-research-track"
+          ],
+          "note": "2027仅一个投稿周期；11月17日为已获修订决定论文的revision due，不能作为新稿投稿。"
+        }
+      ],
+      "acceptance": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        },
+        {
+          "year": 2024,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        },
+        {
+          "year": 2025,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        }
+      ],
+      "bestPapers": {
+        "year": 2025,
+        "items": [],
+        "source": null,
+        "note": "尚未核验具体获奖论文"
+      },
+      "verifiedDate": "2026-10-28",
+      "notes": [
+        "其他已存在Tracks包括SEET、SEIP、SEIS、NIER、Journal-first、Tool Demonstration等；逐Track数据待补。",
+        "共址会议不等于ICSE主会Track，不混用录用统计或CCF分级。"
+      ]
+    },
+    {
+      "acronym": "ICCV",
+      "year": 2027,
+      "officialUrl": "https://iccv.thecvf.com/Conferences/2027",
+      "event": {
+        "start": null,
+        "end": null,
+        "location": "Hong Kong Convention and Exhibition Centre, Hong Kong",
+        "source": "https://iccv.thecvf.com/Conferences/2027"
+      },
+      "tracks": [
+        {
+          "name": "Main Conference / Research",
+          "abstractDeadline": null,
+          "fullDeadline": null,
+          "timezone": "AoE (UTC−12)",
+          "submissionUrl": null,
+          "template": {
+            "url": "https://media.eventhosts.cc/Conferences/ICCV2025/ICCV2025-Author-Kit-Feb.zip",
+            "year": 2025,
+            "status": "previous-edition",
+            "note": "尚未核验2027模板；ICCV为双年会议，沿用最近一届2025的Author Kit，仅供准备参考。"
+          },
+          "sources": [
+            "https://iccv.thecvf.com/Conferences/2027",
+            "https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines"
+          ],
+          "note": "2027 CFP与精确截止尚未公布于本轮所读页面。",
+          "status": "pending-current-edition"
+        }
+      ],
+      "acceptance": [
+        {
+          "year": 2023,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        },
+        {
+          "year": 2024,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        },
+        {
+          "year": 2025,
+          "accepted": null,
+          "submitted": null,
+          "percent": null,
+          "scope": "Main / Research Track",
+          "sources": [],
+          "note": null
+        }
+      ],
+      "bestPapers": {
+        "year": 2025,
+        "items": [],
+        "source": null,
+        "note": "尚未核验具体获奖论文"
+      },
+      "verifiedDate": "2026-10-28",
+      "notes": [
+        "官网标题显示2027-10-03至10-07，venue正文显示10-02至10-08，未明确分别对应何种日程，保留日期冲突待核验。",
+        "2024没有ICCV常规届次；近三日历年与近三届不可混淆。"
+      ]
+    }
+  ]
+}

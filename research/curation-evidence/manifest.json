@@ -1,0 +1,66 @@
+[
+  {
+    "source": "https://iclr.cc/virtual/2025/events/oral",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 1035137,
+    "rawSha256": "f871f7b156465194f49d6a907a99ce875cfdb41801f51d5067f471b403586ae6",
+    "retainedEvidence": "iclr-orals.json"
+  },
+  {
+    "source": "https://icml.cc/virtual/2025/events/oral",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 595926,
+    "rawSha256": "bf46f1fe23422f91d784b2ee7f57b52621eb1f6c3a59304fa13f719dab9f9026",
+    "retainedEvidence": "icml-orals.json"
+  },
+  {
+    "source": "https://neurips.cc/virtual/2025/events/oral",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 466726,
+    "rawSha256": "6e7b627cf8e60fdda34350b4f5b4285ffaca9cc797c4089fc39106652f248ae4",
+    "retainedEvidence": "neurips-orals.json"
+  },
+  {
+    "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 478620,
+    "rawSha256": "dd214e59f3924155abc7beacf8b9d9a30012b5607ac8ef87d145f9522eb1fbc9",
+    "retainedEvidence": "cvpr-orals.json"
+  },
+  {
+    "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 330238,
+    "rawSha256": "4e2dc1b325d5173006266a16d7959aff382f22eb133c94dd19ea376ab3d0dee3",
+    "retainedEvidence": "iccv-orals.json"
+  },
+  {
+    "source": "https://files.sigchi.org/conference/program/CHI/2025",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 7122826,
+    "rawSha256": "911180af5d918793d93a653d4b3d991a4d87d522c1a321ef321024ab781342b4",
+    "retainedEvidence": "chi-best-papers.json"
+  },
+  {
+    "source": "https://aclanthology.org/events/acl-2025/",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 12225011,
+    "rawSha256": "75ef921aeff44cad63c005650ccd130f90e2804011e9ef01f4d8aa637ae5eb83",
+    "retainedEvidence": "acl-selected-anthology-links.json"
+  },
+  {
+    "source": "https://aclanthology.org/events/emnlp-2025/",
+    "fetchedAt": "2026-10-28",
+    "httpStatus": 200,
+    "rawBytes": 11969656,
+    "rawSha256": "2c547fa51a91a84b1a1f799d6c6eda2b5f2ad2a0a10bbcb80e6b2420de55cf84",
+    "retainedEvidence": "emnlp-selected-anthology-links.json"
+  }
+]

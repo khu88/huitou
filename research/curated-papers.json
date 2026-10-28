@@ -1,0 +1,954 @@
+{
+  "asOf": "2026-10-28",
+  "year": 2025,
+  "policy": "每会最多 10 篇：优先保留已核验的 Best Paper / Outstanding Paper 主奖；主奖超过 10 篇时明确标注官方总数与精选子集。保留准确的学生奖、专项奖、Honorable Mention 名称，不将其冒充主奖。名额不足时从官方 Oral / Spotlight 记录中按主题多样性补充；没有确切展示证据则保留少于 10 篇。topic 为依据论文标题/摘要作出的编辑归纳，非官方领域分类，不保证覆盖所有方向，也不以领域去重为由删除已核验的主奖。Oral/Spotlight 表示官方展示形式，不等同于获奖或质量排名。",
+  "conferences": [
+    {
+      "acronym": "ICSE",
+      "selectionNote": "2025 具体获奖论文尚未完成逐篇核验，暂不猜测论文或展示类型。",
+      "items": [],
+      "sources": []
+    },
+    {
+      "acronym": "SIGKDD",
+      "selectionNote": "保留已核验的研究、应用、数据集与基准主奖和学生奖 4 篇。尚未取得可核验的补充 Oral/Spotlight 标签，暂不凑足 10 篇。",
+      "items": [
+        {
+          "title": "Improving Group Robustness on Spurious Correlation via Evidential Alignment",
+          "url": "https://arxiv.org/abs/2506.11347",
+          "award": "Research Track · Best Paper",
+          "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
+          "presentationType": "best",
+          "topic": "鲁棒性与伪相关"
+        },
+        {
+          "title": "Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity",
+          "url": "https://arxiv.org/abs/2505.14310",
+          "award": "Research Track · Best Student Paper",
+          "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
+          "presentationType": "best",
+          "topic": "推荐系统与因果推断"
+        },
+        {
+          "title": "Evaluating Decision Rules Across Many Weak Experiments",
+          "url": "https://arxiv.org/abs/2502.08763",
+          "award": "Applied Data Science · Best Paper",
+          "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
+          "presentationType": "best",
+          "topic": "在线实验与决策"
+        },
+        {
+          "title": "When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark",
+          "url": "https://doi.org/10.1145/3711896.3737421",
+          "award": "Datasets & Benchmarks · Best Paper",
+          "source": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
+          "presentationType": "best",
+          "topic": "图学习与数据集"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://www.kdd.org/awards/view/2025-sigkdd-best-paper-award-winners"
+        }
+      ]
+    },
+    {
+      "acronym": "AAAI",
+      "selectionNote": "保留已核验的 3 篇 Outstanding Paper（该会议主奖名称）。尚未取得可核验的补充 Oral/Spotlight 标签，暂不凑足 10 篇。",
+      "items": [
+        {
+          "title": "Every Bit Helps: Achieving the Optimal Distortion with a Few Queries",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33507",
+          "award": "Outstanding Paper",
+          "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "presentationType": "best",
+          "topic": "社会选择与查询复杂度"
+        },
+        {
+          "title": "Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33905",
+          "award": "Outstanding Paper",
+          "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "presentationType": "best",
+          "topic": "神经符号推理"
+        },
+        {
+          "title": "Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34845",
+          "award": "Outstanding Paper",
+          "source": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "presentationType": "best",
+          "topic": "部分可观测决策"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+        }
+      ]
+    },
+    {
+      "acronym": "NeurIPS",
+      "selectionNote": "保留官方 4 篇 Best Paper，另从官方 Oral 列表选择 6 个互补主题；共 10 篇。",
+      "items": [
+        {
+          "title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+          "url": "https://openreview.net/forum?id=saDOrrnNTz",
+          "award": "Best Paper · Datasets & Benchmarks",
+          "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+          "presentationType": "best",
+          "topic": "语言模型多样性与评测"
+        },
+        {
+          "title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+          "url": "https://openreview.net/forum?id=1b7whO4SfY",
+          "award": "Best Paper",
+          "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+          "presentationType": "best",
+          "topic": "注意力机制与效率"
+        },
+        {
+          "title": "1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities",
+          "url": "https://openreview.net/forum?id=s0JVsx3bx1",
+          "award": "Best Paper",
+          "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+          "presentationType": "best",
+          "topic": "自监督强化学习"
+        },
+        {
+          "title": "Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training",
+          "url": "https://openreview.net/forum?id=BSZqpqgqM0",
+          "award": "Best Paper",
+          "source": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+          "presentationType": "best",
+          "topic": "扩散模型理论"
+        },
+        {
+          "title": "RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation",
+          "url": "https://neurips.cc/virtual/2025/oral/115563",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "图基础模型与检索增强",
+          "source": "https://neurips.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Spectral Perturbation Bounds for Low-Rank Approximation with Applications to Privacy",
+          "url": "https://neurips.cc/virtual/2025/oral/119076",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "隐私与低秩近似",
+          "source": "https://neurips.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing",
+          "url": "https://neurips.cc/virtual/2025/oral/115002",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "音视频空间理解",
+          "source": "https://neurips.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "PhySense: Sensor Placement Optimization for Accurate Physics Sensing",
+          "url": "https://neurips.cc/virtual/2025/oral/115066",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "物理感知与传感器设计",
+          "source": "https://neurips.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model",
+          "url": "https://neurips.cc/virtual/2025/oral/117112",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "计算神经科学",
+          "source": "https://neurips.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "In Search of Adam’s Secret Sauce",
+          "url": "https://neurips.cc/virtual/2025/oral/119298",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "优化算法",
+          "source": "https://neurips.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+        },
+        {
+          "label": "2025 官方 Oral program",
+          "url": "https://neurips.cc/virtual/2025/events/oral"
+        }
+      ]
+    },
+    {
+      "acronym": "ACL",
+      "selectionNote": "保留全部 4 篇主类别 Best Paper，另选 6 篇官方社会影响、资源和主题奖论文；总计 10 篇。其他专项奖及 Outstanding 未完整收录。",
+      "items": [
+        {
+          "title": "A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive",
+          "url": "https://aclanthology.org/2025.acl-long.1454/",
+          "award": "Best Paper",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "presentationType": "best",
+          "topic": "语言模型采样理论"
+        },
+        {
+          "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+          "url": "https://aclanthology.org/2025.acl-long.341/",
+          "award": "Best Paper",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "presentationType": "best",
+          "topic": "公平性评测"
+        },
+        {
+          "title": "Language Models Resist Alignment: Evidence From Data Compression",
+          "url": "https://aclanthology.org/2025.acl-long.1141/",
+          "award": "Best Paper",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "presentationType": "best",
+          "topic": "对齐与数据压缩"
+        },
+        {
+          "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+          "url": "https://aclanthology.org/2025.acl-long.1126/",
+          "award": "Best Paper",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "presentationType": "best",
+          "topic": "稀疏注意力"
+        },
+        {
+          "title": "AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset",
+          "url": "https://aclanthology.org/2025.acl-long.96/",
+          "award": "Best Social Impact Paper",
+          "presentationType": "best",
+          "topic": "医学问答与非洲语境",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "The AI Gap: How Socioeconomic Status Affects Language Technology Interactions",
+          "url": "https://aclanthology.org/2025.acl-long.914/",
+          "award": "Best Social Impact Paper",
+          "presentationType": "best",
+          "topic": "社会经济差异与语言技术",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral",
+          "url": "https://aclanthology.org/2025.acl-long.294/",
+          "award": "Best Resource Paper",
+          "presentationType": "best",
+          "topic": "多语言道德推理",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages",
+          "url": "https://aclanthology.org/2025.acl-long.436/",
+          "award": "Best Resource Paper",
+          "presentationType": "best",
+          "topic": "跨语言情感识别",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs",
+          "url": "https://aclanthology.org/2025.acl-long.1579/",
+          "award": "Best Resource Paper",
+          "presentationType": "best",
+          "topic": "阿拉伯语与文化多样性",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "MaCP: Minimal yet Mighty Adaptation via Hierarchical Cosine Projection",
+          "url": "https://aclanthology.org/2025.acl-long.1006/",
+          "award": "Best Theme Paper",
+          "presentationType": "best",
+          "topic": "参数高效适配",
+          "source": "https://2025.aclweb.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://2025.aclweb.org/program/awards/"
+        },
+        {
+          "label": "ACL Anthology 官方论文集",
+          "url": "https://aclanthology.org/events/acl-2025/"
+        }
+      ]
+    },
+    {
+      "acronym": "CVPR",
+      "selectionNote": "保留 Best Paper 和 Best Student Paper，补充 8 篇官方 Oral；其中 Molmo 同时获 Honorable Mention。共 10 篇。",
+      "items": [
+        {
+          "title": "VGGT: Visual Geometry Grounded Transformer",
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.html",
+          "award": "Best Paper",
+          "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press",
+          "presentationType": "best",
+          "topic": "三维几何基础模型"
+        },
+        {
+          "title": "Neural Inverse Rendering from Propagating Light",
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Malik_Neural_Inverse_Rendering_from_Propagating_Light_CVPR_2025_paper.html",
+          "award": "Best Student Paper",
+          "source": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press",
+          "presentationType": "best",
+          "topic": "计算成像与逆渲染"
+        },
+        {
+          "title": "SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35317",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "遥感与开放词表分割",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35336",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "机器人空间理解",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35356",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "病理图像与细胞生成",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Motion Prompting: Controlling Video Generation with Motion Trajectories",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35272",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "可控视频生成",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35307",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "交通与自动驾驶",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35281",
+          "award": "Best Paper Honorable Mention · Oral",
+          "presentationType": "oral",
+          "topic": "视觉语言模型与开放数据",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。",
+          "awardSource": "https://www.thecvf.com/?page_id=413"
+        },
+        {
+          "title": "UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35353",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "自动并行与训练效率",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector",
+          "url": "https://cvpr.thecvf.com/virtual/2025/oral/35282",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "人脸伪造检测",
+          "source": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press"
+        },
+        {
+          "label": "2025 官方 Oral program",
+          "url": "https://cvpr.thecvf.com/virtual/2025/events/oral"
+        },
+        {
+          "label": "CVF 官方奖项档案",
+          "url": "https://www.thecvf.com/?page_id=413"
+        }
+      ]
+    },
+    {
+      "acronym": "ICCV",
+      "selectionNote": "保留 Marr Prize（Best Paper）和 Best Student Paper，另选 8 篇官方 Oral，其中 2 篇同时获 Honorable Mention；共 10 篇。",
+      "items": [
+        {
+          "title": "Generating Physically Stable and Buildable Brick Structures from Text",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2912",
+          "award": "Best Paper · Marr Prize",
+          "presentationType": "best",
+          "topic": "文本到三维结构生成",
+          "source": "https://www.thecvf.com/?page_id=413",
+          "selectionReason": "优先保留官方主奖 Best Paper。"
+        },
+        {
+          "title": "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2925",
+          "award": "Best Student Paper",
+          "presentationType": "best",
+          "topic": "生成图像编辑",
+          "source": "https://www.thecvf.com/?page_id=413",
+          "selectionReason": "优先保留官方 Best Student Paper。"
+        },
+        {
+          "title": "Spatially-Varying Autofocus",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2935",
+          "award": "Best Paper Honorable Mention · Oral",
+          "presentationType": "oral",
+          "topic": "计算成像与自动对焦",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。",
+          "awardSource": "https://www.thecvf.com/?page_id=413"
+        },
+        {
+          "title": "RayZer: A Self-supervised Large View Synthesis Model",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2889",
+          "award": "Best Paper Honorable Mention · Oral",
+          "presentationType": "oral",
+          "topic": "自监督新视角合成",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。",
+          "awardSource": "https://www.thecvf.com/?page_id=413"
+        },
+        {
+          "title": "Scaling Laws for Native Multimodal Models",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2880",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "原生多模态模型",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2900",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "遥感与地球观测",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "GMMamba: Group Masking Mamba for Whole Slide Image Classification",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2904",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "病理全切片分类",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2928",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "机器人模仿学习",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2905",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "身份隐私与深度伪造防护",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Soft Local Completeness: Rethinking Completeness in XAI",
+          "url": "https://iccv.thecvf.com/virtual/2025/oral/2932",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "可解释人工智能",
+          "source": "https://iccv.thecvf.com/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "CVF 官方 2025 奖项档案",
+          "url": "https://www.thecvf.com/?page_id=413"
+        },
+        {
+          "label": "2025 官方 Oral program",
+          "url": "https://iccv.thecvf.com/virtual/2025/events/oral"
+        }
+      ]
+    },
+    {
+      "acronym": "ICML",
+      "selectionNote": "保留全部 6 篇 Outstanding Paper（该会议主奖名称），补充 4 篇官方 Oral；共 10 篇。",
+      "items": [
+        {
+          "title": "The Value of Prediction in Identifying the Worst-Off",
+          "url": "https://icml.cc/virtual/2025/oral/47269",
+          "award": "Outstanding Paper",
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "presentationType": "best",
+          "topic": "预测与社会福利"
+        },
+        {
+          "title": "Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction",
+          "url": "https://icml.cc/virtual/2025/oral/47241",
+          "award": "Outstanding Paper",
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "presentationType": "best",
+          "topic": "自回归生成与创意"
+        },
+        {
+          "title": "Conformal Prediction as Bayesian Quadrature",
+          "url": "https://icml.cc/virtual/2025/oral/47227",
+          "award": "Outstanding Paper",
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "presentationType": "best",
+          "topic": "共形预测与不确定性"
+        },
+        {
+          "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+          "url": "https://icml.cc/virtual/2025/poster/45990",
+          "award": "Outstanding Paper",
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "presentationType": "best",
+          "topic": "离散扩散模型"
+        },
+        {
+          "title": "CollabLLM: From Passive Responders to Active Collaborators",
+          "url": "https://icml.cc/virtual/2025/oral/47250",
+          "award": "Outstanding Paper",
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "presentationType": "best",
+          "topic": "协作式语言模型"
+        },
+        {
+          "title": "Score Matching with Missing Data",
+          "url": "https://icml.cc/virtual/2025/oral/47194",
+          "award": "Outstanding Paper",
+          "source": "https://icml.cc/virtual/2025/awards_detail",
+          "presentationType": "best",
+          "topic": "缺失数据与分数匹配"
+        },
+        {
+          "title": "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking",
+          "url": "https://icml.cc/virtual/2025/oral/47258",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "数学推理",
+          "source": "https://icml.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "DeFoG: Discrete Flow Matching for Graph Generation",
+          "url": "https://icml.cc/virtual/2025/oral/47238",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "图生成",
+          "source": "https://icml.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning",
+          "url": "https://icml.cc/virtual/2025/oral/47193",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "深度强化学习",
+          "source": "https://icml.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction",
+          "url": "https://icml.cc/virtual/2025/oral/47222",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "分子势能与物理预测",
+          "source": "https://icml.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://icml.cc/virtual/2025/awards_detail"
+        },
+        {
+          "label": "2025 官方 Oral program",
+          "url": "https://icml.cc/virtual/2025/events/oral"
+        }
+      ]
+    },
+    {
+      "acronym": "ICLR",
+      "selectionNote": "保留全部 3 篇 Outstanding Paper（该会议主奖名称），补充 7 篇官方 Oral；其中 SAM 2 同时获 Honorable Mention。共 10 篇。",
+      "items": [
+        {
+          "title": "Safety Alignment Should be Made More Than Just a Few Tokens Deep",
+          "url": "https://openreview.net/forum?id=6Mxhg9PtDE",
+          "award": "Outstanding Paper",
+          "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/",
+          "presentationType": "best",
+          "topic": "语言模型安全对齐"
+        },
+        {
+          "title": "Learning Dynamics of LLM Finetuning",
+          "url": "https://openreview.net/forum?id=tPNHOoZFl9",
+          "award": "Outstanding Paper",
+          "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/",
+          "presentationType": "best",
+          "topic": "语言模型微调动力学"
+        },
+        {
+          "title": "AlphaEdit: Null-Space Constrained Model Editing for Language Models",
+          "url": "https://openreview.net/forum?id=HvSytvg3Jh",
+          "award": "Outstanding Paper",
+          "source": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/",
+          "presentationType": "best",
+          "topic": "模型知识编辑"
+        },
+        {
+          "title": "miniCTX: Neural Theorem Proving with (Long-)Contexts",
+          "url": "https://iclr.cc/virtual/2025/oral/31870",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "数学与定理证明",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "ProtComposer: Compositional Protein Structure Generation with 3D Ellipsoids",
+          "url": "https://iclr.cc/virtual/2025/oral/31933",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "生物分子生成",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "SAM 2: Segment Anything in Images and Videos",
+          "url": "https://iclr.cc/virtual/2025/oral/31878",
+          "award": "Honorable Mention · Oral",
+          "presentationType": "oral",
+          "topic": "图像与视频分割",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。",
+          "awardSource": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+        },
+        {
+          "title": "Towards a Complete Logical Framework for GNN Expressiveness",
+          "url": "https://iclr.cc/virtual/2025/oral/31767",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "图神经网络表达能力",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Flat Reward in Policy Parameter Space Implies Robust Reinforcement Learning",
+          "url": "https://iclr.cc/virtual/2025/oral/31923",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "强化学习鲁棒性",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Simplifying, Stabilizing and Scaling Continuous-time Consistency Models",
+          "url": "https://iclr.cc/virtual/2025/oral/31868",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "一致性生成模型",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        },
+        {
+          "title": "Scaling Laws for Precision",
+          "url": "https://iclr.cc/virtual/2025/oral/31737",
+          "award": "Oral",
+          "presentationType": "oral",
+          "topic": "模型精度与计算效率",
+          "source": "https://iclr.cc/virtual/2025/events/oral",
+          "selectionReason": "由官方 Oral 列表补充，以扩展研究主题覆盖；主题标签为编辑归纳。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/"
+        },
+        {
+          "label": "2025 官方 Oral program",
+          "url": "https://iclr.cc/virtual/2025/events/oral"
+        }
+      ]
+    },
+    {
+      "acronym": "EMNLP",
+      "selectionNote": "保留主奖 Best Paper、全部 7 篇 Outstanding，以及 Best Special Theme、Best Resource 各 1 篇；共 10 篇。",
+      "items": [
+        {
+          "title": "Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index",
+          "url": "https://aclanthology.org/2025.emnlp-main.1268/",
+          "award": "Best Paper",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "presentationType": "best",
+          "topic": "检索与大规模语料索引"
+        },
+        {
+          "title": "LingGym: How Far Are LLMs from Thinking Like Field Linguists?",
+          "url": "https://aclanthology.org/2025.emnlp-main.69/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "田野语言学推理",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?",
+          "url": "https://aclanthology.org/2025.emnlp-main.154/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "价值对齐与行为一致性",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement",
+          "url": "https://aclanthology.org/2025.emnlp-main.398/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "篇章场景图解析",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Generative or Discriminative? Revisiting Text Classification in the Era of Transformers",
+          "url": "https://aclanthology.org/2025.emnlp-main.486/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "文本分类",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps",
+          "url": "https://aclanthology.org/2025.emnlp-main.504/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "推理链忠实性",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning",
+          "url": "https://aclanthology.org/2025.emnlp-main.882/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "个性化偏好学习",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Causal Interventions Reveal Shared Structure Across English Filler–Gap Constructions",
+          "url": "https://aclanthology.org/2025.emnlp-main.1271/",
+          "award": "Outstanding Paper",
+          "presentationType": "best",
+          "topic": "因果分析与句法结构",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "InterIDEAS: Philosophical Intertextuality via LLMs",
+          "url": "https://aclanthology.org/2025.emnlp-main.1180/",
+          "award": "Best Special Theme Paper",
+          "presentationType": "best",
+          "topic": "哲学文本互文性",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        },
+        {
+          "title": "Autoformalization in the Wild: Assessing LLMs on Real-World Mathematical Definitions",
+          "url": "https://aclanthology.org/2025.emnlp-main.90/",
+          "award": "Best Resource Paper",
+          "presentationType": "best",
+          "topic": "数学自动形式化",
+          "source": "https://2025.emnlp.org/program/awards/",
+          "selectionReason": "官方获奖论文；优先奖项，同时补充不同研究主题。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 官方奖项",
+          "url": "https://2025.emnlp.org/program/awards/"
+        },
+        {
+          "label": "ACL Anthology 官方论文集",
+          "url": "https://aclanthology.org/events/emnlp-2025/"
+        }
+      ]
+    },
+    {
+      "acronym": "CHI",
+      "selectionNote": "官方共 50 篇 Best Paper，按主题多样性精选其中 10 篇；这是获奖子集，不是完整获奖名单或官方排名。",
+      "items": [
+        {
+          "title": "Permission Rationales in the Web Ecosystem: An Exploration of Rationale Text and Design Patterns",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713547",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "Web 权限与隐私",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/188217",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713631",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "辅助技术与无障碍",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/189502",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "Enabling Recycling of Multi-Material 3D Printed Objects through Computational Design and Disassembly by Dissolution",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714080",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "可持续制造与回收",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/188414",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "Lost in Magnitudes: Exploring Visualization Designs for Large Value Ranges",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713487",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "信息可视化",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/188628",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713535",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "健康与术后生活质量",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/189229",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "AMUSE: Human-AI Collaborative Songwriting with Multimodal Inspirations",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713818",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "多模态创作与音乐",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/188559",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "“It’s Like Being On Stage”: Conveying Dancers’ Expressiveness Through A Haptic-Installed Contemporary Dance Performance",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713321",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "触觉交互与舞蹈",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/189110",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "Traversing Dual Realities: Investigating Techniques for Transitioning 3D Objects between Desktop and Augmented Reality Environments",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713949",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "增强现实与跨设备交互",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/188973",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "Code Shaping: Iterative Code Editing with Free-form AI-Interpreted Sketching",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713822",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "人机协作编程",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/189580",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        },
+        {
+          "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713697",
+          "award": "Best Paper",
+          "presentationType": "best",
+          "topic": "生成内容与人类记忆",
+          "source": "https://programs.sigchi.org/chi/2025/program/content/189485",
+          "selectionReason": "从官方 50 篇 Best Paper 中按研究主题多样性选取；不代表官方排序。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "CHI 官方奖项公告",
+          "url": "https://chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/"
+        },
+        {
+          "label": "SIGCHI 官方奖项列表",
+          "url": "https://programs.sigchi.org/chi/2025/awards/"
+        },
+        {
+          "label": "SIGCHI 官方公开 program 数据",
+          "url": "https://files.sigchi.org/conference/program/CHI/2025"
+        }
+      ],
+      "totalOfficialBestPapers": 50
+    },
+    {
+      "acronym": "WWW",
+      "selectionNote": "目前核验 1 篇主奖 Best Paper；主办方旧站与展示标签尚未可靠取得，未用普通录用论文冒充 Oral/Spotlight。获奖证据来自作者所在 EPFL 官方新闻。",
+      "items": [
+        {
+          "title": "Behavioral Homophily in Social Media via Inverse Reinforcement Learning: A Reddit Case Study",
+          "url": "https://doi.org/10.1145/3696410.3714618",
+          "award": "Best Paper",
+          "source": "https://actu.epfl.ch/news/philipp-schneider-wins-2025-web-conference-best--3/",
+          "presentationType": "best",
+          "topic": "社交网络与行为建模"
+        }
+      ],
+      "sources": [
+        {
+          "label": "EPFL 官方获奖报道（作者机构）",
+          "url": "https://actu.epfl.ch/news/philipp-schneider-wins-2025-web-conference-best--3/"
+        }
+      ]
+    }
+  ]
+}

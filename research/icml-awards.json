@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Value of Prediction in Identifying the Worst-Off",
+    "url": "https://icml.cc/virtual/2025/oral/47269",
+    "award": "Outstanding Paper",
+    "year": 2025,
+    "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+  },
+  {
+    "title": "Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction",
+    "url": "https://icml.cc/virtual/2025/oral/47241",
+    "award": "Outstanding Paper",
+    "year": 2025,
+    "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+  },
+  {
+    "title": "Conformal Prediction as Bayesian Quadrature",
+    "url": "https://icml.cc/virtual/2025/oral/47227",
+    "award": "Outstanding Paper",
+    "year": 2025,
+    "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+  },
+  {
+    "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+    "url": "https://icml.cc/virtual/2025/poster/45990",
+    "award": "Outstanding Paper",
+    "year": 2025,
+    "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+  },
+  {
+    "title": "CollabLLM: From Passive Responders to Active Collaborators",
+    "url": "https://icml.cc/virtual/2025/oral/47250",
+    "award": "Outstanding Paper",
+    "year": 2025,
+    "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+  },
+  {
+    "title": "Score Matching with Missing Data",
+    "url": "https://icml.cc/virtual/2025/oral/47194",
+    "award": "Outstanding Paper",
+    "year": 2025,
+    "sourceUrl": "https://icml.cc/virtual/2025/awards_detail"
+  }
+]

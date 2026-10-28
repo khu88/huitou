@@ -1,0 +1,350 @@
+[
+  [
+    "Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation",
+    "/virtual/2025/oral/115716"
+  ],
+  [
+    "Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think",
+    "/virtual/2025/oral/116345"
+  ],
+  [
+    "Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference",
+    "/virtual/2025/oral/118170"
+  ],
+  [
+    "Adjoint Schrödinger Bridge Sampler",
+    "/virtual/2025/oral/115787"
+  ],
+  [
+    "Optimal Mistake Bounds for Transductive Online Learning",
+    "/virtual/2025/oral/119099"
+  ],
+  [
+    "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+    "/virtual/2025/oral/121422"
+  ],
+  [
+    "Perception Encoder: The best visual embeddings are not at the output of the network",
+    "/virtual/2025/oral/118806"
+  ],
+  [
+    "Rethinking Joint Maximum Mean Discrepancy for Visual Domain Adaptation",
+    "/virtual/2025/oral/117477"
+  ],
+  [
+    "On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity",
+    "/virtual/2025/oral/116379"
+  ],
+  [
+    "High-Dimensional Calibration from Swap Regret",
+    "/virtual/2025/oral/117761"
+  ],
+  [
+    "Interactive Cross-modal Learning for Text-3D Scene Retrieval",
+    "/virtual/2025/oral/116803"
+  ],
+  [
+    "Why Diffusion Models Don’t Memorize:  The Role of Implicit Dynamical Regularization in Training",
+    "/virtual/2025/oral/119373"
+  ],
+  [
+    "Class-wise Balancing Data Replay for Federated Class-Incremental Learning",
+    "/virtual/2025/oral/117265"
+  ],
+  [
+    "Does Stochastic Gradient really succeed for bandits?",
+    "/virtual/2025/oral/116754"
+  ],
+  [
+    "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing",
+    "/virtual/2025/oral/115002"
+  ],
+  [
+    "A multiscale analysis of mean-field transformers in the moderate interaction regime",
+    "/virtual/2025/oral/117616"
+  ],
+  [
+    "Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing",
+    "/virtual/2025/oral/121634"
+  ],
+  [
+    "Agnostic Active Learning Is Always Better Than Passive Learning",
+    "/virtual/2025/oral/117512"
+  ],
+  [
+    "PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models",
+    "/virtual/2025/oral/119904"
+  ],
+  [
+    "PhySense: Sensor Placement Optimization for Accurate Physics Sensing",
+    "/virtual/2025/oral/115066"
+  ],
+  [
+    "The emergence of sparse attention: impact of data distribution and benefits of repetition",
+    "/virtual/2025/oral/116475"
+  ],
+  [
+    "Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks",
+    "/virtual/2025/oral/118768"
+  ],
+  [
+    "TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability",
+    "/virtual/2025/oral/117509"
+  ],
+  [
+    "Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks",
+    "/virtual/2025/oral/116055"
+  ],
+  [
+    "CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding",
+    "/virtual/2025/oral/121509"
+  ],
+  [
+    "Tighter CMI-Based Generalization Bounds via Stochastic Projection and Quantization",
+    "/virtual/2025/oral/117680"
+  ],
+  [
+    "OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata",
+    "/virtual/2025/oral/121612"
+  ],
+  [
+    "From Condensation to Rank Collapse: A Two-Stage Analysis of Transformer Training Dynamics",
+    "/virtual/2025/oral/116706"
+  ],
+  [
+    "OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model",
+    "/virtual/2025/oral/120304"
+  ],
+  [
+    "SAGE: A Unified Framework for Generalizable Object State Recognition with State-Action Graph Embedding",
+    "/virtual/2025/oral/116465"
+  ],
+  [
+    "Auto-Compressing Networks",
+    "/virtual/2025/oral/116934"
+  ],
+  [
+    "Identifiability of Deep Polynomial Neural Networks",
+    "/virtual/2025/oral/118427"
+  ],
+  [
+    "State Entropy Regularization for Robust Reinforcement Learning",
+    "/virtual/2025/oral/115740"
+  ],
+  [
+    "Position: If Innovation in AI systematically Violates Fundamental Rights, Is It Innovation at All?",
+    "/virtual/2025/oral/126305"
+  ],
+  [
+    "ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts",
+    "/virtual/2025/oral/117276"
+  ],
+  [
+    "Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables",
+    "/virtual/2025/oral/118251"
+  ],
+  [
+    "A Clean Slate for Offline Reinforcement Learning",
+    "/virtual/2025/oral/119623"
+  ],
+  [
+    "Depth-Bounds for Neural Networks via the Braid Arrangement",
+    "/virtual/2025/oral/117519"
+  ],
+  [
+    "More effort is needed to protect pedestrian privacy in the era of AI",
+    "/virtual/2025/oral/126301"
+  ],
+  [
+    "Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks",
+    "/virtual/2025/oral/119732"
+  ],
+  [
+    "Real-Time Hyper-Personalized Generative AI Should Be Regulated to Prevent the Rise of \"Digital Heroin\"",
+    "/virtual/2025/oral/126308"
+  ],
+  [
+    "Learning Linear Attention in Polynomial Time",
+    "/virtual/2025/oral/118143"
+  ],
+  [
+    "FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution",
+    "/virtual/2025/oral/117604"
+  ],
+  [
+    "ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression",
+    "/virtual/2025/oral/116595"
+  ],
+  [
+    "Breaking the Performance Ceiling in Reinforcement Learning requires Inference Strategies",
+    "/virtual/2025/oral/117976"
+  ],
+  [
+    "MaxSup: Overcoming Representation Collapse in Label Smoothing",
+    "/virtual/2025/oral/116897"
+  ],
+  [
+    "A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders",
+    "/virtual/2025/oral/118059"
+  ],
+  [
+    "Exploring Diffusion Transformer Designs via Grafting",
+    "/virtual/2025/oral/119280"
+  ],
+  [
+    "In Search of Adam’s Secret Sauce",
+    "/virtual/2025/oral/119298"
+  ],
+  [
+    "Analog In-memory Training on General Non-ideal Resistive Elements: The Impact of Response Functions",
+    "/virtual/2025/oral/117576"
+  ],
+  [
+    "Deep Compositional Phase Diffusion for Long Motion Sequence Generation",
+    "/virtual/2025/oral/116419"
+  ],
+  [
+    "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+    "/virtual/2025/oral/120217"
+  ],
+  [
+    "Advancing Expert Specialization for Better MoE",
+    "/virtual/2025/oral/116507"
+  ],
+  [
+    "Mean Flows for One-step Generative Modeling",
+    "/virtual/2025/oral/115488"
+  ],
+  [
+    "Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness",
+    "/virtual/2025/oral/115789"
+  ],
+  [
+    "Superposition Yields Robust Neural Scaling",
+    "/virtual/2025/oral/116347"
+  ],
+  [
+    "Learning to Learn with Contrastive Meta-Objective",
+    "/virtual/2025/oral/115718"
+  ],
+  [
+    "WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch",
+    "/virtual/2025/oral/121452"
+  ],
+  [
+    "EvoLM: In Search of Lost Training Dynamics for Language Model Reasoning",
+    "/virtual/2025/oral/119409"
+  ],
+  [
+    "Boosting Knowledge Utilization in Multimodal Large Language Models via Adaptive Logits Fusion and Attention Reallocation",
+    "/virtual/2025/oral/115856"
+  ],
+  [
+    "High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model",
+    "/virtual/2025/oral/117112"
+  ],
+  [
+    "InfinityStar: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation",
+    "/virtual/2025/oral/118709"
+  ],
+  [
+    "PlayerOne: Egocentric World Simulator",
+    "/virtual/2025/oral/118938"
+  ],
+  [
+    "HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models",
+    "/virtual/2025/oral/118373"
+  ],
+  [
+    "Large Language Diffusion Models",
+    "/virtual/2025/oral/118609"
+  ],
+  [
+    "QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training",
+    "/virtual/2025/oral/117310"
+  ],
+  [
+    "Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain",
+    "/virtual/2025/oral/116232"
+  ],
+  [
+    "BEDLAM2.0: Synthetic humans and cameras in motion",
+    "/virtual/2025/oral/121503"
+  ],
+  [
+    "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "/virtual/2025/oral/119945"
+  ],
+  [
+    "Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion",
+    "/virtual/2025/oral/118167"
+  ],
+  [
+    "NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI",
+    "/virtual/2025/oral/121771"
+  ],
+  [
+    "Memory Mosaics at scale",
+    "/virtual/2025/oral/118784"
+  ],
+  [
+    "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+    "/virtual/2025/oral/116902"
+  ],
+  [
+    "KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction",
+    "/virtual/2025/oral/118742"
+  ],
+  [
+    "A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning",
+    "/virtual/2025/oral/115686"
+  ],
+  [
+    "Generalized Linear Mode Connectivity for Transformers",
+    "/virtual/2025/oral/118595"
+  ],
+  [
+    "An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower Bounds",
+    "/virtual/2025/oral/117790"
+  ],
+  [
+    "On Linear Mode Connectivity of Mixture-of-Experts Architectures",
+    "/virtual/2025/oral/118036"
+  ],
+  [
+    "MokA: Multimodal Low-Rank Adaptation for MLLMs",
+    "/virtual/2025/oral/116048"
+  ],
+  [
+    "1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities",
+    "/virtual/2025/oral/115732"
+  ],
+  [
+    "RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation",
+    "/virtual/2025/oral/115563"
+  ],
+  [
+    "Spectral Perturbation Bounds for Low-Rank Approximation with Applications to Privacy",
+    "/virtual/2025/oral/119076"
+  ],
+  [
+    "Learning (Approximately) Equivariant Networks via Constrained Optimization",
+    "/virtual/2025/oral/118376"
+  ],
+  [
+    "Learning long range dependencies through time reversal symmetry breaking",
+    "/virtual/2025/oral/115363"
+  ],
+  [
+    "ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism",
+    "/virtual/2025/oral/117338"
+  ],
+  [
+    "Improved Regret Bounds for Gaussian Process Upper Confidence Bound in Bayesian Optimization",
+    "/virtual/2025/oral/116693"
+  ],
+  [
+    "Discovering Opinion Intervals from Conflicts in Signed Graphs",
+    "/virtual/2025/oral/115063"
+  ]
+]

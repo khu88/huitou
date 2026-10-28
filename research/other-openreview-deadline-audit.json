@@ -1,0 +1,125 @@
+{
+  "asOf": "2026-10-28",
+  "records": [
+    {
+      "acronym": "AAAI",
+      "url": "https://api2.openreview.net/groups?id=AAAI.org%2F2027%2FConference",
+      "announcedAbstractDeadline": "2026-07-21T23:59:00-12:00",
+      "announcedFullDeadline": "2026-07-28T23:59:00-12:00",
+      "groupDate": "Submission Start: Jun 30 2026 11:59AM UTC-0, Abstract Registration: Jul 22 2026 11:59AM UTC-0, Submission Deadline: Jul 29 2026 11:59AM UTC-0",
+      "groupEndDate": null,
+      "invitations": [
+        {
+          "id": "AAAI.org/2027/Conference/-/Submission",
+          "url": "https://api2.openreview.net/invitations?id=AAAI.org%2F2027%2FConference%2F-%2FSubmission",
+          "error": "HTTP Error 400: Bad Request"
+        },
+        {
+          "id": "AAAI.org/2027/Conference/-/Full_Submission",
+          "url": "https://api2.openreview.net/invitations?id=AAAI.org%2F2027%2FConference%2F-%2FFull_Submission",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "acronym": "EMNLP",
+      "url": "https://api2.openreview.net/groups?id=aclweb.org%2FACL%2FARR%2F2026%2FMay",
+      "announcedAbstractDeadline": null,
+      "announcedFullDeadline": "2026-05-25T23:59:00-12:00",
+      "groupDate": "Submission Start: May 12 2026 11:59AM UTC-0, Submission Deadline: May 26 2026 11:59AM UTC-0",
+      "groupEndDate": null,
+      "invitations": [
+        {
+          "id": "aclweb.org/ACL/ARR/2026/May/-/Submission",
+          "url": "https://api2.openreview.net/invitations?id=aclweb.org%2FACL%2FARR%2F2026%2FMay%2F-%2FSubmission",
+          "error": "HTTP Error 400: Bad Request"
+        }
+      ]
+    },
+    {
+      "acronym": "NeurIPS",
+      "url": "https://api2.openreview.net/groups?id=NeurIPS.cc%2F2026%2FConference",
+      "announcedAbstractDeadline": "2026-05-04T23:59:00-12:00",
+      "announcedFullDeadline": "2026-05-06T23:59:00-12:00",
+      "groupDate": "Submission Start: Apr 15 2026 12:00PM UTC-0, Abstract Registration: May 05 2026 11:59AM UTC-0, Submission Deadline: May 07 2026 11:59AM UTC-0",
+      "groupEndDate": null,
+      "invitations": [
+        {
+          "id": "NeurIPS.cc/2026/Conference/-/Submission",
+          "url": "https://api2.openreview.net/invitations?id=NeurIPS.cc%2F2026%2FConference%2F-%2FSubmission",
+          "error": "HTTP Error 400: Bad Request"
+        },
+        {
+          "id": "NeurIPS.cc/2026/Conference/-/Full_Submission",
+          "url": "https://api2.openreview.net/invitations?id=NeurIPS.cc%2F2026%2FConference%2F-%2FFull_Submission",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "acronym": "ICLR",
+      "url": "https://api2.openreview.net/groups?id=ICLR.cc%2F2027%2FConference",
+      "announcedAbstractDeadline": "2026-09-18T23:59:00-12:00",
+      "announcedFullDeadline": "2026-09-25T23:59:00-12:00",
+      "groupDate": "",
+      "groupEndDate": null,
+      "invitations": [
+        {
+          "id": "ICLR.cc/2027/Conference/-/Submission",
+          "url": "https://api2.openreview.net/invitations?id=ICLR.cc%2F2027%2FConference%2F-%2FSubmission",
+          "error": "HTTP Error 400: Bad Request"
+        },
+        {
+          "id": "ICLR.cc/2027/Conference/-/Full_Submission",
+          "url": "https://api2.openreview.net/invitations?id=ICLR.cc%2F2027%2FConference%2F-%2FFull_Submission",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "acronym": "CVPR",
+      "url": "https://api2.openreview.net/groups?id=thecvf.com%2FCVPR%2F2027%2FConference",
+      "announcedAbstractDeadline": "2026-11-10T23:59:00-12:00",
+      "announcedFullDeadline": "2026-11-16T23:59:00-12:00",
+      "groupDate": "",
+      "groupEndDate": null,
+      "invitations": [
+        {
+          "id": "thecvf.com/CVPR/2027/Conference/-/Submission",
+          "url": "https://api2.openreview.net/invitations?id=thecvf.com%2FCVPR%2F2027%2FConference%2F-%2FSubmission",
+          "cdate": 1793095140000,
+          "cdateISO": "2026-10-27T09:59:00+00:00",
+          "duedate": 1794398340000,
+          "duedateISO": "2026-11-11T11:59:00+00:00",
+          "expdate": 1794400140000,
+          "expdateISO": "2026-11-11T12:29:00+00:00"
+        },
+        {
+          "id": "thecvf.com/CVPR/2027/Conference/-/Full_Submission",
+          "url": "https://api2.openreview.net/invitations?id=thecvf.com%2FCVPR%2F2027%2FConference%2F-%2FFull_Submission",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "acronym": "KDD",
+      "url": "https://api2.openreview.net/groups?id=KDD.org%2F2027%2FResearch_Track_Cycle_1",
+      "announcedAbstractDeadline": "2026-07-19T23:59:00-12:00",
+      "announcedFullDeadline": "2026-07-26T23:59:00-12:00",
+      "groupDate": "Submission Start: Jun 19 2026 11:59AM UTC-0, Abstract Registration: Jul 20 2026 11:59AM UTC-0, Submission Deadline: Jul 27 2026 11:59AM UTC-0",
+      "groupEndDate": null,
+      "invitations": [
+        {
+          "id": "KDD.org/2027/Research_Track_Cycle_1/-/Submission",
+          "url": "https://api2.openreview.net/invitations?id=KDD.org%2F2027%2FResearch_Track_Cycle_1%2F-%2FSubmission",
+          "error": "HTTP Error 400: Bad Request"
+        },
+        {
+          "id": "KDD.org/2027/Research_Track_Cycle_1/-/Full_Submission",
+          "url": "https://api2.openreview.net/invitations?id=KDD.org%2F2027%2FResearch_Track_Cycle_1%2F-%2FFull_Submission",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    }
+  ]
+}

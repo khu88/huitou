@@ -1,0 +1,67 @@
+{
+  "iclr_awards": [
+    {
+      "title": "Safety Alignment Should be Made More Than Just a Few Tokens Deep.",
+      "url": "https://openreview.net/forum?id=6Mxhg9PtDE"
+    },
+    {
+      "title": "Learning Dynamics of LLM Finetuning.",
+      "url": "https://openreview.net/forum?id=tPNHOoZFl9"
+    },
+    {
+      "title": "AlphaEdit: Null-Space Constrained Model Editing for Language Models.",
+      "url": "https://openreview.net/forum?id=HvSytvg3Jh"
+    },
+    {
+      "title": "Data Shapley in One Training Run.",
+      "url": "https://openreview.net/forum?id=HD6bWcj87Y"
+    },
+    {
+      "title": "SAM 2: Segment Anything in Images and Videos.",
+      "url": "https://openreview.net/forum?id=Ha6RTeWMd0"
+    },
+    {
+      "title": "Faster Cascades via Speculative Decoding.",
+      "url": "https://openreview.net/forum?id=vo9t20wsmd"
+    }
+  ],
+  "neurips_awards": [
+    {
+      "title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+      "url": "https://openreview.net/forum?id=saDOrrnNTz"
+    },
+    {
+      "title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+      "url": "https://openreview.net/forum?id=1b7whO4SfY"
+    },
+    {
+      "title": "1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities",
+      "url": "https://openreview.net/forum?id=s0JVsx3bx1"
+    },
+    {
+      "title": "Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training",
+      "url": "https://openreview.net/forum?id=BSZqpqgqM0"
+    },
+    {
+      "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+      "url": "https://openreview.net/forum?id=4OsgYD7em5"
+    },
+    {
+      "title": "Optimal Mistake Bounds for Transductive Online Learning",
+      "url": "https://openreview.net/forum?id=EoebmBe9fG"
+    },
+    {
+      "title": "Superposition Yields Robust Neural Scaling",
+      "url": "https://openreview.net/forum?id=knPz7gtjPW"
+    }
+  ],
+  "acl_awards": [],
+  "emnlp_awards": [],
+  "iclr_guidelines": [
+    {
+      "title": "https://media.iclr.cc/Conferences/ICLR2027/iclr-2027-style-files.zip",
+      "url": "https://media.iclr.cc/Conferences/ICLR2027/iclr-2027-style-files.zip"
+    }
+  ],
+  "acl_cfp": []
+}

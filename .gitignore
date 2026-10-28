@@ -1,0 +1,30 @@
+# Local accounts, generated assets, dependencies and temporary state
+.local/
+dist/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+
+# Credentials and runtime databases (never commit real user state)
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+
+# Local-only agent work records
+/STATUS.md
+/HANDOFF.md
+
+# Read-only research downloads are local verification caches, not app assets.
+# The curated facts and public source URLs live in research/expanded-details/.
+/research/evidence/
+
+# Local verification screenshots can include account and management screens.
+/research/qa/

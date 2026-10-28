@@ -1,0 +1,558 @@
+{
+  "source": "https://files.sigchi.org/conference/program/CHI/2025",
+  "fetchedAt": "2026-10-28",
+  "total": 50,
+  "contents": [
+    {
+      "id": 188217,
+      "title": "Permission Rationales in the Web Ecosystem: An Exploration of Rationale Text and Design Patterns",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713547"
+        }
+      }
+    },
+    {
+      "id": 188320,
+      "title": "\"It Brought the Model to Life\": Exploring the Embodiment of Multimodal I3Ms for People who are Blind or have Low Vision",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713158"
+        }
+      }
+    },
+    {
+      "id": 188399,
+      "title": "Exploring Data-Driven Advocacy in Home Health Care Work",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713086"
+        }
+      }
+    },
+    {
+      "id": 188409,
+      "title": "ClueCart: Supporting Game Story Interpretation and Narrative Inference from Fragmented Clues",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713381"
+        }
+      }
+    },
+    {
+      "id": 188414,
+      "title": "Enabling Recycling of Multi-Material 3D Printed Objects through Computational Design and Disassembly by Dissolution",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714080"
+        }
+      }
+    },
+    {
+      "id": 188426,
+      "title": "Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713102"
+        }
+      }
+    },
+    {
+      "id": 188457,
+      "title": "RouteFlow: Trajectory-Aware Animated Transitions",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714300"
+        }
+      }
+    },
+    {
+      "id": 188485,
+      "title": "Towards Hormone Health: An Autoethnography of Long-Term Holistic Tracking to Manage PCOS",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713619"
+        }
+      }
+    },
+    {
+      "id": 188488,
+      "title": "Tracing Change in Social Media Use: A Qualitative Longitudinal Study",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713813"
+        }
+      }
+    },
+    {
+      "id": 188519,
+      "title": "Relational AI: Facilitating Intergroup Cooperation with Socially Aware Conversational Support",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713757"
+        }
+      }
+    },
+    {
+      "id": 188521,
+      "title": "From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713493"
+        }
+      }
+    },
+    {
+      "id": 188549,
+      "title": "How Should We Design Technology With Diverse Stakeholders Who Wish Not to Attend Design Activities Together?",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714168"
+        }
+      }
+    },
+    {
+      "id": 188559,
+      "title": "AMUSE: Human-AI Collaborative Songwriting with Multimodal Inspirations",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713818"
+        }
+      }
+    },
+    {
+      "id": 188575,
+      "title": "A Qualitative Study on How Usable Security and HCI Researchers Judge the Size and Importance of Odds Ratio and Cohen's d Effect Sizes",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714022"
+        }
+      }
+    },
+    {
+      "id": 188585,
+      "title": "Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713977"
+        }
+      }
+    },
+    {
+      "id": 188628,
+      "title": "Lost in Magnitudes: Exploring Visualization Designs for Large Value Ranges",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713487"
+        }
+      }
+    },
+    {
+      "id": 188676,
+      "title": " “I am a Technology Creator”: Black Girls as Technosocial Change Agents in a Culturally-Responsive Robotics Camp",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713242"
+        }
+      }
+    },
+    {
+      "id": 188697,
+      "title": "Placebo Effect of Control Settings in Feeds Are Not Always Strong",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714197"
+        }
+      }
+    },
+    {
+      "id": 188714,
+      "title": "AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713792"
+        }
+      }
+    },
+    {
+      "id": 188727,
+      "title": "Triangulating on Possible Futures: Conducting User Studies on Several Futures Instead of Only One",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713565"
+        }
+      }
+    },
+    {
+      "id": 188751,
+      "title": "What Do We Design for When We Design \"Smart Buildings\"? - A Scoping Review of Human Experience Design Research in Buildings",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713903"
+        }
+      }
+    },
+    {
+      "id": 188767,
+      "title": "Creative Writers’ Attitudes on Writing as Training Data for Large Language Models",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713287"
+        }
+      }
+    },
+    {
+      "id": 188782,
+      "title": "\"It Helps Us Express Our Feelings Without Having To Say Anything\": Exploring Accompanying Social Play Things Designed With and For Neurodiverse Groups of Children",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713738"
+        }
+      }
+    },
+    {
+      "id": 188869,
+      "title": "Supporting Co-Adaptive Machine Teaching through Human Concept Learning and Cognitive Theories",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "name": "doi",
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713708"
+        }
+      }
+    },
+    {
+      "id": 188883,
+      "title": "PAIGE: Examining Learning Outcomes and Experiences with Personalized AI-Generated Educational Podcasts",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713460"
+        }
+      }
+    },
+    {
+      "id": 188899,
+      "title": "Speculating Deaf Tech: Reimagining Technologies Centering Deaf People",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713238"
+        }
+      }
+    },
+    {
+      "id": 188939,
+      "title": "Conversational Agents on Your Behalf: Opportunities and Challenges of Shared Autonomy in Voice Communication for Multitasking",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714017"
+        }
+      }
+    },
+    {
+      "id": 188973,
+      "title": "Traversing Dual Realities: Investigating Techniques for Transitioning 3D Objects between Desktop and Augmented Reality Environments",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713949"
+        }
+      }
+    },
+    {
+      "id": 189007,
+      "title": "TelePulse: Enhancing the Teleoperation Experience through Biomechanical Simulation-Based Electrical Muscle Stimulation in Virtual Reality",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713767"
+        }
+      }
+    },
+    {
+      "id": 189110,
+      "title": "“It’s Like Being On Stage”: Conveying Dancers’ Expressiveness Through A Haptic-Installed Contemporary Dance Performance",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713321"
+        }
+      }
+    },
+    {
+      "id": 189142,
+      "title": "LivingLoom: Investigating Human-Plant Symbiosis through Integrating Living Plants into (E-)Textiles",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713156"
+        }
+      }
+    },
+    {
+      "id": 189205,
+      "title": "Evaluating In-Car Tasks’ Distraction Effects with Drive-In Lab",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713590"
+        }
+      }
+    },
+    {
+      "id": 189206,
+      "title": "Cripping the Co-Design of Pacing Technologies For Energy-Limiting Conditions",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713990"
+        }
+      }
+    },
+    {
+      "id": 189229,
+      "title": "(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713535"
+        }
+      }
+    },
+    {
+      "id": 189253,
+      "title": "GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713739"
+        }
+      }
+    },
+    {
+      "id": 189262,
+      "title": "Doing the Feminist Work in AI: Reflections from an AI Project in Latin America",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713681"
+        }
+      }
+    },
+    {
+      "id": 189272,
+      "title": "What Comes After Noticing?: Reflections on Noticing Solar Energy and What Came Next",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713239"
+        }
+      }
+    },
+    {
+      "id": 189275,
+      "title": "The Benefits of Prosociality towards AI Agents: Examining the Effects of Helping AI Agents on Human Well-Being",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713116"
+        }
+      }
+    },
+    {
+      "id": 189280,
+      "title": "Moving Beyond the Simulator: Interaction-Based Drunk Driving Detection in a Real Vehicle Using Driver Monitoring Cameras and Real-Time Vehicle Data",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714007"
+        }
+      }
+    },
+    {
+      "id": 189311,
+      "title": "Deploying and Examining Beacon for At-Home Patient Self-Monitoring with Critical Flicker Frequency",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714240"
+        }
+      }
+    },
+    {
+      "id": 189366,
+      "title": "Prototyping with Prompts: Emerging Approaches and Challenges in Generative AI Design for Collaborative Software Teams",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713166"
+        }
+      }
+    },
+    {
+      "id": 189401,
+      "title": "The Fidelity-based Presence Scale (FPS): Modeling the Effects of Fidelity on Sense of Presence",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713566"
+        }
+      }
+    },
+    {
+      "id": 189409,
+      "title": "\"Don't Forget the Teachers\": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713210"
+        }
+      }
+    },
+    {
+      "id": 189421,
+      "title": "Letters from Future Self: Augmenting the Letter-Exchange Exercise with LLM-based Agents to Enhance Young Adults' Career Exploration",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714206"
+        }
+      }
+    },
+    {
+      "id": 189485,
+      "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713697"
+        }
+      }
+    },
+    {
+      "id": 189491,
+      "title": "FluidTrack: Investigating Child-Parent Collaborative Tracking for Pediatric Voiding Dysfunction Management",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713878"
+        }
+      }
+    },
+    {
+      "id": 189502,
+      "title": "SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713631"
+        }
+      }
+    },
+    {
+      "id": 189508,
+      "title": "Tracking and its Potential for Older Adults with Memory Concerns",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714093"
+        }
+      }
+    },
+    {
+      "id": 189580,
+      "title": "Code Shaping: Iterative Code Editing with Free-form AI-Interpreted Sketching",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3713822"
+        }
+      }
+    },
+    {
+      "id": 189640,
+      "title": "DreamGarden: A Designer Assistant for Growing Games from a Single Prompt",
+      "award": "BEST_PAPER",
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://dl.acm.org/doi/10.1145/3706598.3714233"
+        }
+      }
+    }
+  ]
+}

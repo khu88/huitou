@@ -1,0 +1,1781 @@
+{
+  "reviewedAt": "2026-10-28",
+  "policy": "人工复核全称与简称后记录对应ID；此表只处理无法通过规范化全称直接匹配的条目。未知和歧义保留未确认。",
+  "matches": {
+    "core": {
+      "ppopp": {
+        "sourceRecordId": "1691",
+        "catalogTitle": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+        "sourceTitle": "Principles and Practice of Parallel Programming",
+        "sourceAcronym": "PPoPP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fast": {
+        "sourceRecordId": "1839",
+        "catalogTitle": "USENIX Conference on File and Storage Technologies",
+        "sourceTitle": "Conference on File and Storage Technologies",
+        "sourceAcronym": "FAST",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dac": {
+        "sourceRecordId": "1996",
+        "catalogTitle": "Design Automation Conference",
+        "sourceTitle": "Design Automation Conf",
+        "sourceAcronym": "DAC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "hpca": {
+        "sourceRecordId": "1386",
+        "catalogTitle": "IEEE International Symposium on High Performance Computer Architecture",
+        "sourceTitle": "International Symposium on High Performance Computer Architecture",
+        "sourceAcronym": "HPCA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "micro": {
+        "sourceRecordId": "2098",
+        "catalogTitle": "IEEE/ACM International Symposium on Microarchitecture",
+        "sourceTitle": "International Symposium on Microarchitecture",
+        "sourceAcronym": "MICRO",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sc": {
+        "sourceRecordId": "77",
+        "catalogTitle": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+        "sourceTitle": "International Conference for High Performance Computing, Networking, Storage and Analysis (was Supercomputing Conference)",
+        "sourceAcronym": "SC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "asplos": {
+        "sourceRecordId": "147",
+        "catalogTitle": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+        "sourceTitle": "Architectural Support for Programming Languages and Operating Systems",
+        "sourceAcronym": "ASPLOS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "isca": {
+        "sourceRecordId": "32",
+        "catalogTitle": "International Symposium on Computer Architecture",
+        "sourceTitle": "ACM International Symposium on Computer Architecture",
+        "sourceAcronym": "ISCA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "eurosys": {
+        "sourceRecordId": "525",
+        "catalogTitle": "European Conference on Computer Systems",
+        "sourceTitle": "Eurosys Conference",
+        "sourceAcronym": "EuroSys",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "hpdc": {
+        "sourceRecordId": "33",
+        "catalogTitle": "The International ACM Symposium on High-Performance Parallel and Distributed Computing",
+        "sourceTitle": "ACM International Symposium on High Performance Distributed Computing",
+        "sourceAcronym": "HPDC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "spaa": {
+        "sourceRecordId": "1790",
+        "catalogTitle": "ACM Symposium on Parallelism in Algorithms and Architectures",
+        "sourceTitle": "Symposium on Parallelism in Algorithms and Architectures",
+        "sourceAcronym": "SPAA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fpga": {
+        "sourceRecordId": "2319",
+        "catalogTitle": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+        "sourceTitle": "ACM Int'l Symposium on Field Programmable Gate Arrays",
+        "sourceAcronym": "FPGA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cgo": {
+        "sourceRecordId": "1362",
+        "catalogTitle": "The International Symposium on Code Generation and Optimization",
+        "sourceTitle": "International Symposium on Code Generation and Optimization",
+        "sourceAcronym": "CGO",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "date": {
+        "sourceRecordId": "421",
+        "catalogTitle": "Design, Automation & Test in Europe",
+        "sourceTitle": "Design, Automation and Test in Europe Conference",
+        "sourceAcronym": "DATE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iccd": {
+        "sourceRecordId": "2320",
+        "catalogTitle": "International Conference on Computer Design",
+        "sourceTitle": "IEEE International Conference on Computer Design",
+        "sourceAcronym": "ICCD",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iccad": {
+        "sourceRecordId": "783",
+        "catalogTitle": "International Conference on Computer-Aided Design",
+        "sourceTitle": "IEEE/ACM International Conference on Computer-Aided Design",
+        "sourceAcronym": "ICCAD",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icdcs": {
+        "sourceRecordId": "1002",
+        "catalogTitle": "IEEE International Conference on Distributed Computing Systems",
+        "sourceTitle": "International Conference on Distributed Computing Systems",
+        "sourceAcronym": "ICDCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "codes-isss": {
+        "sourceRecordId": "1422",
+        "catalogTitle": "International Conference on Hardware/Software Co-design and System Synthesis",
+        "sourceTitle": "International Conference on Hardware/Software Codesign and System Synthesis (previously ISSN, changed in 2003)",
+        "sourceAcronym": "CODES+ISSS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigmetrics": {
+        "sourceRecordId": "39",
+        "catalogTitle": "International Conference on Measurement and Modeling of Computer Systems",
+        "sourceTitle": "Measurement and Modeling of Computer Systems",
+        "sourceAcronym": "SIGMETRICS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pact": {
+        "sourceRecordId": "1165",
+        "catalogTitle": "International Conference on Parallel Architectures and Compilation Techniques",
+        "sourceTitle": "International Conference on Parallel Architecture and Compilation Techniques",
+        "sourceAcronym": "PACT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ics": {
+        "sourceRecordId": "30",
+        "catalogTitle": "International Conference on Supercomputing",
+        "sourceTitle": "ACM International Conference on Supercomputing",
+        "sourceAcronym": "ICS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ipdps": {
+        "sourceRecordId": "688",
+        "catalogTitle": "IEEE International Parallel & Distributed Processing Symposium",
+        "sourceTitle": "IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP)",
+        "sourceAcronym": "IPDPS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "performance": {
+        "sourceRecordId": "2116",
+        "catalogTitle": "International Symposium on Computer Performance, Modeling, Measurements and Evaluation",
+        "sourceTitle": "IFIP International Symposium on Computing Performance, Modelling, Measurement and Evaluation",
+        "sourceAcronym": "PERFORMANCE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "itc": {
+        "sourceRecordId": "710",
+        "catalogTitle": "International Test Conference",
+        "sourceTitle": "IEEE International Test Conference",
+        "sourceAcronym": "ITC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "msst": {
+        "sourceRecordId": "608",
+        "catalogTitle": "Mass Storage Systems and Technologies",
+        "sourceTitle": "IEEE Conference on Mass Storage Systems and Technologies",
+        "sourceAcronym": "MSST",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "euro-par": {
+        "sourceRecordId": "2022",
+        "catalogTitle": "European Conference on Parallel and Distributed Computing Springer",
+        "sourceTitle": "International European Conference on Parallel and Distributed Computing (was International Conference on Parallel Processing)",
+        "sourceAcronym": "EuroPar",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "systor": {
+        "sourceRecordId": "2255",
+        "catalogTitle": "ACM International Systems and Storage Conference",
+        "sourceTitle": "The ACM International System and Storage Conference",
+        "sourceAcronym": "SYSTOR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fpl": {
+        "sourceRecordId": "2318",
+        "catalogTitle": "International Conference on Field-Programmable Logic and Applications",
+        "sourceTitle": "Field Programmable Logic and Applications",
+        "sourceAcronym": "FPL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "hipc": {
+        "sourceRecordId": "1048",
+        "catalogTitle": "IEEE International Conference on High Performance Computing, Data and Analytics",
+        "sourceTitle": "International Conference on High Performance Computing",
+        "sourceAcronym": "HiPC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mascots": {
+        "sourceRecordId": "1771",
+        "catalogTitle": "International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
+        "sourceTitle": "Symposium Model Analysis and Simulation of Computer and Telecommunications Systems",
+        "sourceAcronym": "MASCOTS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ccgrid": {
+        "sourceRecordId": "695",
+        "catalogTitle": "IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",
+        "sourceTitle": "IEEE International Symposium on Cluster, Cloud and Grid Computing",
+        "sourceAcronym": "CCGRID",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cases": {
+        "sourceRecordId": "937",
+        "catalogTitle": "International Conference on Compilers, Architectures, and Synthesis for Embedded Systems",
+        "sourceTitle": "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems",
+        "sourceAcronym": "CASES",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "islped": {
+        "sourceRecordId": "2331",
+        "catalogTitle": "International Symposium on Low Power Electronics and Design",
+        "sourceTitle": "IEEE/ACM International Symposium on Low Power Electronics and Design",
+        "sourceAcronym": "ISLPED",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigcomm": {
+        "sourceRecordId": "11",
+        "catalogTitle": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+        "sourceTitle": "ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+        "sourceAcronym": "SIGCOMM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "nsdi": {
+        "sourceRecordId": "1789",
+        "catalogTitle": "Symposium on Network System Design and Implementation",
+        "sourceTitle": "Symposium on Networked Systems, Design and Implementation",
+        "sourceAcronym": "NSDI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobisys": {
+        "sourceRecordId": "45",
+        "catalogTitle": "ACM International Conference on Mobile Systems, Applications, and Services",
+        "sourceTitle": "ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",
+        "sourceAcronym": "Mobisys",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icnp": {
+        "sourceRecordId": "1147",
+        "catalogTitle": "IEEE International Conference on Network Protocols",
+        "sourceTitle": "International Conference on Network Protocols",
+        "sourceAcronym": "ICNP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobihoc": {
+        "sourceRecordId": "58",
+        "catalogTitle": "International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",
+        "sourceTitle": "ACM Symposium on Mobile Ad Hoc Networking and Computing",
+        "sourceAcronym": "MOBIHOC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "nossdav": {
+        "sourceRecordId": "1638",
+        "catalogTitle": "International Workshop on Network and Operating System Support for Digital Audio and Video",
+        "sourceTitle": "Network and Operating System Support for Digital Audio and Video",
+        "sourceAcronym": "NOSSDAV",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iwqos": {
+        "sourceRecordId": "717",
+        "catalogTitle": "IEEE/ACM International Workshop on Quality of Service",
+        "sourceTitle": "IEEE International Workshop on Quality of Service",
+        "sourceAcronym": "IWQoS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "imc": {
+        "sourceRecordId": "1551",
+        "catalogTitle": "ACM Internet Measurement Conference",
+        "sourceTitle": "Internet Measurement Conference",
+        "sourceAcronym": "IMC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "forte": {
+        "sourceRecordId": "805",
+        "catalogTitle": "International Conference on Formal Techniques for Distributed Objects, Components, and Systems",
+        "sourceTitle": "IFIP Joint International Conference on Formal Description Techniques and Protocol Specification, Testing, And Verification",
+        "sourceAcronym": "FORTE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "globecom": {
+        "sourceRecordId": "2030",
+        "catalogTitle": "IEEE Global Communications Conference",
+        "sourceTitle": "IEEE Global Telecommunications Conference",
+        "sourceAcronym": "GLOBECOM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icccn": {
+        "sourceRecordId": "2038",
+        "catalogTitle": "IEEE International Conference on Computer Communications and Networks",
+        "sourceTitle": "International Conference on Computer Communication and Networks",
+        "sourceAcronym": "ICCCN",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "networking": {
+        "sourceRecordId": "806",
+        "catalogTitle": "IFIP International Conferences on Networking",
+        "sourceTitle": "IFIP International Conference on Networking",
+        "sourceAcronym": "Networking",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "im": {
+        "sourceRecordId": "812",
+        "catalogTitle": "IFIP/IEEE International Symposium on Integrated Network Management",
+        "sourceTitle": "IFIP/IEEE International Symposium on Integrated Management (even years sharing with NOMS)",
+        "sourceAcronym": "IM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mswim": {
+        "sourceRecordId": "76",
+        "catalogTitle": "International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",
+        "sourceTitle": "ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",
+        "sourceAcronym": "MSWIM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "hotnets": {
+        "sourceRecordId": "69",
+        "catalogTitle": "ACM The Workshop on Hot Topics in Networks",
+        "sourceTitle": "ACM Workshop on Hot Topics in Networks",
+        "sourceAcronym": "HOTNETS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "eurocrypt": {
+        "sourceRecordId": "1242",
+        "catalogTitle": "International Conference on the Theory and Applications of Cryptographic Techniques",
+        "sourceTitle": "International Conference on the Theory and Application of Cryptographic Techniques",
+        "sourceAcronym": "EuroCrypt",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "crypto": {
+        "sourceRecordId": "94",
+        "catalogTitle": "International Cryptology Conference",
+        "sourceTitle": "Advances in Cryptology",
+        "sourceAcronym": "CRYPTO",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ndss": {
+        "sourceRecordId": "1840",
+        "catalogTitle": "Network and Distributed System Security Symposium",
+        "sourceTitle": "Usenix Network and Distributed System Security Symposium",
+        "sourceAcronym": "NDSS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "asiacrypt": {
+        "sourceRecordId": "1243",
+        "catalogTitle": "Annual International Conference on the Theory and Application of Cryptology and Information Security",
+        "sourceTitle": "International Conference on the Theory and Application of Cryptology and Information Security",
+        "sourceAcronym": "ASIACRYPT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fse-security": {
+        "sourceRecordId": "1475",
+        "catalogTitle": "Fast Software Encryption",
+        "sourceTitle": "International Workshop on Fast Software Encryption",
+        "sourceAcronym": "FSE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "srds": {
+        "sourceRecordId": "1792",
+        "catalogTitle": "IEEE International Symposium on Reliable Distributed Systems",
+        "sourceTitle": "Symposium on Reliable Distributed Systems",
+        "sourceAcronym": "SRDS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ches": {
+        "sourceRecordId": "1894",
+        "catalogTitle": "International Conference on Cryptographic Hardware and Embedded Systems",
+        "sourceTitle": "Workshop on Cryptographic Hardware and Embedded Systems",
+        "sourceAcronym": "CHES",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dsn": {
+        "sourceRecordId": "787",
+        "catalogTitle": "International Conference on Dependable Systems and Networks",
+        "sourceTitle": "IEEE/IFIP International Conference on Dependable Systems and Networks",
+        "sourceAcronym": "DSN",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "raid": {
+        "sourceRecordId": "1408",
+        "catalogTitle": "International Symposium on Recent Advances in Intrusion Detection",
+        "sourceTitle": "The International Symposium on Research in Attacks, Intrusions and Defenses (was International Symposium on Recent Advances in Intrusion Detection)",
+        "sourceAcronym": "RAID",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pkc": {
+        "sourceRecordId": "1279",
+        "catalogTitle": "International Workshop on Practice and Theory in Public Key Cryptography",
+        "sourceTitle": "International Conference on Practice and Theory in Public Key Cryptography",
+        "sourceAcronym": "PKC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sacmat": {
+        "sourceRecordId": "1775",
+        "catalogTitle": "ACM Symposium on Access Control Models and Technologies",
+        "sourceTitle": "ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000)",
+        "sourceAcronym": "SACMAT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ih-mmsec": {
+        "sourceRecordId": "1493",
+        "catalogTitle": "ACM Workshop on Information Hiding and Multimedia Security",
+        "sourceTitle": "Information Hiding and Multimedia Security Workshop",
+        "sourceAcronym": "IH&MMSec",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "asiaccs": {
+        "sourceRecordId": "61",
+        "catalogTitle": "ACM Asia Conference on Computer and Communications Security",
+        "sourceTitle": "Asia Conference on Information, Computer and Communications Security",
+        "sourceAcronym": "AsiaCCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "acisp": {
+        "sourceRecordId": "212",
+        "catalogTitle": "Australasia Conference on Information Security and Privacy",
+        "sourceTitle": "Australasian Conference on Information Security and Privacy",
+        "sourceAcronym": "ACISP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ct-rsa": {
+        "sourceRecordId": "1710",
+        "catalogTitle": "The Cryptographer's Track at RSA Conference",
+        "sourceTitle": "Cryptographers Track at RSA Conference",
+        "sourceAcronym": "CT-RSA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dimva": {
+        "sourceRecordId": "565",
+        "catalogTitle": "Conference on Detection of Intrusions and Malware & Vulnerability Assessment",
+        "sourceTitle": "GI International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment",
+        "sourceAcronym": "DIMVA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fc": {
+        "sourceRecordId": "533",
+        "catalogTitle": "Financial Cryptography and Data Security",
+        "sourceTitle": "Financial Cryptography and Data Security Conference",
+        "sourceAcronym": "FC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "trustcom": {
+        "sourceRecordId": "790",
+        "catalogTitle": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications",
+        "sourceTitle": "International Conference on Trust, Security and Privacy in Computing and Communications",
+        "sourceAcronym": "TrustCom",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "securecomm": {
+        "sourceRecordId": "1198",
+        "catalogTitle": "International Conference on Security and Privacy in Communication Networks",
+        "sourceTitle": "International Conference on Security and Privacy for Communication Networks",
+        "sourceAcronym": "SecureComm",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pets": {
+        "sourceRecordId": "1442",
+        "catalogTitle": "Privacy Enhancing Technologies Symposium",
+        "sourceTitle": "Privacy Enhancing Technologies Symposium (was International Workshop of Privacy Enhancing Technologies)",
+        "sourceAcronym": "PETS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "popl": {
+        "sourceRecordId": "82",
+        "catalogTitle": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+        "sourceTitle": "ACM-SIGACT Symposium on Principles of Programming Languages",
+        "sourceAcronym": "POPL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fse-software": {
+        "sourceRecordId": "52",
+        "catalogTitle": "ACM International Conference on the Foundations of Software Engineering",
+        "sourceTitle": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+        "sourceAcronym": "FSE",
+        "reason": "CORE 原条目明确写明 was ESEC/FSE, changed 2024，匹配软件工程 FSE；排除安全领域 FSE。"
+      },
+      "sosp": {
+        "sourceRecordId": "48",
+        "catalogTitle": "ACM Symposium on Operating Systems Principles",
+        "sourceTitle": "ACM SIGOPS Symposium on Operating Systems Principles",
+        "sourceAcronym": "SOSP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "oopsla": {
+        "sourceRecordId": "18",
+        "catalogTitle": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+        "sourceTitle": "ACM Conference on Object Oriented Programming Systems Languages and Applications",
+        "sourceAcronym": "OOPSLA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ase": {
+        "sourceRecordId": "279",
+        "catalogTitle": "International Conference on Automated Software Engineering",
+        "sourceTitle": "Automated Software Engineering Conference",
+        "sourceAcronym": "ASE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fm": {
+        "sourceRecordId": "540",
+        "catalogTitle": "International Symposium on Formal Methods",
+        "sourceTitle": "International Symposium on Formal Methods (was Formal Methods Europe FME)",
+        "sourceAcronym": "FM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icpc": {
+        "sourceRecordId": "1181",
+        "catalogTitle": "IEEE International Conference on Program Comprehension",
+        "sourceTitle": "IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)",
+        "sourceAcronym": "ICPC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icfp": {
+        "sourceRecordId": "1037",
+        "catalogTitle": "ACM SIGPLAN International Conference on Function Programming",
+        "sourceTitle": "International Conference on Functional Programming",
+        "sourceAcronym": "ICFP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "lctes": {
+        "sourceRecordId": "49",
+        "catalogTitle": "ACM SIGPLAN/SIGBED International Conference on Languages, Compilers and Tools for Embedded Systems",
+        "sourceTitle": "ACM SIGPLAN Conference on Languages, Compilers and Tools for Embedded Systems",
+        "sourceAcronym": "LCTES",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "models": {
+        "sourceRecordId": "1244",
+        "catalogTitle": "ACM/IEEE International Conference on Model Driven Engineering Languages and Systems",
+        "sourceTitle": "International Conference on Model Driven Engineering Languages and Systems (Previously UML, changed in 2005)",
+        "sourceAcronym": "MODELS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icsme": {
+        "sourceRecordId": "676",
+        "catalogTitle": "International Conference on Software Maintenance and Evolution",
+        "sourceTitle": "IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)",
+        "sourceAcronym": "ICSME",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "vmcai": {
+        "sourceRecordId": "1847",
+        "catalogTitle": "International Conference on Verification, Model Checking and Abstract Interpretation",
+        "sourceTitle": "Verification, Model Checking and Abstract Interpretation",
+        "sourceAcronym": "VMCAI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "middleware": {
+        "sourceRecordId": "79",
+        "catalogTitle": "International Middleware Conference",
+        "sourceTitle": "ACM/IFIP/USENIX International Middleware Conference",
+        "sourceAcronym": "Middleware",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sas": {
+        "sourceRecordId": "1763",
+        "catalogTitle": "International Static Analysis Symposium",
+        "sourceTitle": "Static Analysis Symposium",
+        "sourceAcronym": "SAS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "issre": {
+        "sourceRecordId": "1411",
+        "catalogTitle": "IEEE International Symposium on Software Reliability Engineering",
+        "sourceTitle": "International Symposium on Software Reliability Engineering",
+        "sourceAcronym": "ISSRE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iceccs": {
+        "sourceRecordId": "646",
+        "catalogTitle": "International Conference on Engineering of Complex Computer Systems",
+        "sourceTitle": "IEEE International Conference on Engineering of Complex Computer Systems",
+        "sourceAcronym": "ICECCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icst": {
+        "sourceRecordId": "1221",
+        "catalogTitle": "IEEE International Conference on Software Testing, Verification and Validation",
+        "sourceTitle": "International Conference on Software Testing, Verification and Validation",
+        "sourceAcronym": "ICST",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icssp": {
+        "sourceRecordId": "1217",
+        "catalogTitle": "International Conference on Software and System Process",
+        "sourceTitle": "International Conference on Software and System Processes (was ICSP prior to 2011)",
+        "sourceAcronym": "ICSSP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "qrs": {
+        "sourceRecordId": "1185",
+        "catalogTitle": "International Conference on Software Quality, Reliability and Security",
+        "sourceTitle": "Software Quality, Reliability, and Security (was International Conference on Quality Software, QSIC, that merged with SERE 2015)",
+        "sourceAcronym": "QRS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "tase": {
+        "sourceRecordId": "1427",
+        "catalogTitle": "Theoretical Aspects of Software Engineering Conference",
+        "sourceTitle": "International Symposium on Theoretical Aspects of Software Engineering",
+        "sourceAcronym": "TASE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "msr": {
+        "sourceRecordId": "711",
+        "catalogTitle": "Mining Software Repositories",
+        "sourceTitle": "IEEE International Working Conference on Mining Software Repositories",
+        "sourceAcronym": "MSR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "refsq": {
+        "sourceRecordId": "1521",
+        "catalogTitle": "Requirements Engineering: Foundation for Software Quality",
+        "sourceTitle": "International Workshop on Requirements Engineering: Foundation for Software Quality",
+        "sourceAcronym": "REFSQ",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "rv": {
+        "sourceRecordId": "1932",
+        "catalogTitle": "International Conference on Runtime Verification",
+        "sourceTitle": "International Conference on Runtime Verification (was workshop pre 2010)",
+        "sourceAcronym": "RV",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigmod": {
+        "sourceRecordId": "56",
+        "catalogTitle": "ACM SIGMOD Conference",
+        "sourceTitle": "ACM Special Interest Group on Management of Data Conference",
+        "sourceAcronym": "SIGMOD",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icde": {
+        "sourceRecordId": "986",
+        "catalogTitle": "IEEE International Conference on Data Engineering",
+        "sourceTitle": "International Conference on Data Engineering",
+        "sourceAcronym": "ICDE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigir": {
+        "sourceRecordId": "29",
+        "catalogTitle": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "sourceTitle": "ACM International Conference on Research and Development in Information Retrieval",
+        "sourceAcronym": "SIGIR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pods": {
+        "sourceRecordId": "46",
+        "catalogTitle": "ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems",
+        "sourceTitle": "ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems",
+        "sourceAcronym": "PODS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ecml-pkdd": {
+        "sourceRecordId": "491",
+        "catalogTitle": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+        "sourceTitle": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008)",
+        "sourceAcronym": "ECML PKDD",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iswc": {
+        "sourceRecordId": "1338",
+        "catalogTitle": "IEEE International Semantic Web Conference",
+        "sourceTitle": "International Semantic Web Conference",
+        "sourceAcronym": "ISWC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "edbt": {
+        "sourceRecordId": "528",
+        "catalogTitle": "International Conference on Extending Database Technology",
+        "sourceTitle": "Extending Database Technology",
+        "sourceAcronym": "EDBT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "recsys": {
+        "sourceRecordId": "28",
+        "catalogTitle": "ACM Conference on Recommender Systems",
+        "sourceTitle": "ACM International Conference on Recommender Systems",
+        "sourceAcronym": "RecSys",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "wise": {
+        "sourceRecordId": "1271",
+        "catalogTitle": "Web Information Systems Engineering Conference",
+        "sourceTitle": "International Conference on Web Information Systems Engineering",
+        "sourceAcronym": "WISE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "apweb": {
+        "sourceRecordId": "165",
+        "catalogTitle": "Asia Pacific Web Conference",
+        "sourceTitle": "Web and Big Data",
+        "sourceAcronym": "APWEB",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dexa": {
+        "sourceRecordId": "987",
+        "catalogTitle": "International Conference on Database and Expert System Applications",
+        "sourceTitle": "International Conference on Database and Expert Systems Applications",
+        "sourceAcronym": "DEXA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "eswc": {
+        "sourceRecordId": "2021",
+        "catalogTitle": "Extended Semantic Web Conference",
+        "sourceTitle": "Extended Semantic Web Conference (was European Semantic Web Conference)",
+        "sourceAcronym": "ESWC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "er": {
+        "sourceRecordId": "971",
+        "catalogTitle": "International Conference on Conceptual Modeling",
+        "sourceTitle": "International Conference on Conceptual Modelling",
+        "sourceAcronym": "ER",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "stoc": {
+        "sourceRecordId": "65",
+        "catalogTitle": "ACM Symposium on the Theory of Computing",
+        "sourceTitle": "ACM Symposium on Theory of Computing",
+        "sourceAcronym": "STOC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cav": {
+        "sourceRecordId": "331",
+        "catalogTitle": "International Conference on Computer Aided Verification",
+        "sourceTitle": "Computer Aided Verification",
+        "sourceAcronym": "CAV",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "focs": {
+        "sourceRecordId": "745",
+        "catalogTitle": "IEEE Annual Symposium on Foundations of Computer Science",
+        "sourceTitle": "IEEE Symposium on Foundations of Computer Science",
+        "sourceAcronym": "FOCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "lics": {
+        "sourceRecordId": "748",
+        "catalogTitle": "ACM/IEEE Symposium on Logic in Computer Science",
+        "sourceTitle": "IEEE Symposium on Logic in Computer Science",
+        "sourceAcronym": "LICS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ccc": {
+        "sourceRecordId": "602",
+        "catalogTitle": "Conference on Computational Complexity",
+        "sourceTitle": "IEEE Conference on Computational Complexity",
+        "sourceAcronym": "CCC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cade": {
+        "sourceRecordId": "918",
+        "catalogTitle": "Conference on Automated Deduction",
+        "sourceTitle": "International Conference on Automated Deduction",
+        "sourceAcronym": "CADE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cocoon": {
+        "sourceRecordId": "969",
+        "catalogTitle": "International Computing and Combinatorics Conference",
+        "sourceTitle": "International Conference on Computing and Combinatorics",
+        "sourceAcronym": "COCOON",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "csl": {
+        "sourceRecordId": "1995",
+        "catalogTitle": "Computer Science Logic",
+        "sourceTitle": "Annual Conference on Computer Science Logic",
+        "sourceAcronym": "CSL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ipco": {
+        "sourceRecordId": "370",
+        "catalogTitle": "International Conference on Integer Programming and Combinatorial Optimization",
+        "sourceTitle": "Conference on Integer Programming and Combinatorial Optimization",
+        "sourceAcronym": "IPCO",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mfcs": {
+        "sourceRecordId": "1398",
+        "catalogTitle": "International Conference on Mathematical Foundations of Computer Science",
+        "sourceTitle": "International Symposium on Mathematical Foundations of Computer Science",
+        "sourceAcronym": "MFCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "stacs": {
+        "sourceRecordId": "1426",
+        "catalogTitle": "Symposium on Theoretical Aspects of Computer Science",
+        "sourceTitle": "International Symposium on Theoretical Aspects of Computer Science",
+        "sourceAcronym": "STACS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "acm-mm": {
+        "sourceRecordId": "37",
+        "catalogTitle": "ACM International Conference on Multimedia",
+        "sourceTitle": "ACM Multimedia",
+        "sourceAcronym": "ACMMM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "siggraph": {
+        "sourceRecordId": "38",
+        "catalogTitle": "ACM Special Interest Group on Computer Graphics",
+        "sourceTitle": "ACM SIG International Conference on Computer Graphics and Interactive Techniques",
+        "sourceAcronym": "SIGGRAPH",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "vr": {
+        "sourceRecordId": "758",
+        "catalogTitle": "IEEE Conference on Virtual Reality and 3D User Interfaces （原 IEEE Virtual Reality）",
+        "sourceTitle": "IEEE Conference on Virtual Reality and 3D User Interfaces",
+        "sourceAcronym": "VR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ieee-vis": {
+        "sourceRecordId": "759",
+        "catalogTitle": "IEEE Visualization Conference",
+        "sourceTitle": "IEEE Visualization",
+        "sourceAcronym": "IEEE VIS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icmr": {
+        "sourceRecordId": "44",
+        "catalogTitle": "ACM SIGMM International Conference on Multimedia Retrieval",
+        "sourceTitle": "International Conference on Multimedia Retrieval (previously MIR)",
+        "sourceAcronym": "ICMR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "eurovis": {
+        "sourceRecordId": "462",
+        "catalogTitle": "Eurographics Conference on Visualization",
+        "sourceTitle": "Eurographics/IEEE Symposium on Visualization",
+        "sourceAcronym": "EuroVis",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sgp": {
+        "sourceRecordId": "1784",
+        "catalogTitle": "Eurographics Symposium on Geometry Processing",
+        "sourceTitle": "Symposium on Geometry Processing",
+        "sourceAcronym": "SGP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ismar": {
+        "sourceRecordId": "785",
+        "catalogTitle": "International Symposium on Mixed and Augmented Reality",
+        "sourceTitle": "IEEE/ACM International Symposium on Mixed and Augmented Reality",
+        "sourceAcronym": "ISMAR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "spm": {
+        "sourceRecordId": "64",
+        "catalogTitle": "Symposium on Solid and Physical Modeling",
+        "sourceTitle": "ACM Symposium on Solid and Physical Modelling",
+        "sourceAcronym": "SPM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "interspeech": {
+        "sourceRecordId": "494",
+        "catalogTitle": "Conference of the International Speech Communication Association",
+        "sourceTitle": "Interspeech (combined EuroSpeech and ICSLP in 2000)",
+        "sourceAcronym": "Interspeech",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "vrst": {
+        "sourceRecordId": "67",
+        "catalogTitle": "ACM Symposium on Virtual Reality Software and Technology",
+        "sourceTitle": "ACM Virtual Reality Software and Technology",
+        "sourceAcronym": "VRST",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "gmp": {
+        "sourceRecordId": "560",
+        "catalogTitle": "Geometric Modeling and Processing",
+        "sourceTitle": "Geometry Modeling and Processing",
+        "sourceAcronym": "GMP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pacificvis": {
+        "sourceRecordId": "724",
+        "catalogTitle": "IEEE Pacific Visualization Symposium",
+        "sourceTitle": "IEEE Pacific Visualization Symposium (was APVIS)",
+        "sourceAcronym": "PacificVis",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mmm": {
+        "sourceRecordId": "1143",
+        "catalogTitle": "International Conference on Multimedia Modeling",
+        "sourceTitle": "International Conference on Multimedia Modelling",
+        "sourceAcronym": "MMM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mmasia": {
+        "sourceRecordId": "2338",
+        "catalogTitle": "ACM Multimedia Asia",
+        "sourceTitle": "ACM International Conference on Multimedia in Asia",
+        "sourceAcronym": "MM_Asia",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "asru": {
+        "sourceRecordId": "595",
+        "catalogTitle": "Automatic Speech Recognition and Understanding Workshop",
+        "sourceTitle": "IEEE Automatic Speech Recognition and Understanding Workshop",
+        "sourceAcronym": "ASRU",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "aaai": {
+        "sourceRecordId": "1629",
+        "catalogTitle": "AAAI Conference on Artificial Intelligence",
+        "sourceTitle": "National Conference of the American Association for Artificial Intelligence",
+        "sourceAcronym": "AAAI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "neurips": {
+        "sourceRecordId": "98",
+        "catalogTitle": "Conference on Neural Information Processing Systems",
+        "sourceTitle": "Advances in Neural Information Processing Systems (was NIPS)",
+        "sourceAcronym": "NeurIPS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "acl": {
+        "sourceRecordId": "196",
+        "catalogTitle": "Annual Meeting of the Association for Computational Linguistics",
+        "sourceTitle": "Association for Computational Linguistics",
+        "sourceAcronym": "ACL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cvpr": {
+        "sourceRecordId": "604",
+        "catalogTitle": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+        "sourceTitle": "IEEE Conference on Computer Vision and Pattern Recognition",
+        "sourceAcronym": "CVPR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iccv": {
+        "sourceRecordId": "638",
+        "catalogTitle": "International Conference on Computer Vision",
+        "sourceTitle": "IEEE International Conference on Computer Vision",
+        "sourceAcronym": "ICCV",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "colt": {
+        "sourceRecordId": "124",
+        "catalogTitle": "Annual Conference on Computational Learning Theory",
+        "sourceTitle": "Conference on Learning Theory",
+        "sourceAcronym": "COLT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "emnlp": {
+        "sourceRecordId": "448",
+        "catalogTitle": "Conference on Empirical Methods in Natural Language Processing",
+        "sourceTitle": "Empirical Methods in Natural Language Processing",
+        "sourceAcronym": "EMNLP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "kr": {
+        "sourceRecordId": "1239",
+        "catalogTitle": "International Conference on Principles of Knowledge Representation and Reasoning",
+        "sourceTitle": "International Conference on the Principles of Knowledge Representation and Reasoning",
+        "sourceAcronym": "KR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "uai": {
+        "sourceRecordId": "346",
+        "catalogTitle": "Conference on Uncertainty in Artificial Intelligence",
+        "sourceTitle": "Conference in Uncertainty in Artificial Intelligence",
+        "sourceAcronym": "UAI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "aamas": {
+        "sourceRecordId": "922",
+        "catalogTitle": "International Joint Conference on Autonomous Agents and Multi-agent Systems",
+        "sourceTitle": "International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)",
+        "sourceAcronym": "AAMAS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "naacl": {
+        "sourceRecordId": "1648",
+        "catalogTitle": "North American Chapter of the Association for Computational Linguistics",
+        "sourceTitle": "North American Association for Computational Linguistics",
+        "sourceAcronym": "NAACL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "gecco": {
+        "sourceRecordId": "556",
+        "catalogTitle": "Genetic and Evolutionary Computation Conference",
+        "sourceTitle": "Genetic and Evolutionary Computations",
+        "sourceAcronym": "GECCO",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ictai": {
+        "sourceRecordId": "1251",
+        "catalogTitle": "IEEE International Conference on Tools with Artificial Intelligence",
+        "sourceTitle": "International Conference on Tools with Artificial Intelligence",
+        "sourceAcronym": "ICTAI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "alt": {
+        "sourceRecordId": "106",
+        "catalogTitle": "International Conference on Algorithmic Learning Theory",
+        "sourceTitle": "Algorithmic Learning Theory",
+        "sourceAcronym": "ALT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icdar": {
+        "sourceRecordId": "2047",
+        "catalogTitle": "International Conference on Document Analysis and Recognition",
+        "sourceTitle": "IEEE International Conference on Document Analysis and Recognition",
+        "sourceAcronym": "ICDAR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ilp": {
+        "sourceRecordId": "819",
+        "catalogTitle": "International Conference on Inductive Logic Programming",
+        "sourceTitle": "Inductive Logic Programming",
+        "sourceAcronym": "ILP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ijcnn": {
+        "sourceRecordId": "685",
+        "catalogTitle": "International Joint Conference on Neural Networks",
+        "sourceTitle": "IEEE International Joint Conference on Neural Networks",
+        "sourceAcronym": "IJCNN",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cscw": {
+        "sourceRecordId": "13",
+        "catalogTitle": "ACM Conference On Computer-Supported Cooperative Work And Social Computing",
+        "sourceTitle": "ACM Conference on Computer Supported Cooperative Work",
+        "sourceAcronym": "CSCW",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "chi": {
+        "sourceRecordId": "1053",
+        "catalogTitle": "ACM Conference on Human Factors in Computing Systems",
+        "sourceTitle": "International Conference on Human Factors in Computing Systems",
+        "sourceAcronym": "CHI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ubicomp": {
+        "sourceRecordId": "1825",
+        "catalogTitle": "ACM international joint conference on Pervasive and Ubiquitous Computing",
+        "sourceTitle": "ACM International Joint Conference on Pervasive and Ubiquitous Computing (PERVASIVE and UbiComp combined from 2013)",
+        "sourceAcronym": "UbiComp",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "group": {
+        "sourceRecordId": "57",
+        "catalogTitle": "ACM International Conference on Supporting Group Work",
+        "sourceTitle": "ACM Special Interest Group on Supporting Group Work (was SIGGRoup)",
+        "sourceAcronym": "Group",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iui": {
+        "sourceRecordId": "1101",
+        "catalogTitle": "ACM International Conference on Intelligent User Interfaces",
+        "sourceTitle": "International Conference on Intelligent User Interfaces",
+        "sourceAcronym": "IUI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iss": {
+        "sourceRecordId": "1488",
+        "catalogTitle": "ACM International Conference on Interactive Surfaces and Spaces",
+        "sourceTitle": "ACM International Conference on Interactive Surfaces and Spaces (was International Workshop on Horizontal Interactive Human-Computer Systems: Tabletop)",
+        "sourceAcronym": "ISS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobilehci": {
+        "sourceRecordId": "1054",
+        "catalogTitle": "ACM International Conference on Mobile Human-Computer Interaction",
+        "sourceTitle": "International Conference on Human-Computer Interaction with Mobile Devices and Services",
+        "sourceAcronym": "MobileHCI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icwsm": {
+        "sourceRecordId": "2169",
+        "catalogTitle": "The International AAAI Conference on Web and Social Media",
+        "sourceTitle": "International Conference on Web and Social Media",
+        "sourceAcronym": "ICWSM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dis": {
+        "sourceRecordId": "422",
+        "catalogTitle": "ACM SIGCHI Conference on Designing Interactive Systems",
+        "sourceTitle": "Designing Interactive Systems",
+        "sourceAcronym": "DIS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icmi": {
+        "sourceRecordId": "1144",
+        "catalogTitle": "ACM International Conference on Multimodal Interaction",
+        "sourceTitle": "International Conference on Multimodal Interaction (was International Conference on Multimodal Interfaces)",
+        "sourceAcronym": "ICMI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "uic": {
+        "sourceRecordId": "1254",
+        "catalogTitle": "IEEE International Conference on Ubiquitous Intelligence and Computing",
+        "sourceTitle": "International Conference on Ubiquitous Intelligence and Computing",
+        "sourceAcronym": "UIC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "interact": {
+        "sourceRecordId": "807",
+        "catalogTitle": "International Conference on Human-Computer Interaction of International Federation for Information Processing",
+        "sourceTitle": "IFIP TC13 Conference on Human-Computer Interaction",
+        "sourceAcronym": "Interact",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "idc": {
+        "sourceRecordId": "851",
+        "catalogTitle": "ACM Interaction Design and Children",
+        "sourceTitle": "Interaction Design and Children (ACM)",
+        "sourceAcronym": "IDC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "collaboratecom": {
+        "sourceRecordId": "933",
+        "catalogTitle": "International Conference on Collaborative Computing: Networking, Applications and Worksharing",
+        "sourceTitle": "International Conference on Collaborative Computing: Networks, Applications and Worksharing",
+        "sourceAcronym": "CollaborateCom",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobiquitous": {
+        "sourceRecordId": "1131",
+        "catalogTitle": "International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",
+        "sourceTitle": "International Conference on Mobile and Ubiquitous Systems: Networks and Services",
+        "sourceAcronym": "Mobiquitous",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "avi": {
+        "sourceRecordId": "93",
+        "catalogTitle": "International Working Conference on Advanced Visual Interfaces",
+        "sourceTitle": "Advanced Visual Interfaces",
+        "sourceAcronym": "AVI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "gpc": {
+        "sourceRecordId": "1044",
+        "catalogTitle": "Conference on Green, Pervasive and Cloud Computing",
+        "sourceTitle": "International Conference on Green, Pervasive and Cloud Computing (was Grid and Pervasive Computing)",
+        "sourceAcronym": "GPC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "www": {
+        "sourceRecordId": "1548",
+        "catalogTitle": "The Web Conference （原 International World Wide Web Conference）",
+        "sourceTitle": "International World Wide Web Conference",
+        "sourceAcronym": "WWW",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "rtss": {
+        "sourceRecordId": "1701",
+        "catalogTitle": "IEEE Real-Time Systems Symposium",
+        "sourceTitle": "Real Time Systems Symposium",
+        "sourceAcronym": "RTSS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ismb": {
+        "sourceRecordId": "847",
+        "catalogTitle": "International conference on Intelligent Systems for Molecular Biology",
+        "sourceTitle": "Intelligent Systems in Molecular Biology",
+        "sourceAcronym": "ISMB",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "recomb": {
+        "sourceRecordId": "950",
+        "catalogTitle": "Annual International Conference on Research in Computational Molecular Biology",
+        "sourceTitle": "International Conference on Computational Molecular Biology",
+        "sourceAcronym": "RECOMB",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "miccai": {
+        "sourceRecordId": "1607",
+        "catalogTitle": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "sourceTitle": "Medical Image Computing and Computer-Assisted Intervention",
+        "sourceAcronym": "MICCAI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "amia": {
+        "sourceRecordId": "1968",
+        "catalogTitle": "American Medical Informatics Association Annual Symposium",
+        "sourceTitle": "American Medical Informatics Annual Fall Symposium",
+        "sourceAcronym": "AMIA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "smc": {
+        "sourceRecordId": "611",
+        "catalogTitle": "IEEE International Conference on Systems, Man, and Cybernetics",
+        "sourceTitle": "IEEE Conference on Systems, Man and Cybernetics",
+        "sourceAcronym": "SMC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigspatial": {
+        "sourceRecordId": "22",
+        "catalogTitle": "ACM Special Interest Group on Spatial Information",
+        "sourceTitle": "ACM International Conference on Advances in Geographic Information Systems",
+        "sourceAcronym": "SIGSPATIAL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "acm-sigops-atc": {
+        "sourceRecordId": "1838",
+        "catalogTitle": "ACM SIGOPS Annual Technical Conference",
+        "sourceTitle": "Usenix Annual Technical Conference",
+        "sourceAcronym": "USENIX",
+        "reason": "CCF 目录的 aliases 明确包含 USENIX ATC/USENIX Annual Technical Conference；ICORE2026 保留旧名称 USENIX。"
+      },
+      "hot-chips": {
+        "sourceRecordId": "2033",
+        "catalogTitle": "Hot Chips: A Symposium on High Performance Chips",
+        "sourceTitle": "Symposium on High Performance Chips",
+        "sourceAcronym": "HOTCHIPS (HCS)",
+        "reason": "已按会议全称复核简称/历史名称变体；不使用 CCF 分级推导。"
+      },
+      "csfw": {
+        "sourceRecordId": "599",
+        "catalogTitle": "IEEE Computer Security Foundations Workshop",
+        "sourceTitle": "IEEE Computer Security Foundations Symposium (was CSFW)",
+        "sourceAcronym": "CSF",
+        "reason": "CORE 原条目 IEEE Computer Security Foundations Symposium 明确写明 was CSFW。"
+      },
+      "wicsa": {
+        "sourceRecordId": "791",
+        "catalogTitle": "Working IEEE/IFIP Conference on Software Architecture",
+        "sourceTitle": "International Conference on Software Architecture (was previously WICSA)",
+        "sourceAcronym": "ICSA",
+        "reason": "CORE 原条目 International Conference on Software Architecture 明确写明 was previously WICSA。"
+      },
+      "sigkdd": {
+        "sourceRecordId": "26",
+        "catalogTitle": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+        "sourceTitle": "ACM International Conference on Knowledge Discovery and Data Mining",
+        "sourceAcronym": "KDD",
+        "reason": "已按会议全称复核简称/历史名称变体；不使用 CCF 分级推导。"
+      },
+      "i3d": {
+        "sourceRecordId": "85",
+        "catalogTitle": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+        "sourceTitle": "ACM-SIGRAPH Interactive 3D Graphics and Games",
+        "sourceAcronym": "I3DG",
+        "reason": "已按会议全称复核简称/历史名称变体；不使用 CCF 分级推导。"
+      },
+      "ieee-cec": {
+        "sourceRecordId": "2061",
+        "catalogTitle": "Congress on Evolutionary Computation",
+        "sourceTitle": "IEEE Congress on Evolutionary Computation",
+        "sourceAcronym": "CEC",
+        "reason": "已按会议全称复核简称/历史名称变体；不使用 CCF 分级推导。"
+      },
+      "sec-security": {
+        "sourceRecordId": "804",
+        "catalogTitle": "IFIP International Information Security Conference",
+        "sourceTitle": "IFIP Information Security & Privacy Conference",
+        "sourceAcronym": "IFIP SEC",
+        "reason": "按 IFIP 主办方、信息安全会议全称与 IFIP SEC 简称复核；排除同简称的 Edge Computing（CORE条目2246）。"
+      }
+    },
+    "thcpl": {
+      "hpca": {
+        "sourceRecordId": "thcpl-p2-A-5",
+        "catalogTitle": "IEEE International Symposium on High Performance Computer Architecture",
+        "sourceTitle": "International Symposium on High-Performance Computer Architecture",
+        "sourceAcronym": "HPCA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "acm-sigops-atc": {
+        "sourceRecordId": "thcpl-p2-A-8",
+        "catalogTitle": "ACM SIGOPS Annual Technical Conference",
+        "sourceTitle": "USENIX Annul Technical Conference",
+        "sourceAcronym": "USENIX ATC",
+        "reason": "CCF 目录的 aliases 明确包含 USENIX ATC/USENIX Annual Technical Conference；TH-CPL 2019 保留旧名称 USENIX ATC。"
+      },
+      "hpdc": {
+        "sourceRecordId": "thcpl-p2-B-1",
+        "catalogTitle": "The International ACM Symposium on High-Performance Parallel and Distributed Computing",
+        "sourceTitle": "International Symposium on High Performance Distributed Computing",
+        "sourceAcronym": "HPDC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cgo": {
+        "sourceRecordId": "thcpl-p2-B-5",
+        "catalogTitle": "The International Symposium on Code Generation and Optimization",
+        "sourceTitle": "ACM/IEEE International Symposium on Code Generation and Optimization",
+        "sourceAcronym": "CGO",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "date": {
+        "sourceRecordId": "thcpl-p2-B-12",
+        "catalogTitle": "Design, Automation & Test in Europe",
+        "sourceTitle": "Design, Automation & Test in Europe Conference",
+        "sourceAcronym": "DATE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icdcs": {
+        "sourceRecordId": "thcpl-p2-B-15",
+        "catalogTitle": "IEEE International Conference on Distributed Computing Systems",
+        "sourceTitle": "International Conference on Distributed Computing Systems",
+        "sourceAcronym": "ICDCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ipdps": {
+        "sourceRecordId": "thcpl-p2-B-10",
+        "catalogTitle": "IEEE International Parallel & Distributed Processing Symposium",
+        "sourceTitle": "International Parallel & Distributed Processing Symposium",
+        "sourceAcronym": "IPDPS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "rtas": {
+        "sourceRecordId": "thcpl-p2-B-3",
+        "catalogTitle": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+        "sourceTitle": "Real-Time and Embedded Technology and Applications Symposium",
+        "sourceAcronym": "RTAS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iscas": {
+        "sourceRecordId": "thcpl-p3-B-25",
+        "catalogTitle": "IEEE International Symposium on Circuits and Systems",
+        "sourceTitle": "International Symposium on Circuits and Systems",
+        "sourceAcronym": "ISCAS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigcomm": {
+        "sourceRecordId": "thcpl-p3-A-1",
+        "catalogTitle": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+        "sourceTitle": "ACM International Conference on the applications, technologies, architectures, and protocols for computer communication",
+        "sourceAcronym": "SIGCOMM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "secon": {
+        "sourceRecordId": "thcpl-p4-B-6",
+        "catalogTitle": "IEEE International Conference on Sensing, Communication, and Networking",
+        "sourceTitle": "IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks",
+        "sourceAcronym": "SECON",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobisys": {
+        "sourceRecordId": "thcpl-p4-A-4",
+        "catalogTitle": "ACM International Conference on Mobile Systems, Applications, and Services",
+        "sourceTitle": "International Conference on Mobile Systems, Applications, and Services",
+        "sourceAcronym": "MobiSys",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icnp": {
+        "sourceRecordId": "thcpl-p4-A-10",
+        "catalogTitle": "IEEE International Conference on Network Protocols",
+        "sourceTitle": "International Conference on Network Protocols",
+        "sourceAcronym": "ICNP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobihoc": {
+        "sourceRecordId": "thcpl-p4-B-1",
+        "catalogTitle": "International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",
+        "sourceTitle": "International Symposium on Mobile Ad Hoc Networking and Computing",
+        "sourceAcronym": "MobiHoc",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "iwqos": {
+        "sourceRecordId": "thcpl-p4-B-11",
+        "catalogTitle": "IEEE/ACM International Workshop on Quality of Service",
+        "sourceTitle": "International Workshop on Quality of Service",
+        "sourceAcronym": "IWQoS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "imc": {
+        "sourceRecordId": "thcpl-p4-A-5",
+        "catalogTitle": "ACM Internet Measurement Conference",
+        "sourceTitle": "Internet Measurement Conference",
+        "sourceAcronym": "IMC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ancs": {
+        "sourceRecordId": "thcpl-p4-B-10",
+        "catalogTitle": "ACM/IEEE Symposium on Architectures for Networking and Communication Systems",
+        "sourceTitle": "Architectures for Networking and Communications Systems",
+        "sourceAcronym": "ANCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "hotnets": {
+        "sourceRecordId": "thcpl-p4-B-2",
+        "catalogTitle": "ACM The Workshop on Hot Topics in Networks",
+        "sourceTitle": "The Workshop on Hot Topics in Networks",
+        "sourceAcronym": "HotNets",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "eurocrypt": {
+        "sourceRecordId": "thcpl-p5-A-5",
+        "catalogTitle": "International Conference on the Theory and Applications of Cryptographic Techniques",
+        "sourceTitle": "European Cryptology Conference",
+        "sourceAcronym": "EUROCRYPT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ndss": {
+        "sourceRecordId": "thcpl-p5-A-2",
+        "catalogTitle": "Network and Distributed System Security Symposium",
+        "sourceTitle": "ISOC Network and Distributed System Security Symposium",
+        "sourceAcronym": "NDSS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "asiacrypt": {
+        "sourceRecordId": "thcpl-p5-A-8",
+        "catalogTitle": "Annual International Conference on the Theory and Application of Cryptology and Information Security",
+        "sourceTitle": "International Conference on the Theory and Application of Cryptology and Information Security",
+        "sourceAcronym": "ASIACRYPT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dsn": {
+        "sourceRecordId": "thcpl-p6-B-10",
+        "catalogTitle": "International Conference on Dependable Systems and Networks",
+        "sourceTitle": "The International Conference on Dependable Systems and Networks",
+        "sourceAcronym": "DSN",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "acns": {
+        "sourceRecordId": "thcpl-p6-B-19",
+        "catalogTitle": "International Conference on Applied Cryptography and Network Security",
+        "sourceTitle": "Applied Cryptography and Network Security",
+        "sourceAcronym": "ACNS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "asiaccs": {
+        "sourceRecordId": "thcpl-p6-B-17",
+        "catalogTitle": "ACM Asia Conference on Computer and Communications Security",
+        "sourceTitle": "Asia Conference on Computer and Communications Security",
+        "sourceAcronym": "AsiaCCS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ct-rsa": {
+        "sourceRecordId": "thcpl-p6-B-13",
+        "catalogTitle": "The Cryptographer's Track at RSA Conference",
+        "sourceTitle": "Cryptographer's Track at RSA Conference",
+        "sourceAcronym": "CT-RSA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dimva": {
+        "sourceRecordId": "thcpl-p6-B-6",
+        "catalogTitle": "Conference on Detection of Intrusions and Malware & Vulnerability Assessment",
+        "sourceTitle": "Detection of Intrusions and Malware & Vulnerability Assessment",
+        "sourceAcronym": "DIMVA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pam": {
+        "sourceRecordId": "thcpl-p6-B-15",
+        "catalogTitle": "Passive and Active Measurement Conference",
+        "sourceTitle": "Passive and Active Network Measurement Conference",
+        "sourceAcronym": "PAM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fse-software": {
+        "sourceRecordId": "thcpl-p8-A-6",
+        "catalogTitle": "ACM International Conference on the Foundations of Software Engineering",
+        "sourceTitle": "ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference",
+        "sourceAcronym": "FSE/ESEC",
+        "reason": "全称对应软件工程 FSE/ESEC，明确排除网络安全领域 Fast Software Encryption（FSE）同名简称。"
+      },
+      "osdi": {
+        "sourceRecordId": "thcpl-p8-A-1",
+        "catalogTitle": "USENIX Symposium on Operating Systems Design and Implementation",
+        "sourceTitle": "USENIX Symposium on Operating Systems Design and Implementations",
+        "sourceAcronym": "OSDI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "re": {
+        "sourceRecordId": "thcpl-p9-B-11",
+        "catalogTitle": "IEEE International Requirements Engineering Conference",
+        "sourceTitle": "IEEE International Requirement Engineering Conference",
+        "sourceAcronym": "RE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icfp": {
+        "sourceRecordId": "thcpl-p9-B-10",
+        "catalogTitle": "ACM SIGPLAN International Conference on Function Programming",
+        "sourceTitle": "International Conference on Function Programming",
+        "sourceAcronym": "ICFP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "models": {
+        "sourceRecordId": "thcpl-p9-B-17",
+        "catalogTitle": "ACM/IEEE International Conference on Model Driven Engineering Languages and Systems",
+        "sourceTitle": "International Conference on Model Driven Engineering Languages and Systems",
+        "sourceAcronym": "MoDELS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "saner": {
+        "sourceRecordId": "thcpl-p8-B-2",
+        "catalogTitle": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "sourceTitle": "International Conference on Software Analysis, Evolution, and Reengineering",
+        "sourceAcronym": "SANER",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icws": {
+        "sourceRecordId": "thcpl-p9-B-22",
+        "catalogTitle": "IEEE International Conference on Web Services",
+        "sourceTitle": "International Conference on Web Services（Research Track）",
+        "sourceAcronym": "ICWS",
+        "reason": "同一会议及简称；TH-CPL 原条目明确限 Research Track，需保留该范围。"
+      },
+      "issre": {
+        "sourceRecordId": "thcpl-p9-B-16",
+        "catalogTitle": "IEEE International Symposium on Software Reliability Engineering",
+        "sourceTitle": "International Symposium on Software Reliability Engineering",
+        "sourceAcronym": "ISSRE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ease": {
+        "sourceRecordId": "thcpl-p8-B-4",
+        "catalogTitle": "International Conference on Evaluation and Assessment in Software Engineering",
+        "sourceTitle": "Evaluation and Assessment in Software Engineering",
+        "sourceAcronym": "EASE",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigmod": {
+        "sourceRecordId": "thcpl-p10-A-1",
+        "catalogTitle": "ACM SIGMOD Conference",
+        "sourceTitle": "ACM Conference on Management of Data",
+        "sourceAcronym": "SIGMOD",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigkdd": {
+        "sourceRecordId": "thcpl-p10-A-2",
+        "catalogTitle": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+        "sourceTitle": "ACM Knowledge Discovery and Data Mining",
+        "sourceAcronym": "SIGKDD",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sigir": {
+        "sourceRecordId": "thcpl-p10-A-3",
+        "catalogTitle": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "sourceTitle": "International Conference on Research on Development in Information Retrieval",
+        "sourceAcronym": "SIGIR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pods": {
+        "sourceRecordId": "thcpl-p10-A-7",
+        "catalogTitle": "ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems",
+        "sourceTitle": "ACM Symposium on Principles of Database Systems",
+        "sourceAcronym": "PODS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dasfaa": {
+        "sourceRecordId": "thcpl-p10-B-9",
+        "catalogTitle": "International Conference on Database Systems for Advanced Applications",
+        "sourceTitle": "Database Systems for Advanced Applications",
+        "sourceAcronym": "DASFAA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icdm": {
+        "sourceRecordId": "thcpl-p10-B-5",
+        "catalogTitle": "IEEE International Conference on Data Mining",
+        "sourceTitle": "International Conference on Data Mining",
+        "sourceAcronym": "ICDM",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cidr": {
+        "sourceRecordId": "thcpl-p10-B-8",
+        "catalogTitle": "Conference on Innovative Data Systems Research",
+        "sourceTitle": "International Conference on Innovative Data Systems Research",
+        "sourceAcronym": "CIDR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "recsys": {
+        "sourceRecordId": "thcpl-p12-B-17",
+        "catalogTitle": "ACM Conference on Recommender Systems",
+        "sourceTitle": "Conference on Recommender Systems",
+        "sourceAcronym": "RecSys",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ecir": {
+        "sourceRecordId": "thcpl-p10-B-6",
+        "catalogTitle": "European Conference on Information Retrieval",
+        "sourceTitle": "European Conference on IR Research",
+        "sourceAcronym": "ECIR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cav": {
+        "sourceRecordId": "thcpl-p7-A-4",
+        "catalogTitle": "International Conference on Computer Aided Verification",
+        "sourceTitle": "Computer Aided Verification",
+        "sourceAcronym": "CAV",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "lics": {
+        "sourceRecordId": "thcpl-p7-A-5",
+        "catalogTitle": "ACM/IEEE Symposium on Logic in Computer Science",
+        "sourceTitle": "IEEE Symposium on Logic in Computer Science",
+        "sourceAcronym": "LICS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "socg": {
+        "sourceRecordId": "thcpl-p7-B-3",
+        "catalogTitle": "International Symposium on Computational Geometry",
+        "sourceTitle": "ACM Symposium on Computational Geometry",
+        "sourceAcronym": "SoCG",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ccc": {
+        "sourceRecordId": "thcpl-p7-A-6",
+        "catalogTitle": "Conference on Computational Complexity",
+        "sourceTitle": "IEEE Conference on Computational Complexity",
+        "sourceAcronym": "CCC",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sat": {
+        "sourceRecordId": "thcpl-p7-B-1",
+        "catalogTitle": "International Conference on Theory and Applications of Satisfiability Testing",
+        "sourceTitle": "Theory and Applications of Satisfiability Testing",
+        "sourceAcronym": "SAT",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "siggraph": {
+        "sourceRecordId": "thcpl-p13-A-1",
+        "catalogTitle": "ACM Special Interest Group on Computer Graphics",
+        "sourceTitle": "ACM SIGGRAPH Annual Conference",
+        "sourceAcronym": "SIGGRAPH",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "vr": {
+        "sourceRecordId": "thcpl-p14-A-4",
+        "catalogTitle": "IEEE Conference on Virtual Reality and 3D User Interfaces （原 IEEE Virtual Reality）",
+        "sourceTitle": "IEEE Virtual Reality",
+        "sourceAcronym": "VR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "sca": {
+        "sourceRecordId": "thcpl-p14-B-6",
+        "catalogTitle": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
+        "sourceTitle": "ACM/Eurographics Symposium on Computer Animation",
+        "sourceAcronym": "SCA",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icassp": {
+        "sourceRecordId": "thcpl-p14-B-8",
+        "catalogTitle": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+        "sourceTitle": "IEEE International Conference on Acoustics, Speech and SP",
+        "sourceAcronym": "ICASSP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "pg": {
+        "sourceRecordId": "thcpl-p14-B-13",
+        "catalogTitle": "Pacific Conference on Computer Graphics and Applications",
+        "sourceTitle": "Pacific Graphics: The Pacific Conference on Computer Graphics and Applications",
+        "sourceAcronym": "PG",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "icip": {
+        "sourceRecordId": "thcpl-p14-B-10",
+        "catalogTitle": "IEEE International Conference on Image Processing",
+        "sourceTitle": "International Conference on Image Processing",
+        "sourceAcronym": "ICIP",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "neurips": {
+        "sourceRecordId": "thcpl-p11-A-7",
+        "catalogTitle": "Conference on Neural Information Processing Systems",
+        "sourceTitle": "Annual Conference on Neural Information Processing Systems",
+        "sourceAcronym": "NeurIPS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cvpr": {
+        "sourceRecordId": "thcpl-p11-A-1",
+        "catalogTitle": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+        "sourceTitle": "IEEE Conference on Computer Vision and Pattern Recognition",
+        "sourceAcronym": "CVPR",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "uai": {
+        "sourceRecordId": "thcpl-p12-B-15",
+        "catalogTitle": "Conference on Uncertainty in Artificial Intelligence",
+        "sourceTitle": "International Conference on Uncertainty in Artificial Intelligence",
+        "sourceAcronym": "UAI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "naacl": {
+        "sourceRecordId": "thcpl-p12-B-3",
+        "catalogTitle": "North American Chapter of the Association for Computational Linguistics",
+        "sourceTitle": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+        "sourceAcronym": "NAACL",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "aistats": {
+        "sourceRecordId": "thcpl-p12-B-2",
+        "catalogTitle": "International Conference on Artificial Intelligence and Statistics",
+        "sourceTitle": "Artificial Intelligence and Statistics",
+        "sourceAcronym": "AISTATS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "fg": {
+        "sourceRecordId": "thcpl-p12-B-10",
+        "catalogTitle": "IEEE International Conference on Automatic Face and Gesture Recognition",
+        "sourceTitle": "International Conference on Automatic Face and Gesture Recognition",
+        "sourceAcronym": "FG",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "ubicomp": {
+        "sourceRecordId": "thcpl-p15-A-2",
+        "catalogTitle": "ACM international joint conference on Pervasive and Ubiquitous Computing",
+        "sourceTitle": "ACM International Conference on Ubiquitous Computing",
+        "sourceAcronym": "UbiComp",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "mobilehci": {
+        "sourceRecordId": "thcpl-p15-B-3",
+        "catalogTitle": "ACM International Conference on Mobile Human-Computer Interaction",
+        "sourceTitle": "International Conference on Human Computer Interaction with Mobile Devices and Services",
+        "sourceAcronym": "MobileHCI",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "dis": {
+        "sourceRecordId": "thcpl-p15-B-4",
+        "catalogTitle": "ACM SIGCHI Conference on Designing Interactive Systems",
+        "sourceTitle": "ACM Conference on Designing Interactive Systems",
+        "sourceAcronym": "DIS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "www": {
+        "sourceRecordId": "thcpl-p16-A-3",
+        "catalogTitle": "The Web Conference （原 International World Wide Web Conference）",
+        "sourceTitle": "International World Wide Web Conferences",
+        "sourceAcronym": "WWW",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "rtss": {
+        "sourceRecordId": "thcpl-p3-B-23",
+        "catalogTitle": "IEEE Real-Time Systems Symposium",
+        "sourceTitle": "Real-Time Systems Symposium",
+        "sourceAcronym": "RTSS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "recomb": {
+        "sourceRecordId": "thcpl-p16-A-1",
+        "catalogTitle": "Annual International Conference on Research in Computational Molecular Biology",
+        "sourceTitle": "International Conference on Research in Computational Molecular Biology",
+        "sourceAcronym": "RECOMB",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "rss": {
+        "sourceRecordId": "thcpl-p11-A-12",
+        "catalogTitle": "Robotics: Science and Systems",
+        "sourceTitle": "Robotics: Science and Systems · A Robotics Conference",
+        "sourceAcronym": "RSS",
+        "reason": "已复核简称与全称；差异为主办方、标点、拼写、会议名称变体或官方条目列出的历史名称。"
+      },
+      "cade": {
+        "sourceRecordId": "thcpl-p7-B-2",
+        "catalogTitle": "Conference on Automated Deduction",
+        "sourceTitle": "International Conference on Automated Deduction/International Joint Conference on Automated Reasoning",
+        "sourceAcronym": "CADE/IJCAR",
+        "reason": "TH-CPL 原行合并列出 CADE/IJCAR；本目录 CADE 匹配其中 Conference on Automated Deduction 部分。"
+      },
+      "eurographics": {
+        "sourceRecordId": "thcpl-p14-B-4",
+        "catalogTitle": "Annual Conference of the European Association for Computer Graphics",
+        "sourceTitle": "Eurographics",
+        "sourceAcronym": "EG",
+        "reason": "已按会议全称复核简称/历史名称变体；不使用 CCF 分级推导。"
+      },
+      "i3d": {
+        "sourceRecordId": "thcpl-p14-B-11",
+        "catalogTitle": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+        "sourceTitle": "ACM Symposium on Interactive 3D Graphics",
+        "sourceAcronym": "SI3D",
+        "reason": "已按会议全称复核简称/历史名称变体；不使用 CCF 分级推导。"
+      }
+    }
+  }
+}

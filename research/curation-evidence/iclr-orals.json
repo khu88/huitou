@@ -1,0 +1,854 @@
+[
+  [
+    "Variational Diffusion Posterior Sampling with Midpoint Guidance",
+    "/virtual/2025/oral/31916"
+  ],
+  [
+    "Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning",
+    "/virtual/2025/oral/31924"
+  ],
+  [
+    "A Probabilistic Perspective on Unlearning and Alignment for Large Language Models",
+    "/virtual/2025/oral/31921"
+  ],
+  [
+    "Wide Neural Networks Trained with Weight Decay Provably Exhibit Neural Collapse",
+    "/virtual/2025/oral/31931"
+  ],
+  [
+    "Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series",
+    "/virtual/2025/oral/31909"
+  ],
+  [
+    "Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning",
+    "/virtual/2025/oral/31928"
+  ],
+  [
+    "Oscillatory State-Space Models",
+    "/virtual/2025/oral/31880"
+  ],
+  [
+    "MIND over Body: Adaptive Thinking using Dynamic Computation",
+    "/virtual/2025/oral/31891"
+  ],
+  [
+    "Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs",
+    "/virtual/2025/oral/31888"
+  ],
+  [
+    "Exploring The Loss Landscape Of Regularized Neural Networks Via Convex Duality",
+    "/virtual/2025/oral/31922"
+  ],
+  [
+    "Safety Alignment Should be Made More Than Just a Few Tokens Deep",
+    "/virtual/2025/oral/31915"
+  ],
+  [
+    "Progressive Compression with Universally Quantized Diffusion Models",
+    "/virtual/2025/oral/31897"
+  ],
+  [
+    "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues",
+    "/virtual/2025/oral/31836"
+  ],
+  [
+    "BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models",
+    "/virtual/2025/oral/31805"
+  ],
+  [
+    "Backtracking Improves Generation Safety",
+    "/virtual/2025/oral/31902"
+  ],
+  [
+    "Global Convergence in Neural ODEs: Impact of Activation Functions",
+    "/virtual/2025/oral/31904"
+  ],
+  [
+    "Influence Functions for Scalable Data Attribution in Diffusion Models",
+    "/virtual/2025/oral/31807"
+  ],
+  [
+    "Inference Scaling for Long-Context Retrieval Augmented Generation",
+    "/virtual/2025/oral/31886"
+  ],
+  [
+    "On the Role of Attention Heads in Large Language Model Safety",
+    "/virtual/2025/oral/31798"
+  ],
+  [
+    "Improving Probabilistic Diffusion Models With Optimal Diagonal Covariance Matching",
+    "/virtual/2025/oral/31803"
+  ],
+  [
+    "miniCTX: Neural Theorem Proving with (Long-)Contexts",
+    "/virtual/2025/oral/31870"
+  ],
+  [
+    "Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning",
+    "/virtual/2025/oral/31799"
+  ],
+  [
+    "KAN: Kolmogorov–Arnold Networks",
+    "/virtual/2025/oral/31858"
+  ],
+  [
+    "Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport",
+    "/virtual/2025/oral/31800"
+  ],
+  [
+    "Artificial Kuramoto Oscillatory Neurons",
+    "/virtual/2025/oral/31776"
+  ],
+  [
+    "FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference",
+    "/virtual/2025/oral/31861"
+  ],
+  [
+    "Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation",
+    "/virtual/2025/oral/31754"
+  ],
+  [
+    "Feedback Schrödinger Bridge Matching",
+    "/virtual/2025/oral/31787"
+  ],
+  [
+    "Feedback Favors the Generalization of Neural ODEs",
+    "/virtual/2025/oral/31813"
+  ],
+  [
+    "Training on the Test Task Confounds Evaluation and Emergence",
+    "/virtual/2025/oral/31791"
+  ],
+  [
+    "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+    "/virtual/2025/oral/32124"
+  ],
+  [
+    "Learning to Discretize Denoising Diffusion ODEs",
+    "/virtual/2025/oral/31735"
+  ],
+  [
+    "On the Benefits of Memory for Modeling Time-Dependent PDEs",
+    "/virtual/2025/oral/31772"
+  ],
+  [
+    "Scaling Laws for Precision",
+    "/virtual/2025/oral/31737"
+  ],
+  [
+    "WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct",
+    "/virtual/2025/oral/31781"
+  ],
+  [
+    "TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation",
+    "/virtual/2025/oral/32126"
+  ],
+  [
+    "ProtComposer: Compositional Protein Structure Generation with 3D Ellipsoids",
+    "/virtual/2025/oral/31933"
+  ],
+  [
+    "NeuralPlane: Structured 3D Reconstruction in Planar Primitives with Neural Fields",
+    "/virtual/2025/oral/31917"
+  ],
+  [
+    "A Theoretically-Principled Sparse, Connected, and Rigid Graph Representation of Molecules",
+    "/virtual/2025/oral/31862"
+  ],
+  [
+    "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+    "/virtual/2025/oral/31914"
+  ],
+  [
+    "Prioritized Generative Replay",
+    "/virtual/2025/oral/31920"
+  ],
+  [
+    "Flat Reward in Policy Parameter Space Implies Robust Reinforcement Learning",
+    "/virtual/2025/oral/31923"
+  ],
+  [
+    "MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions",
+    "/virtual/2025/oral/31882"
+  ],
+  [
+    "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+    "/virtual/2025/oral/31896"
+  ],
+  [
+    "TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes",
+    "/virtual/2025/oral/31910"
+  ],
+  [
+    "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design",
+    "/virtual/2025/oral/31869"
+  ],
+  [
+    "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation",
+    "/virtual/2025/oral/31790"
+  ],
+  [
+    "DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications for Multi-Task RL",
+    "/virtual/2025/oral/31907"
+  ],
+  [
+    "Towards a Complete Logical Framework for GNN Expressiveness",
+    "/virtual/2025/oral/31767"
+  ],
+  [
+    "Simplifying, Stabilizing and Scaling Continuous-time Consistency Models",
+    "/virtual/2025/oral/31868"
+  ],
+  [
+    "Geometry of Neural Reinforcement Learning in Continuous State and Action Spaces",
+    "/virtual/2025/oral/31905"
+  ],
+  [
+    "High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation",
+    "/virtual/2025/oral/31898"
+  ],
+  [
+    "ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials",
+    "/virtual/2025/oral/31845"
+  ],
+  [
+    "MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models",
+    "/virtual/2025/oral/31877"
+  ],
+  [
+    "Interpreting Emergent Planning in Model-Free Reinforcement Learning",
+    "/virtual/2025/oral/31895"
+  ],
+  [
+    "One Step Diffusion via Shortcut Models",
+    "/virtual/2025/oral/31860"
+  ],
+  [
+    "Rethinking the generalization of drug target affinity prediction algorithms via similarity aware evaluation",
+    "/virtual/2025/oral/31792"
+  ],
+  [
+    "Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping",
+    "/virtual/2025/oral/31828"
+  ],
+  [
+    "Homomorphism Expressivity of Spectral Invariant Graph Neural Networks",
+    "/virtual/2025/oral/31764"
+  ],
+  [
+    "Residual Deep Gaussian Processes on Manifolds",
+    "/virtual/2025/oral/31871"
+  ],
+  [
+    "PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding",
+    "/virtual/2025/oral/32125"
+  ],
+  [
+    "No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images",
+    "/virtual/2025/oral/31857"
+  ],
+  [
+    "Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models",
+    "/virtual/2025/oral/31749"
+  ],
+  [
+    "PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration",
+    "/virtual/2025/oral/31765"
+  ],
+  [
+    "Robustness Inspired Graph Backdoor Defense",
+    "/virtual/2025/oral/31750"
+  ],
+  [
+    "Learning to Search from Demonstration Sequences",
+    "/virtual/2025/oral/31744"
+  ],
+  [
+    "Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models",
+    "/virtual/2025/oral/31747"
+  ],
+  [
+    "Open-World Reinforcement Learning over Long Short-Term Imagination",
+    "/virtual/2025/oral/31740"
+  ],
+  [
+    "Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport",
+    "/virtual/2025/oral/31748"
+  ],
+  [
+    "On Scaling Up 3D Gaussian Splatting Training",
+    "/virtual/2025/oral/31768"
+  ],
+  [
+    "Joint Graph Rewiring and Feature Denoising via Spectral Resonance",
+    "/virtual/2025/oral/31730"
+  ],
+  [
+    "Learning to Discover Regulatory Elements for Gene Expression Prediction",
+    "/virtual/2025/oral/31867"
+  ],
+  [
+    "Retrieval Head Mechanistically Explains Long-Context Factuality",
+    "/virtual/2025/oral/31890"
+  ],
+  [
+    "SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning",
+    "/virtual/2025/oral/31918"
+  ],
+  [
+    "MAP: Multi-Human-Value Alignment Palette",
+    "/virtual/2025/oral/31865"
+  ],
+  [
+    "Restructuring Vector Quantization with the Rotation Trick",
+    "/virtual/2025/oral/31881"
+  ],
+  [
+    "TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis",
+    "/virtual/2025/oral/31932"
+  ],
+  [
+    "HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models",
+    "/virtual/2025/oral/31839"
+  ],
+  [
+    "Steering Protein Family Design through Profile Bayesian Flow",
+    "/virtual/2025/oral/31854"
+  ],
+  [
+    "STAR: Synthesis of Tailored Architectures",
+    "/virtual/2025/oral/31876"
+  ],
+  [
+    "REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments",
+    "/virtual/2025/oral/31863"
+  ],
+  [
+    "RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything",
+    "/virtual/2025/oral/31929"
+  ],
+  [
+    "Limits to scalable evaluation at the frontier: LLM as judge won’t beat twice the data",
+    "/virtual/2025/oral/31864"
+  ],
+  [
+    "Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement",
+    "/virtual/2025/oral/31838"
+  ],
+  [
+    "Differential Transformer",
+    "/virtual/2025/oral/31859"
+  ],
+  [
+    "Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation",
+    "/virtual/2025/oral/31900"
+  ],
+  [
+    "SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers",
+    "/virtual/2025/oral/31866"
+  ],
+  [
+    "Proteina: Scaling Flow-based Protein Structure Generative Models",
+    "/virtual/2025/oral/31840"
+  ],
+  [
+    "LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization",
+    "/virtual/2025/oral/31833"
+  ],
+  [
+    "LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias",
+    "/virtual/2025/oral/31849"
+  ],
+  [
+    "AI as Humanity’s Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text",
+    "/virtual/2025/oral/31794"
+  ],
+  [
+    "SAM 2: Segment Anything in Images and Videos",
+    "/virtual/2025/oral/31878"
+  ],
+  [
+    "Latent Bayesian Optimization via Autoregressive Normalizing Flows",
+    "/virtual/2025/oral/31820"
+  ],
+  [
+    "Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance",
+    "/virtual/2025/oral/31843"
+  ],
+  [
+    "LaMPlace: Learning to Optimize Cross-Stage Metrics in Macro Placement",
+    "/virtual/2025/oral/31823"
+  ],
+  [
+    "Composing Unbalanced Flows for Flexible Docking and Relaxation",
+    "/virtual/2025/oral/31801"
+  ],
+  [
+    "LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior",
+    "/virtual/2025/oral/31829"
+  ],
+  [
+    "EmbodiedSAM: Online Segment Any 3D Thing in Real Time",
+    "/virtual/2025/oral/31827"
+  ],
+  [
+    "Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models",
+    "/virtual/2025/oral/31832"
+  ],
+  [
+    "Consistency Checks for Language Model Forecasters",
+    "/virtual/2025/oral/31766"
+  ],
+  [
+    "DSPO: Direct Score Preference Optimization for Diffusion Model Alignment",
+    "/virtual/2025/oral/32121"
+  ],
+  [
+    "Scaling and evaluating sparse autoencoders",
+    "/virtual/2025/oral/31752"
+  ],
+  [
+    "MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection",
+    "/virtual/2025/oral/31824"
+  ],
+  [
+    "Probabilistic Learning to Defer: Handling Missing Expert Annotations and Controlling Workload Distribution",
+    "/virtual/2025/oral/31728"
+  ],
+  [
+    "On the Hölder Stability of Multiset and Graph Neural Networks",
+    "/virtual/2025/oral/31856"
+  ],
+  [
+    "Knowing Your Target: Target-Aware Transformer Makes Better Spatio-Temporal Video Grounding",
+    "/virtual/2025/oral/31830"
+  ],
+  [
+    "Synthetic continued pretraining",
+    "/virtual/2025/oral/31934"
+  ],
+  [
+    "More RLHF, More Trust? On The Impact of Preference Alignment On Trustworthiness",
+    "/virtual/2025/oral/31884"
+  ],
+  [
+    "Cut Your Losses in Large-Vocabulary Language Models",
+    "/virtual/2025/oral/31894"
+  ],
+  [
+    "Compositional Entailment Learning for Hyperbolic Vision-Language Models",
+    "/virtual/2025/oral/31925"
+  ],
+  [
+    "Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation",
+    "/virtual/2025/oral/31930"
+  ],
+  [
+    "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions",
+    "/virtual/2025/oral/31850"
+  ],
+  [
+    "Your Mixture-of-Experts LLM Is Secretly an Embedding Model for Free",
+    "/virtual/2025/oral/31810"
+  ],
+  [
+    "Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities",
+    "/virtual/2025/oral/31912"
+  ],
+  [
+    "GridMix: Exploring Spatial Modulation for Neural Fields in PDE Modeling",
+    "/virtual/2025/oral/31883"
+  ],
+  [
+    "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+    "/virtual/2025/oral/31826"
+  ],
+  [
+    "Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse",
+    "/virtual/2025/oral/31873"
+  ],
+  [
+    "Energy-based Backdoor Defense Against Federated Graph Learning",
+    "/virtual/2025/oral/31919"
+  ],
+  [
+    "Topological Blindspots: Understanding and Extending Topological Deep Learning Through the Lens of Expressivity",
+    "/virtual/2025/oral/31889"
+  ],
+  [
+    "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+    "/virtual/2025/oral/31844"
+  ],
+  [
+    "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions",
+    "/virtual/2025/oral/31821"
+  ],
+  [
+    "Problem-Parameter-Free Federated Learning",
+    "/virtual/2025/oral/31819"
+  ],
+  [
+    "Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning",
+    "/virtual/2025/oral/31853"
+  ],
+  [
+    "ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding",
+    "/virtual/2025/oral/31773"
+  ],
+  [
+    "MaestroMotif: Skill Design from Artificial Intelligence Feedback",
+    "/virtual/2025/oral/31770"
+  ],
+  [
+    "Population Transformer: Learning Population-level Representations of Neural Activity",
+    "/virtual/2025/oral/31885"
+  ],
+  [
+    "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models",
+    "/virtual/2025/oral/31782"
+  ],
+  [
+    "RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style",
+    "/virtual/2025/oral/31852"
+  ],
+  [
+    "Subgraph Federated Learning for Local Generalization",
+    "/virtual/2025/oral/31815"
+  ],
+  [
+    "RB-Modulation: Training-Free Stylization using Reference-Based Modulation",
+    "/virtual/2025/oral/31816"
+  ],
+  [
+    "Copyright-Protected Language Generation via Adaptive Model Fusion",
+    "/virtual/2025/oral/31785"
+  ],
+  [
+    "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models",
+    "/virtual/2025/oral/31753"
+  ],
+  [
+    "TopoLM: brain-like spatio-functional organization in a topographic language model",
+    "/virtual/2025/oral/31818"
+  ],
+  [
+    "Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment",
+    "/virtual/2025/oral/31786"
+  ],
+  [
+    "MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts",
+    "/virtual/2025/oral/31757"
+  ],
+  [
+    "REEF: Representation Encoding Fingerprints for Large Language Models",
+    "/virtual/2025/oral/31841"
+  ],
+  [
+    "The Geometry of Categorical and Hierarchical Concepts in Large Language Models",
+    "/virtual/2025/oral/31817"
+  ],
+  [
+    "Capturing the Temporal Dependence of Training Data Influence",
+    "/virtual/2025/oral/31746"
+  ],
+  [
+    "Rethinking Reward Modeling in Preference-based Large Language Model Alignment",
+    "/virtual/2025/oral/31763"
+  ],
+  [
+    "AFlow: Automating Agentic Workflow Generation",
+    "/virtual/2025/oral/31731"
+  ],
+  [
+    "Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model",
+    "/virtual/2025/oral/31775"
+  ],
+  [
+    "OLMoE: Open Mixture-of-Experts Language Models",
+    "/virtual/2025/oral/31734"
+  ],
+  [
+    "Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects",
+    "/virtual/2025/oral/31913"
+  ],
+  [
+    "How much of my dataset did you use? Quantitative Data Usage Inference in Machine Learning",
+    "/virtual/2025/oral/31892"
+  ],
+  [
+    "Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment",
+    "/virtual/2025/oral/31903"
+  ],
+  [
+    "Tight Lower Bounds under Asymmetric High-Order Hölder Smoothness and Uniform Convexity",
+    "/virtual/2025/oral/31804"
+  ],
+  [
+    "Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models",
+    "/virtual/2025/oral/31874"
+  ],
+  [
+    "What should a neuron aim for? Designing local objective functions based on information theory",
+    "/virtual/2025/oral/31901"
+  ],
+  [
+    "A Decade's Battle on Dataset Bias: Are We There Yet?",
+    "/virtual/2025/oral/31842"
+  ],
+  [
+    "Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs",
+    "/virtual/2025/oral/31848"
+  ],
+  [
+    "Proxy Denoising for Source-Free Domain Adaptation",
+    "/virtual/2025/oral/31887"
+  ],
+  [
+    "Second-Order Min-Max Optimization with Lazy Hessians",
+    "/virtual/2025/oral/31795"
+  ],
+  [
+    "Instant Policy: In-Context Imitation Learning via Graph Diffusion",
+    "/virtual/2025/oral/31789"
+  ],
+  [
+    "Unlearning-based Neural Interpretations",
+    "/virtual/2025/oral/31855"
+  ],
+  [
+    "On Conformal Isometry of Grid Cells: Learning Distance-Preserving Position Embedding",
+    "/virtual/2025/oral/31825"
+  ],
+  [
+    "Data Shapley in One Training Run",
+    "/virtual/2025/oral/31879"
+  ],
+  [
+    "Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation",
+    "/virtual/2025/oral/31780"
+  ],
+  [
+    "Can Neural Networks Achieve Optimal Computational-statistical Tradeoff? An Analysis on Single-Index Model",
+    "/virtual/2025/oral/31793"
+  ],
+  [
+    "Language Representations Can be What Recommenders Need: Findings and Potentials",
+    "/virtual/2025/oral/31808"
+  ],
+  [
+    "Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition",
+    "/virtual/2025/oral/31809"
+  ],
+  [
+    "Data Selection via Optimal Control for Language Models",
+    "/virtual/2025/oral/31812"
+  ],
+  [
+    "Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization",
+    "/virtual/2025/oral/31784"
+  ],
+  [
+    "Data Scaling Laws in Imitation Learning for Robotic Manipulation",
+    "/virtual/2025/oral/31769"
+  ],
+  [
+    "Comparing noisy neural population dynamics using optimal transport distances",
+    "/virtual/2025/oral/31814"
+  ],
+  [
+    "DarkBench: Benchmarking Dark Patterns in Large Language Models",
+    "/virtual/2025/oral/31771"
+  ],
+  [
+    "Cross-Entropy Is All You Need To Invert the Data Generating Process",
+    "/virtual/2025/oral/31797"
+  ],
+  [
+    "Diffusion-Based Planning for Autonomous Driving with Flexible Guidance",
+    "/virtual/2025/oral/31739"
+  ],
+  [
+    "Linear Representations of Political Perspective Emerge in Large Language Models",
+    "/virtual/2025/oral/31762"
+  ],
+  [
+    "Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent",
+    "/virtual/2025/oral/31761"
+  ],
+  [
+    "Combatting Dimensional Collapse in LLM Pre-Training Data via Submodular File Selection",
+    "/virtual/2025/oral/31806"
+  ],
+  [
+    "A Computational Framework for Modeling Emergence of Color Vision in the Human Brain",
+    "/virtual/2025/oral/31802"
+  ],
+  [
+    "Can a MISL Fly? Analysis and Ingredients for Mutual Information Skill Learning",
+    "/virtual/2025/oral/31733"
+  ],
+  [
+    "Classic but Everlasting: Traditional Gradient-Based Algorithms Converges Fast Even in Time-Varying Multi-Player Games",
+    "/virtual/2025/oral/31756"
+  ],
+  [
+    "Do as We Do, Not as You Think: the Conformity of Large Language Models",
+    "/virtual/2025/oral/31760"
+  ],
+  [
+    "DEPT: Decoupled Embeddings for Pre-training Language Models",
+    "/virtual/2025/oral/31742"
+  ],
+  [
+    "Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks",
+    "/virtual/2025/oral/31729"
+  ],
+  [
+    "Learning and aligning single-neuron invariance manifolds in visual cortex",
+    "/virtual/2025/oral/31783"
+  ],
+  [
+    "Accelerated training through iterative gradient propagation along the residual path",
+    "/virtual/2025/oral/31872"
+  ],
+  [
+    "OptionZero: Planning with Learned Options",
+    "/virtual/2025/oral/31926"
+  ],
+  [
+    "SymmetricDiffusers: Learning Discrete Diffusion Models over Finite Symmetric Groups",
+    "/virtual/2025/oral/31893"
+  ],
+  [
+    "MoDeGPT: Modular Decomposition for Large Language Model Compression",
+    "/virtual/2025/oral/31911"
+  ],
+  [
+    "On the Identification of Temporal Causal Representation with Instantaneous Dependence",
+    "/virtual/2025/oral/31927"
+  ],
+  [
+    "Training Language Models to Self-Correct via Reinforcement Learning",
+    "/virtual/2025/oral/31899"
+  ],
+  [
+    "Generator Matching: Generative modeling with arbitrary Markov processes",
+    "/virtual/2025/oral/31846"
+  ],
+  [
+    "The Complexity of Two-Team Polymatrix Games with Independent Adversaries",
+    "/virtual/2025/oral/31908"
+  ],
+  [
+    "AlphaEdit: Null-Space Constrained Model Editing for Language Models",
+    "/virtual/2025/oral/31875"
+  ],
+  [
+    "Reasoning Elicitation in Language Models via Counterfactual Feedback",
+    "/virtual/2025/oral/31834"
+  ],
+  [
+    "The Hidden Cost of Waiting for Accurate Predictions",
+    "/virtual/2025/oral/31906"
+  ],
+  [
+    "Learning Randomized Algorithms with Transformers",
+    "/virtual/2025/oral/31837"
+  ],
+  [
+    "Advantage Alignment Algorithms",
+    "/virtual/2025/oral/31851"
+  ],
+  [
+    "Attention as a Hypernetwork",
+    "/virtual/2025/oral/31835"
+  ],
+  [
+    "Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery",
+    "/virtual/2025/oral/31788"
+  ],
+  [
+    "Self-Improvement in Language Models: The Sharpening Mechanism",
+    "/virtual/2025/oral/31831"
+  ],
+  [
+    "Emergence of meta-stable clustering in mean-field transformer models",
+    "/virtual/2025/oral/31811"
+  ],
+  [
+    "Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment",
+    "/virtual/2025/oral/31778"
+  ],
+  [
+    "ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement",
+    "/virtual/2025/oral/31822"
+  ],
+  [
+    "CAX: Cellular Automata Accelerated in JAX",
+    "/virtual/2025/oral/31774"
+  ],
+  [
+    "Transformers Provably Solve Parity Efficiently with Chain of Thought",
+    "/virtual/2025/oral/31777"
+  ],
+  [
+    "Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates",
+    "/virtual/2025/oral/31758"
+  ],
+  [
+    "Brain Bandit: A Biologically Grounded Neural Network for Efficient Control of Exploration",
+    "/virtual/2025/oral/31847"
+  ],
+  [
+    "When Selection Meets Intervention: Additional Complexities in Causal Discovery",
+    "/virtual/2025/oral/31736"
+  ],
+  [
+    "Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models",
+    "/virtual/2025/oral/31779"
+  ],
+  [
+    "When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers",
+    "/virtual/2025/oral/31743"
+  ],
+  [
+    "Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective",
+    "/virtual/2025/oral/31751"
+  ],
+  [
+    "Faster Cascades via Speculative Decoding",
+    "/virtual/2025/oral/31741"
+  ],
+  [
+    "Computationally Efficient RL under Linear Bellman Completeness for Deterministic Dynamics",
+    "/virtual/2025/oral/31796"
+  ],
+  [
+    "CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation",
+    "/virtual/2025/oral/32123"
+  ],
+  [
+    "Tractable Multi-Agent Reinforcement Learning through Behavioral Economics",
+    "/virtual/2025/oral/31759"
+  ],
+  [
+    "Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks",
+    "/virtual/2025/oral/31745"
+  ],
+  [
+    "Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency",
+    "/virtual/2025/oral/32122"
+  ],
+  [
+    "Learning Dynamics of LLM Finetuning",
+    "/virtual/2025/oral/31755"
+  ],
+  [
+    "Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo",
+    "/virtual/2025/oral/31732"
+  ],
+  [
+    "Progressive distillation induces an implicit curriculum",
+    "/virtual/2025/oral/31738"
+  ]
+]

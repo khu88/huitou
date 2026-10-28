@@ -1,0 +1,33 @@
+.svc-page{max-width:1180px;margin:0 auto;min-width:0}
+.svc-contact{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);align-items:center;gap:36px;padding:34px;margin-bottom:32px}
+.svc-kicker{font-size:.66rem;letter-spacing:1.5px;font-weight:650;color:var(--primary);line-height:1.6}
+.svc-contact h2{font-size:1.8rem;margin:12px 0;line-height:1.5}
+.svc-contact-copy>p{color:var(--muted);line-height:1.9;margin:0}
+.svc-email-card{background:var(--surface-alt);border:1px solid var(--line);border-radius:12px;padding:24px;min-width:0}
+.svc-email-label{display:block;font-size:.78rem;color:var(--muted);margin-bottom:7px}
+.svc-email{font-size:1.25rem;line-height:1.6;font-weight:650;letter-spacing:-.2px;overflow-wrap:anywhere;color:var(--ink);text-decoration:none}
+.svc-email:hover{color:var(--primary)}
+.svc-email-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:20px}
+.svc-email-actions .primary-button,.svc-email-actions .outline-button{font-size:.85rem;min-height:40px}
+.svc-copy-status{font-size:.75rem!important;color:var(--muted);margin:13px 0 0!important;line-height:1.75!important}
+.svc-section-heading{display:flex;align-items:center;gap:16px;justify-content:space-between;margin:0 0 16px}
+.svc-section-heading h3{font-size:1.12rem;margin:0;font-weight:650}
+.svc-section-heading>span{font-size:.8rem;color:var(--muted)}
+.svc-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.svc-card{display:flex;flex-direction:column;min-width:0;padding:27px 29px;transition:border-color .2s,box-shadow .2s}
+.svc-card:hover{border-color:var(--primary);box-shadow:var(--shadow)}
+.svc-card-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:25px}
+.svc-icon{display:grid;place-items:center;width:46px;height:46px;border-radius:13px;background:var(--primary-soft);color:var(--primary);font-size:1.8rem;line-height:1}
+.svc-number{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.84rem;color:var(--faint)}
+.svc-card[data-service=paper] .svc-icon{background:var(--success-soft);color:var(--success)}
+.svc-card[data-service=account] .svc-icon{background:var(--amber-soft);color:var(--amber)}
+.svc-card[data-service=support] .svc-icon{background:var(--surface-alt);color:var(--ink);border:1px solid var(--line)}
+.svc-card h3{font-size:1.3rem;line-height:1.6;letter-spacing:-.2px;margin:8px 0 10px}
+.svc-card>p{font-size:.91rem;line-height:1.9;color:var(--muted);margin:0}
+.svc-tags{display:flex;flex-wrap:wrap;gap:7px;padding:0;margin:20px 0 23px;list-style:none}
+.svc-tags li{font-size:.74rem;color:var(--muted);background:var(--surface-alt);border:1px solid var(--line);border-radius:5px;padding:4px 8px;line-height:1.5}
+.svc-card-link{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-top:auto;padding-top:17px;border-top:1px solid var(--line);font-size:.86rem;font-weight:600;text-decoration:none}
+.svc-card-link>span{font-size:1.1rem}
+.svc-footnote{font-size:.8rem;line-height:1.8;color:var(--muted);margin:22px 0 0;text-align:center}
+@media(max-width:1050px){.svc-contact{grid-template-columns:1fr;gap:25px;padding:28px}.svc-contact-copy>p br{display:none}.svc-email-card{max-width:none}.svc-contact h2{font-size:1.65rem}.svc-card{padding:24px}.svc-card h3{font-size:1.15rem}}
+@media(max-width:680px){.svc-contact{padding:22px;gap:22px;margin-bottom:25px}.svc-contact h2{font-size:1.5rem}.svc-email-card{padding:19px}.svc-email{font-size:1.12rem}.svc-email-actions{gap:8px}.svc-email-actions .primary-button,.svc-email-actions .outline-button{font-size:.81rem;min-height:39px;padding:8px 10px}.svc-grid{grid-template-columns:1fr;gap:16px}.svc-card{padding:23px}.svc-card-top{margin-bottom:20px}.svc-section-heading{flex-wrap:wrap;gap:5px}.svc-section-heading>span{font-size:.76rem}.svc-card h3{font-size:1.16rem}.svc-kicker{font-size:.61rem;letter-spacing:1.1px}.svc-footnote{font-size:.76rem;text-align:left}}

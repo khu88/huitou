@@ -1,0 +1,2 @@
+# Preserve the official CSV snapshot byte-for-byte, including CRLF and its hash.
+research/sources/core-icore2026.csv -text whitespace=cr-at-eol
